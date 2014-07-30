@@ -6,23 +6,19 @@ subnav: catalog
 group: ordering
 ---
 
-<p>
-  <img src="{{ "/pics/visa.gif" | prepend: site.baseurl }}" width="60" height="38">
-  <img src="{{ "/pics/mastercard.gif" | prepend: site.baseurl }}" width="60" height="38">
-  <img src="{{ "/pics/paypal_logo.gif" | prepend: site.baseurl }}" width="60" height="38">
-</p>
-<p class="lead">
-  Before attempting to order, check our Blog to see if we are even around:
-  <br />
-  <a href="http://www.fishproductsblog.blogspot.com" target="_blank">http://fishproductsblog.blogspot.com/</a>
-</p>
+![Visa]({{ "/pics/visa.gif" | prepend: site.baseurl }})
+![Mastercard]({{ "/pics/mastercard.gif" | prepend: site.baseurl }})
+![PayPal]({{ "/pics/paypal_logo.gif" | prepend: site.baseurl }})
+
+Before attempting to order, [check our Blog](http://www.fishproductsblog.blogspot.com){: target="_blank"} to see if we are even around.
+{: .lead } 
 
 
 Ordering by mail:
 ---
 
 Print out our Order Form or just write down what you need and enclose a **U.S.P.S. POSTAL MONEYORDER** or your Credit Card information for the full amount. **NO CHECKS or random Money Orders.** CA residents or any order being shipped to an address in California must add 7.75% sales tax. Include a phone number in case we need to contact you about your order. Be sure to write very clearly fer we is kinda dumb.
-**Print out our <a href="orderform.pdf" target="_blank">PDF version</a> of the order form for best faxing results**.
+**Print out our [PDF version]({{ "/files/orderform.pdf" | prepend: site.baseurl }}){: target="_blank"} of the order form for best faxing results**.
 
 
 Phone Orders / Fax Orders / Email Orders:
@@ -37,7 +33,7 @@ Payment options:
 
 You can use a Visa or Mastercard to pay for your order. We do not accept American Express. We accept PayPal payments via your credit card or PayPal Account. If you are familiar with this process you can use it for any purchase at Fish Products, not just our Ebay auctions. Our email address for sending us a PayPal payment is: **PayPal@FishProducts.com**.
 
-A link to our PayPal payment page is located at the bottom of the <a href="orderform.html" target="_blank">Order Form</a>. If you use a credit card or debit card for your purchase and it is declined, it will be treated like a bad check, and a $20.00 fine will be added to your total. Be fiscally responsible... nothing pisses us off more than a guy who makes us bust our hump to get him the gear, and then drags his feet when it is time to pay up. Don't let it happen. We will remember, and your shopping experience at Fish will forever be tarnished. Huh Bobby?
+A link to our PayPal payment page is located at the bottom of the [order form]({{ "/catalog/orderform/" | prepend: site.baseurl }}). If you use a credit card or debit card for your purchase and it is declined, it will be treated like a bad check, and a $20.00 fine will be added to your total. Be fiscally responsible... nothing pisses us off more than a guy who makes us bust our hump to get him the gear, and then drags his feet when it is time to pay up. Don't let it happen. We will remember, and your shopping experience at Fish will forever be tarnished. Huh Bobby?
 
 
 Will Call / Pick Up:
@@ -69,7 +65,7 @@ Back orders:
 
 Sometimes an item you order will be out of stock or backordered. If this happens, and we can not ship your entire order within a reasonable amount of time, we will notify you of the delay. To reduce the chance of any shipping delay of your order, include second color choices or any other options that will streamline your order. Be sure to put a &quot;drop dead date&quot; on the order form. This is the day you absolutely need to have the gear or your whole vacation is ruined. If you have a firm deadline we will bust our ass to meet it. We know how it is to leave on a trip without a much needed piece of gear ... it sucks! Be sure to read the ordering tips below:
 
-<img src="{{ "/pics/union_jack.jpg" | prepend: site.baseurl }}" width="71" height="35"> International orders <small>(especially you british guys and gals...)</small>
+![International]({{ "/pics/union_jack.jpg" | prepend: site.baseurl }}){: width="71" } International orders <small>(especially you british guys and gals...)</small>
 ---
 
 **If you are coming to the USA to climb, we can ship your order to your climbing destination here in the US. It is very common to ship International orders to Yosemite Valley or any other US climbing area.**
