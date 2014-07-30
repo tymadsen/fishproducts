@@ -61,3 +61,149 @@ footer {
     width: 50%; /* 6 columns */
   }
 }
+
+
+.nav-stacked.affix {
+  position: static;
+  top: 60px;
+}
+
+@media (min-width: 768px) {
+  .nav-stacked.affix {
+    width: 150px;
+  }
+}
+
+@media (min-width: 992px) {
+  .nav-stacked.affix {
+    position: fixed;
+    width: 205px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .nav-stacked.affix {
+    position: fixed;
+    width: 255px;
+  }
+}
+
+
+
+
+
+@import url('http://fonts.googleapis.com/css?family=Oswald:300,400:latin,latin-ext');
+
+.navbar-form input, .form-inline input {
+  width:auto;
+}
+
+body {
+  padding-top:50px;
+  color:#646464;
+  background-color:#efefef;
+}
+
+h1,h2,h3,.highlight,.navbar a,#masthead h4 {
+  font-family:'Oswald',arial narrow,sans-serif;
+}
+
+footer {
+  margin-top:40px;
+  padding-top:40px;
+  padding-bottom:40px;
+  background-color:#cecece;
+}
+
+
+#masthead {
+  min-height:199px;
+  background-color:#440000;
+  color:#ccaaaa;
+}
+
+#masthead h1 {
+  font-size: 55px;
+  line-height: 1;
+  color:#fffefe;
+  margin-top:50px;
+}
+
+#masthead .well {
+  margin-top:31px;
+  background-color:#661111;
+  border-color:#220000;
+  color:#ffefef;
+  min-height:127px;
+}
+
+#masthead + .container .page-header,
+#masthead + .container .page-header h1 {
+  margin-top: 0;
+}
+
+.top-spacer {
+  background-color:#ffffff;
+  height:40px;
+}
+
+a,a:hover {
+  color:#443322;
+  text-decoration:none;
+}
+
+.icon-bar {
+  background-color:#fff;
+}
+
+@media screen and (min-width: 768px) {
+  #masthead h1 {
+    font-size: 80px;
+  }
+}
+
+.navbar-bright {
+  background-color:#661111;
+  color:#fff;
+  margin-bottom: 0;
+  border-width: 0;
+}
+
+.navbar-bright a,
+.navbar-bright .navbar-brand,
+#masthead h4 {
+  color:#ddcccc;
+  font-size:14px;
+  text-transform: uppercase;
+  letter-spacing:.08em;
+}
+
+.navbar-bright li > a:hover,
+.navbar-bright li.active > a {
+  background-color:#440000;
+}
+
+.navbar-toggle {
+  color:#fff;
+  border-width:0;
+}
+
+.navbar-toggle:hover {
+  background-color:#440000;
+}
+
+.panel {
+  border-color:transparent;
+  border-radius:0;
+}
+
+.nav-pills > li > a:hover,
+.nav-pills > li > a:focus {
+  background-color:#eee8e8;
+}
+
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:hover,
+.nav-pills > li.active > a:focus {
+  background-color:#661111;
+}
