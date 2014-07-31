@@ -8,7 +8,8 @@ group: catalog
 
 <p class="lead">
 </p>
-    <div align="center">
+
+<div align="center">
 
     <p><b><font size="+2"><a href="http://www.fishproducts.com/pics/bubs_walt.jpg" target="_blank"><img src="{{ "/pics/bubs_waltTN.jpg" | prepend: site.baseurl }}" width="150" height="230" hspace="5" vspace="5" border="2"></a> 
             <a href="http://www.fishproducts.com/pics/horse_chute.jpg" target="_blank"><img src="{{ "/pics/horse_chuteTN.jpg" | prepend: site.baseurl }}" width="150" height="230" hspace="5" vspace="5" border="2"></a> 
