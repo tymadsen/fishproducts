@@ -7,15 +7,42 @@
 
   {% include navbar.html %}
 
+  <div id="masthead">  
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-2 col-sm-3">&nbsp;</div>
+        <div class="col-xs-8 col-sm-6 text-center">
+          <h1><img class="img-responsive" src="{{ "/images/fish_logo.png" | prepend: site.baseurl }}" /></h1>
+          <p class="lead">{{ site.description }}</p>
+        </div>
+        <div class="col-xs-2 col-sm-3">&nbsp;</div>
+      </div> 
+    </div><!-- /cont -->
+    
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="top-spacer"> </div>
+        </div>
+      </div> 
+    </div><!-- /cont -->
+  </div>
+
   <div class="container">
-    {% include header.html %}
+    <div class="row">
+      <div class="col-md-12">
+        <div class="panel">
+          <div class="panel-body">
+            {% include header.html %}
 
-    {{ content }}
+            {{ content }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 
-    <hr>
+  {% include footer.html %}
 
-    {% include footer.html %}
-
-  </div><!--/.container-->
   </body>
 </html>
