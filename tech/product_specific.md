@@ -13,17 +13,17 @@ to a popular Forum (like SuperTopo.com) and then the usual flames
 and arguments dilute the message. These are the boiled down entries,
 with most of the fluff removed.<font size="+1"><hr></font></b></center><p></p>
 
-<p><b><font size="+2"><img src="{{ "/pics/new_stuff.gif" | prepend: site.baseurl }}" width="81" height="20" align="MIDDLE" border="0" naturalsizeflag="3"> </font></b><a href="http://www.fishproducts.com/tech/daisy_death/daisy_death.html" target="_blank">Daisy Chain
+<p><b><font size="+2"><img src="{{ "/pics/new_stuff.gif" | prepend: site.baseurl }}" width="81" height="20" align="MIDDLE" border="0" naturalsizeflag="3"> </font></b><a href="{{ "/testing/daisy_death/" | prepend: site.baseurl }}" target="_blank">Daisy Chain
 Death Revisited: </a><br>
 Originally posted on SuperTopo.com. Pictures and text of how to
 NOT clip your daisy chain if you want to stay alive.</p>
 
-<p><b><font size="+2"><img src="{{ "/pics/new_stuff.gif" | prepend: site.baseurl }}" width="81" height="20" align="MIDDLE" border="0" naturalsizeflag="3"> </font></b><a href="http://www.fishproducts.com/tech/spectra_slings_test/spectra_slings_cord.html" target="_blank">Spectra
+<p><b><font size="+2"><img src="{{ "/pics/new_stuff.gif" | prepend: site.baseurl }}" width="81" height="20" align="MIDDLE" border="0" naturalsizeflag="3"> </font></b><a href="{{ "/testing/spectra_slings_cord/" | prepend: site.baseurl }}" target="_blank">Spectra
 Slings and Cord:</a><br>
 Test of some Mammut runners and cord that some of us probably
 have on our racks right now.</p>
 
-<p><b><font size="+2"><img src="{{ "/pics/new_stuff.gif" | prepend: site.baseurl }}" width="81" height="20" align="MIDDLE" border="0" naturalsizeflag="3"> </font></b><a href="http://www.fishproducts.com/tech/harness_test/harness_test.html" target="_blank">Petzl Caladris
+<p><b><font size="+2"><img src="{{ "/pics/new_stuff.gif" | prepend: site.baseurl }}" width="81" height="20" align="MIDDLE" border="0" naturalsizeflag="3"> </font></b><a href="{{ "/testing/harness_test/" | prepend: site.baseurl }}" target="_blank">Petzl Caladris
 Harness and Belay Loop:</a><br>
 Test of a used harness, belay loop and leg loops as used for rappel
 backups.</p>
