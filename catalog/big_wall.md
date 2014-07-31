@@ -40,161 +40,156 @@ group: catalog
 </p>
 
 
+<hr />
 
 
-<div class="panel panel-primary">
-  <div class="panel-body">
-    <h3>
-      DOUBLE GEAR SLING:
-      <a href="http://www.fishproducts.com/faqs/doublegsfaq.html" class="pull-right label label-default">
-          FAQ's
-      </a>
-    </h3>
-    <div class="media">
-      <a href="http://www.fishproducts.com/pics/dgs.jpeg" class="pull-left">
-        <img src="{{ "/pics/dgsTN.gif " | prepend: site.baseurl }}" class="media-object">
-      </a>
-      <div class="media-body">
-        <p>
-          Each side of the "Double Gear Sling" has two racking loops of rolled 1" tubular webbing for easy gear management. Exclusive clip off loops at the apex of the padded shoulder straps make racking at the anchor easier than ever. Just clip in the loops and the racks will hang in an oriented position for gear sorting. A replaceable, wide rear tie-in keeps the weight of the racks over the shoulders, rather than on the neck. The front attachment is of 1" tubular webbing and features a no-slip Fastex buckle for quick and secure adjustment. New features include a stay-open front clip on each shoulder for your aiders. One size fits just about everyone.
-        </p>
-        <p>
-          <span class="label label-primary label-lg">$49.00 ea.</span>
-          Random Colors
-        </p>
-      </div>
-    </div>
-
-    <br />
-
-    <div class="well">
-      <div class="row">
-        <div class="col-sm-6">
-          <p>
-            <img src="{{ "/pics/cactus.gif " | prepend: site.baseurl }}" width="30" class="pull-left">
-            <strong>D/G SLING TIP:</strong>
-            If the possibility of a monster ripper occurs, be sure to clip the racks into your swami. Wicked force generated in the fall could strip you of the rack when you hit the end of the cord, or an unforgiving ledge.
-          </p>
-        </div>
-        <div class="col-sm-6">
-          <p>
-            <img src="{{ "/pics/bonehead.gif " | prepend: site.baseurl }}" width="54" class="pull-left">
-            <strong>BONEHEAD TIP:</strong>
-            This gearsling is just that---a gearsling. Do not use our Double Gear Sling as a chest harness. If you try to use it as a chest harness, at least clip the front and rear loops together with locking biners. Hey, it's your chest.
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-<div class="panel panel-default">
-  <div class="panel-body">
-    <h3>
-      SMART AIDERS: 
-      <a href="http://www.fishproducts.com/faqs/aiderfaq.html" class="pull-right label label-default">
-          FAQ's
-      </a>
-    </h3>
-    <div class="media">
-      <a href="http://www.fishproducts.com/pics/aiders.jpg" class="pull-left">
-        <img src="{{ "/pics/aiders_tn.jpg" | prepend: site.baseurl }}" width="125" class="media-object">
-      </a>
-      <div class="pull-right">
-        <a href="http://www.fishproducts.com/pics/aider_step_detail.jpg" class="media-object">
-          <img src="{{ "/pics/aider_step_detail_tn.jpg" | prepend: site.baseurl }}" width="100">
-        </a>
-        <br />
-        <a href="http://www.fishproducts.com/pics/aider_grab_detail.jpg" class="media-object">
-          <img src="{{ "/pics/aider_grab_detail_tn.jpg" | prepend: site.baseurl }}" width="100">
-        </a>
-      </div>
-      <div class="media-body">
-        <p>
-          FISH Smart Aiders come with two 5-step aiders per pair. Each aider has a sub step sewn into the second step, where most of the action will take place. Unless you are on a slab, that kookie step in the top of other aiders will be virtually impossible to use. When you find yourself on the
-          steep stuff, the second step will be home 90% of the time. If you need
-          a little more height to reach an out of reach placement, step into the sub-second step on your FISH Aiders. Voila! The extra height---and that A7pitch---are in the bag. Nice job! Smart Aiders come in assorted colors and have step stiffeners sewn in to keep 'em open when you need 'em, and sport more bartacks than most third graders can count. We are now putting all the steps on the same side. try it, you'll like it!
-        </p>
-        <p>
-          <span class="label label-primary label-lg">$60.00 per pair</span>
-          or
-          <span class="label label-primary label-lg">$64.00 per pair</span>
-          with grab-loops sewn into the top
-        </p>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-<div class="panel panel-default">
-  <div class="panel-body">
-    <h3>ALPINE AIDERS:</h3>
+<h3>
+  DOUBLE GEAR SLING:
+  <a href="http://www.fishproducts.com/faqs/doublegsfaq.html" class="pull-right label label-default">
+      FAQ's
+  </a>
+</h3>
+<div class="media">
+  <a href="http://www.fishproducts.com/pics/dgs.jpeg" class="pull-left">
+    <img src="{{ "/pics/dgsTN.gif " | prepend: site.baseurl }}" class="media-object">
+  </a>
+  <div class="media-body">
     <p>
-      People kept asking us, " hey, why don't you guys make some lightweight aiders so I don't have to lug around a full size set for two moves of aid." Well this is what we came up with. Our Alpine Aiders feature all the magic of our regular Smart Aiders, but we used 3/4" webbing instead of 1" for lighter weight and easier packability. Since they are the only pair you will carry when going light and fast, we made them both 5-Step aiders for the pair. As always, tons of bartacks, step stiffeners, and a sub 2nd step.
+      Each side of the "Double Gear Sling" has two racking loops of rolled 1" tubular webbing for easy gear management. Exclusive clip off loops at the apex of the padded shoulder straps make racking at the anchor easier than ever. Just clip in the loops and the racks will hang in an oriented position for gear sorting. A replaceable, wide rear tie-in keeps the weight of the racks over the shoulders, rather than on the neck. The front attachment is of 1" tubular webbing and features a no-slip Fastex buckle for quick and secure adjustment. New features include a stay-open front clip on each shoulder for your aiders. One size fits just about everyone.
+    </p>
+    <p>
+      <span class="label label-primary label-lg">$49.00 ea.</span>
+      Random Colors
+    </p>
+  </div>
+</div>
+
+<br />
+
+<div class="well">
+  <div class="row">
+    <div class="col-sm-6">
+      <p>
+        <img src="{{ "/pics/cactus.gif " | prepend: site.baseurl }}" width="30" class="pull-left">
+        <strong>D/G SLING TIP:</strong>
+        If the possibility of a monster ripper occurs, be sure to clip the racks into your swami. Wicked force generated in the fall could strip you of the rack when you hit the end of the cord, or an unforgiving ledge.
+      </p>
+    </div>
+    <div class="col-sm-6">
+      <p>
+        <img src="{{ "/pics/bonehead.gif " | prepend: site.baseurl }}" width="54" class="pull-left">
+        <strong>BONEHEAD TIP:</strong>
+        This gearsling is just that---a gearsling. Do not use our Double Gear Sling as a chest harness. If you try to use it as a chest harness, at least clip the front and rear loops together with locking biners. Hey, it's your chest.
+      </p>
+    </div>
+  </div>
+</div>
+
+
+---
+
+
+<h3>
+  SMART AIDERS: 
+  <a href="http://www.fishproducts.com/faqs/aiderfaq.html" class="pull-right label label-default">
+      FAQ's
+  </a>
+</h3>
+<div class="media">
+  <a href="http://www.fishproducts.com/pics/aiders.jpg" class="pull-left">
+    <img src="{{ "/pics/aiders_tn.jpg" | prepend: site.baseurl }}" width="125" class="media-object">
+  </a>
+  <div class="pull-right">
+    <a href="http://www.fishproducts.com/pics/aider_step_detail.jpg" class="media-object">
+      <img src="{{ "/pics/aider_step_detail_tn.jpg" | prepend: site.baseurl }}" width="100">
+    </a>
+    <br />
+    <a href="http://www.fishproducts.com/pics/aider_grab_detail.jpg" class="media-object">
+      <img src="{{ "/pics/aider_grab_detail_tn.jpg" | prepend: site.baseurl }}" width="100">
+    </a>
+  </div>
+  <div class="media-body">
+    <p>
+      FISH Smart Aiders come with two 5-step aiders per pair. Each aider has a sub step sewn into the second step, where most of the action will take place. Unless you are on a slab, that kookie step in the top of other aiders will be virtually impossible to use. When you find yourself on the
+      steep stuff, the second step will be home 90% of the time. If you need
+      a little more height to reach an out of reach placement, step into the sub-second step on your FISH Aiders. Voila! The extra height---and that A7pitch---are in the bag. Nice job! Smart Aiders come in assorted colors and have step stiffeners sewn in to keep 'em open when you need 'em, and sport more bartacks than most third graders can count. We are now putting all the steps on the same side. try it, you'll like it!
     </p>
     <p>
       <span class="label label-primary label-lg">$60.00 per pair</span>
+      or
+      <span class="label label-primary label-lg">$64.00 per pair</span>
+      with grab-loops sewn into the top
     </p>
   </div>
 </div>
 
 
-<div class="panel panel-default">
-  <div class="panel-body">
-    <h3>
-      LADDER AIDERS:
-    </h3>
-    <div class="media">
-      <a href="http://www.fishproducts.com/pics/aiders.jpg" class="pull-left">
-        <img src="{{ "/pics/ladder_aider1.jpg" | prepend: site.baseurl }}" width="149" class="media-object">
-      </a>
-      <div class="media-body">
-        <p>
-          A new ladder style aider is now available. We decided to go with a 3/4" nylon webbing on these ladders to avoid the weight issue that is the downfall of other manufacturers "ladder style" aiders. Each ladder only weighs 9.5 ounces and is 76" in overall length. Features include a burly double thickness bottom step, a sub 2Step and a sub TopStep for maximum reach. A full strength grab loop completes the set up. Contrasting colors on the steps. Each pair is the same color scheme. Order two pairs and we will make sure you have two distinct color patterns. If you already own a set of Fish Smart Aiders, the steps on our new Ladder Aiders will match up with each step of the Smart Aiders. Random colors per pair.
-        </p>
-        <p>
-          We sell the Ladder Aiders only as a pair.
-          <span class="label label-primary label-lg">$70.00 per pair</span>
-        </p>
-        <p>
-          If you just can't live without 1" wide webbing steps,
-          <span class="label label-primary label-lg">add $7.00 per pair</span>
-          and we will make them up using 1" webbing instead of the 3/4" webbing for the body and the steps.
-        </p>
-      </div>
-    </div>
+---
+
+
+<h3>ALPINE AIDERS:</h3>
+<p>
+  People kept asking us, " hey, why don't you guys make some lightweight aiders so I don't have to lug around a full size set for two moves of aid." Well this is what we came up with. Our Alpine Aiders feature all the magic of our regular Smart Aiders, but we used 3/4" webbing instead of 1" for lighter weight and easier packability. Since they are the only pair you will carry when going light and fast, we made them both 5-Step aiders for the pair. As always, tons of bartacks, step stiffeners, and a sub 2nd step.
+</p>
+<p>
+  <span class="label label-primary label-lg">$60.00 per pair</span>
+</p>
+
+
+---
+
+
+<h3>
+  LADDER AIDERS:
+</h3>
+<div class="media">
+  <a href="http://www.fishproducts.com/pics/aiders.jpg" class="pull-left">
+    <img src="{{ "/pics/ladder_aider1.jpg" | prepend: site.baseurl }}" width="149" class="media-object">
+  </a>
+  <div class="media-body">
+    <p>
+      A new ladder style aider is now available. We decided to go with a 3/4" nylon webbing on these ladders to avoid the weight issue that is the downfall of other manufacturers "ladder style" aiders. Each ladder only weighs 9.5 ounces and is 76" in overall length. Features include a burly double thickness bottom step, a sub 2Step and a sub TopStep for maximum reach. A full strength grab loop completes the set up. Contrasting colors on the steps. Each pair is the same color scheme. Order two pairs and we will make sure you have two distinct color patterns. If you already own a set of Fish Smart Aiders, the steps on our new Ladder Aiders will match up with each step of the Smart Aiders. Random colors per pair.
+    </p>
+    <p>
+      We sell the Ladder Aiders only as a pair.
+      <span class="label label-primary label-lg">$70.00 per pair</span>
+    </p>
+    <p>
+      If you just can't live without 1" wide webbing steps,
+      <span class="label label-primary label-lg">add $7.00 per pair</span>
+      and we will make them up using 1" webbing instead of the 3/4" webbing for the body and the steps.
+    </p>
   </div>
 </div>
 
 
-<div class="panel panel-default">
-  <div class="panel-body">
-    <h3>
-      SUPER DAISY CHAIN:
-    </h3>
-    <div class="media">
-      <a href="http://www.fishproducts.com/pics/daisy.jpeg" class="pull-left">
-        <img src="{{ "/pics/daisyTN.jpeg" | prepend: site.baseurl }}" width="54" class="media-object">
-      </a>
-      <div class="media-body">
-        <p>
-          You are probably wondering why, "Super"? Well, this pup is close to six feet long, That means you can run a standard big wall tangle and still be able to clip pieces over your head. Now, ain't that super? Another good trick is to clip into the middle area of the Super Daisy and use each free end for your Jumars. If you think your not quite up to the "<strong>Super</strong>", try the "<strong>Not-so-Super</strong>" which is a modest 3.5 feet long. Both are made from 11/16th inch Super Tape webbing and are fully bartacked. The clip-in pockets are 4.5" apart and sport 3 bartacks per section.
-        </p>
-        <p>
-          Super Daisy
-          <span class="label label-primary label-lg">$19.00 each</span>
-        </p>
-        <p>
-          Not-So-Super Daisy
-          <span class="label label-primary label-lg">$16.00 each</span>
-        </p>
-      </div>
-    </div>
+---
+
+
+<h3>
+  SUPER DAISY CHAIN:
+</h3>
+<div class="media">
+  <a href="http://www.fishproducts.com/pics/daisy.jpeg" class="pull-left">
+    <img src="{{ "/pics/daisyTN.jpeg" | prepend: site.baseurl }}" width="54" class="media-object">
+  </a>
+  <div class="media-body">
+    <p>
+      You are probably wondering why, "Super"? Well, this pup is close to six feet long, That means you can run a standard big wall tangle and still be able to clip pieces over your head. Now, ain't that super? Another good trick is to clip into the middle area of the Super Daisy and use each free end for your Jumars. If you think your not quite up to the "<strong>Super</strong>", try the "<strong>Not-so-Super</strong>" which is a modest 3.5 feet long. Both are made from 11/16th inch Super Tape webbing and are fully bartacked. The clip-in pockets are 4.5" apart and sport 3 bartacks per section.
+    </p>
+    <p>
+      Super Daisy
+      <span class="label label-primary label-lg">$19.00 each</span>
+    </p>
+    <p>
+      Not-So-Super Daisy
+      <span class="label label-primary label-lg">$16.00 each</span>
+    </p>
   </div>
 </div>
 
+
+---
 
 
 <p align="right">
