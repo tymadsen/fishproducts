@@ -1,0 +1,118 @@
+---
+title: Portaledges
+heading: "Portaledges"
+layout: subnav
+nav: catalog
+group: catalog
+---
+
+<p class="lead">
+</p>
+ <div align="center">
+    <center>
+        <img src="{{ "/pics/jelwell2.jpg" | prepend: site.baseurl }}" width="576" height="432" hspace="12" vspace="12" border="2">
+        <a href="http://www.fishproducts.com/pics/ed_mesca.jpg" target="_blank">
+            <img src="{{ "/pics/ed_mescaTN.jpg" | prepend: site.baseurl }}" width="150" height="220" hspace="5" vspace="5" border="2">
+        </a>
+        <a href="{{ "/pics/native_bivy.jpeg" | prepend: site.baseurl }}" target="_blank">
+            <img src="{{ "/pics/native_bivy.jpeg" | prepend: site.baseurl }}" width="150" height="220" hspace="5" vspace="5" border="3">
+        </a>
+        <strong>
+            <font size="+1"><b> 
+              <a href="http://www.fishproducts.com/pics/zodiac_oli.jpg" target="_blank"><img src="{{ "/pics/zodiac_oliTN.jpg" | prepend: site.baseurl }}" width="150" height="220" hspace="5" vspace="5" border="2"></a> 
+              </b>
+            </font>
+        </strong>
+        </font>
+        </b>
+        </p>
+        <p>
+            <strong>
+                <font size="+1">HIS</font>
+            </strong>
+            <strong>
+                <font size="+1">TORY TIME......
+                </font>
+            </strong>
+            <font size="+1"></font>Portaledges have come a long way since the first models started to pop up on El Cap in the 70's. At first, a portaledge was such a velvet lined novelty compared to the standard hammock bivy, quality was a non-issue. The first models were made of aluminum, forced together with roll pins and plumbing parts. Rainflys were made of thinly coated lightweight nylon, the material of the day. Everyone who wall climbed aspired to own one. It soon was the norm to be on a portaledge rather than a hammock for any multi day event. Soon hammocks were obsolete. As things progressed, and people demanded more for their money, these portaledges were deemed obsolete too. Better and sturdier models would naturally replace those that had gone before. That is where the Fish Portaledge came in. In 1985 we upped the ante in the world of portaledges by machining the corners of our ledges from solid blocks of aluminum instead of going to the plumbing store for parts. At that same time we decided that aluminum is not the best material to use for the tubing, or frame of the ledge. We chose a tougher material, 4130 Cro-Moly, just as high-end bicycle manufacturers had done before us. Rainflys were previously made of an almost waterproof ripstop, so we bumped it to modern thickly coated waterproof fabrics, logging in at nearly twice as durable. We put the portaledge in its own hauling bag, instead of cramming it into the haul bag. All this and more, 20+ years ago. Since then we have continued to upgrade various parts of the system. We soon introduced the 5-Season fly, a burly rainfly almost twice as thick as its predecessor. Then came the Double Portaledge, and then our most copied innovation, an internally poled and supported rainfly. The comfort boost from this latest idea is huge. The cramped and dank confines that used to be portaledges in a storm has been given a breath of fresh air. FISH Portaledges are not only the lightest weight and easiest to set up and take down, but are the best value for your money, and feature a durability, innovation and quality the others can't match.</p>
+        <a href="http://www.fishproducts.com/faqs/ledgefaq.html" target="_blank">
+            <strong>
+                <img src="{{ "/pics/faqbar.jpeg" | prepend: site.baseurl }}" width="77" height="33" hspace="5" vspace="5" border="2" align="MIDDLE" naturalsizeflag="3">
+            </strong>
+        </a>
+        <strong>Click here for our Portaledge FAQ's</strong>
+    </center>
+    <p>
+        <img src="{{ "/pics/storm1.jpeg" | prepend: site.baseurl }}" align="LEFT" hspace="6" vspace="6" width="324" height="216" naturalsizeflag="3" border="2">
+        <strong>FIVE SEASON "BIG" SINGLE PORTALEDGE:</strong>
+        <br>This feature packed ledge is the best choice for any Big Wall hopeful. Our super stable ledge was designed around <a href="http://www.fishproducts.com/pics/corner.jpeg">machined 
+            6061 aluminum corner pieces</a> coupled with 4130 Cro-Moly tubing for strength. The suspension system is easy to adjust even when weighted and sports an easy to manage 12 adjustment buckles (1/2 metal, 1/2 Fastex) for strength and superior adjustablility. The six additional adjustment buckles we added down low allow you to fine tune your setup from inside your sleeping bag. Our suspension also features 6 sewn in daisy chains for personal gear management at the bivy, and one center hanging daisy for clipping in your stove, lantern, or wet socks. The bed on our ledges is fully taped 420 denier pack cloth, grommeted for condensation drainage, and is a roomy 40" wide and a full 6'5" long. The FISH 5-Season portaledge rainfly features: Double urethane coated fabric for maximum waterproofing, fully protected against wear with 18oz. Vinyl Coated Nylon on the wall side and on the front corners, numerous lash loops around the bottom edge to subdue fearsome updrafts and is internally poled with an expedition tough 7075 Easton aluminum wand for maximum room inside during storms. It even has a 12" diameter port hole for vapor management. For the true thrill seeker you can even do your business out of this hole (whatever that is). The larger overall size of our ledge and rainfly, compared to others, also gives you more internal room for yourself and any other items that must be inside during a storm. All FISH portaledges come with their own hauling bag made from a tough and durable material similar to that used in our haul bags. This setup is intended to be clipped under your haul bag which makes the ledge not only easier to get to at the end of the day, but also frees up some space in the seemingly always full haul bag. Included are easy to follow instructions that will have you setting this baby up in about one minute. At last, the torment has ended.
+        <br>
+        <strong>$899.00 ea.</strong>
+        <strong>Includes Portaledge, Rainfly, Hauling Bag, and Instructions</strong>
+    </p>
+    <p align="left">
+        <strong>DOUBLE WHAMMY PORTALEDGE</strong>
+        <br>
+        <img src="{{ "/pics/double.jpeg" | prepend: site.baseurl }}" align="RIGHT" hspace="6" vspace="6" width="288" height="236" naturalsizeflag="3" border="2">This ledge is a two person model based on the same construction methods and materials as our 5 Season Single Portaledge. The main bed features offset "Dual Dorsal" fins made from an extra tough 18oz. VCN, guaranteed to keep your fruity buddies off ya. Or you can lay the dorsal fins down flat for an extra roomy single ledge, or perhaps some boudouir snuggling with...... All of our "Double Whammy" ledges come with a 5 Season Rainfly as standard issue, featuring two 12" diameter port holes, lash loops around the bottom edge, internally poled with the expedition tough 7075 aluminum wand for maximum room inside during storms, and a beefy double urethane coated nylon body fabric. The suspension is an eight point affair, with an additional six adjusters down low for fine tuning your set-up. Heck, it even has two grommeted drain holes in the bed for bilge water management. All that has been left out on this ledges is the leaky zippers and extra high prices. You can find these items elsewhere. Dimensions: 6'5" x 43"
+        <br>
+        <b>$989.00 ea. Includes Portaledge, Rainfly, Hauling Bag, and Instructions 
+            </b>
+    </p>
+    <p align="right"><b><img src="{{ "/pics/new.gif" | prepend: site.baseurl }}" width="51" height="37" align="LEFT" border="0" naturalsizeflag="0"><a href="http://www.fishproducts.com/pics/superduty_corner.jpg" target="_blank"><img src="{{ "/pics/superdutyTN.jpg" | prepend: site.baseurl }}" width="200" height="164" hspace="5" vspace="5" border="2" align="right"></a>New! 
+            Double Whammy Portaledge, SuperDuty</b>
+        <br>The new SuperDuty Whammy features the DoomsDay™ Rainfly. This rainfly is so thick, so waterproof and so burly, it comes with its own small haul bag just to cart it around. The main features are the same as our regular 5 Season Fly, but the material is just unreal as far as strength and waterproofness. This would be the ledge and fly combination to have for those far flung death walls with hideous weather. For this SuperDuty model we have also beefed up the ledge portion of the deal. We have added wall protection on all 6 sides, extra daisy chains around the perimeter under the ledge, and a more robust 8 point adjustable suspension. With the added burliness the SuperDuty Whammy just what you need if you are planning on flagging your ledge instead of stowing it each day. Each SuperDuty is made to order, so order early on in your trip planning. <b>$1249.00 ea.</b>
+    </p>
+    <p align="left">
+        <img src="{{ "/pics/ons.gif" | prepend: site.baseurl }}" width="233" height="339" hspace="6" vspace="6" border="2" align="LEFT" naturalsizeflag="3"><b>ONE 
+            NIGHT STAND</b>.
+        <br>At last a guilt free way to have a one night stand and still love yourself in the morning. What you get is super stable ledge, made with the same tubing and machined corners as our full-sized ledges, just smaller. How much smaller? Well, the One Night Stand is 24" wide X 48" long. Just the right size to cover most humans from head to bend of the knee when fully reclined. "But what about my legs?" you ask. Don't fret, they go into a retractable foot section that is fully adjustable and roomy enough for
+        <a href="http://www.fishproducts.com/pics/onstimbo.jpeg">
+            <img src="{{ "/pics/onstimboTN.jpeg" | prepend: site.baseurl }}" align="RIGHT" vspace="5" hspace="5" width="72" height="123" naturalsizeflag="3" border="2">
+        </a>your size 12's and a 30 below sleeping bag. Sounds cool so far, but get this: The foot section can hang down to make the best rope bag any retentive wall climber has ever seen and is big enough to hold two ropes, maybe your jackets, some food, or the Ghetto blaster. When the foot bag is not being used, either roll it up and stow it under the ledge or use it as a pillow while lounging. Added luxuries include a super strong bed that is as burly as heavy weight VCN (similar to the stuff we make our haul bags from) but dig this: It's a lightweight mesh! What does this mean for you? Since you will be belaying on this bed all day, in the sun, we made it a nice light color (white-ish grey) and since it is a mesh, air can flow up and through the bed to keep you cool. And what if it rains? Well, since you brought your bivy sack, just lay down and let all the water drain quickly through the mesh. No laying in a "bathtub" hammock begging for a snorkel. We put full length daisy chains on the inside and outside rails for gear management and get this: The 4 point suspension quickly turns into a 6 point suspension so you and your hefty buddy can both sit down and rack gear or just share a splendid moment. The One Night Stand is made for rough handling and is not some delicate fluff apparatus. This item legitimately kicks ass. Comes complete with its own hauling bag made from our burly haul bag fabric. <b><br>
+            $369.00 ea. (Includes Portaledge, Hauling Bag, and Instructions) <b></b></b>
+    </p>
+    <p align="left"><b><a href="http://www.fishproducts.com/pics/econo.jpg" target="_blank"><img src="{{ "/pics/econoTN.jpg" | prepend: site.baseurl }}" width="150" height="200" hspace="5" vspace="5" align="right"></a>FISH 
+            ECONOLEDGE<br>
+            </b>At last, a budget alternative to a large dollar portaledge. Here is the scoop: The EconoLedge uses the EXACT same tubing and corner system as our regular ledges. This is your guarantee of durability and proved performance. The EconoLedge is the EXACT same size as our 5 Season Single Portaledge, which is probably the roomiest single on the market. The bed material is the EXACT same material we use on the One Night Stand. The suspension uses the EXACT same webbing and buckles as our regular ledges. Now, if it has all these features, why does it cost so little?
+        <br>Here's why:
+        <br>We do not "seamtape" the bed. Why? Because the bed material does not fray and seamtaping is a cosmetic and time consuming step.
+        <br>The suspension does not have numerous and convenient daisy chains. In fact it has 2, but due to the way the suspension works, you will also have the use of 6 "loops" that hang down from the clip in point.
+        <br>You do not get the "low down adjusters" on the suspension at bed level. You do get a 6 point adjusting system with ANCRA buckles.
+        <br>You do not get a rainfly. The bed material will drain water like a sieve, but you better bring a Bivy Sack or you will probably die in a storm. Ya hear that...? Yer gonna' DIE!
+        <br>You do not get the super burly fabric of our regular Hauling Bag. You do get a Hauling Bag along with the ledge in a lighter weight VCN fabric. This bag is actually pretty good, and only slightly lighter than our standard bags. If you really want the super burly model of hauling bag, you will need to add $20.00 to your order.
+        <br>We've had nothing but positive feedback on the EconoLedge from our testers and of course the EconoLedge carries our full lifetime warranty.
+        <b>$299.00 ea. Includes Portaledge, Hauling Bag, and Instructions<b></b></b>
+    </p>
+    <p>
+    </p>
+    <center>
+        <b><font size="+1">We normally do not sell the rainflys separately. 
+              They might be available to current FISH Ledge owners that need a 
+              replacement. Check our <a href="http://www.fishproducts.com/catalog/repairs.html" target="_top">Repairs</a> 
+              page for more info.</font></b> 
+    </center>
+    <p></p>
+    <p>
+    </p>
+    <center>
+        <a href="http://www.fishproducts.com/faqs/ledgefaq.html" target="_blank">
+            <strong>
+                <img src="{{ "/pics/faqbar.jpeg" | prepend: site.baseurl }}" width="77" height="33" hspace="5" vspace="5" border="2" align="MIDDLE" naturalsizeflag="3">
+            </strong>
+        </a>
+        <strong>Click here for our Portaledge FAQ's</strong>
+    </center>
+    <p></p>
+    <center>
+        <table border="1" width="418" cellspacing="2" cellpadding="0" height="140">
+            <tbody>
+                <tr>
+                    <td>
+                        <img src="{{ "/pics/cactus.gif" | prepend: site.baseurl }}" align="LEFT" width="30" height="53" naturalsizeflag="3">
+                        <strong>TIPS:</strong>If bad weather is certain, be sure to bring a bivy sack along to keep the condensation on the walls of your rainfly from getting you and your sleeping bag wet. Always seek out a steep place to hang your ledge and stay away from any runnels, for they can easily become raging torrents during a mild rain storm. Thoroughly inspect your ledge before every outing. Seam sealer can peel off over time, a cut might appear in the fly from unknown sources, or the shock cord in the ledge might need to be replaced. Find out what the problems are on the ground --- then fix them on the ground. It's hard to find a new shock cord half way up Mescalito. When using the fly on any of our ledges, be sure the rear lock downs are in place before putting your weight into the ledge. This way the fly is protected from any possible wear against the wall during set up. A general maintenance routine will ensure years of service from you ledge. Keep it 'sano!</td>
+                </tr>
+            </tbody>
+        </table>
+    </center>
+</div>

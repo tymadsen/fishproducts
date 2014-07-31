@@ -1,0 +1,73 @@
+---
+title: Repairs
+heading: "Repairs"
+layout: subnav
+nav: catalog
+group: catalog
+---
+
+<p class="lead">
+</p>
+
+<div align="center">
+    <center>
+        <a href="http://www.fishproducts.com/pics/friendpackage.jpeg" target="_self"><b><font size="+2"><img src="{{ "/pics/friendpackageTN.jpeg" | prepend: site.baseurl }}" width="144" height="113" align="BOTTOM" border="2" naturalsizeflag="3"></font></b></a>
+    </center>
+    <p></p>
+    <p><b><font color="#000000" size="+1">We have sorta stopped repairing 
+            trigger wires on cams. Sure, we still kinda do it, but it would be 
+            pretty boss if you only sent your cams in for repair along with an 
+            order for some of our other gear. Fixing these cams is a loss leader 
+            and a shipping nightmare. Repairing your cams and dropping them in 
+            the same box along with your new Atom Smasher would be way cooler.</font></b>
+    </p>
+    <p>
+    </p>
+    <center>
+        <font color="#000000"><b><font size="+1">Return shipping for cams:</font></b> 
+        </font>
+        <font color="#FF9900"></font>
+    </center>
+    <p></p>
+    <p>
+    </p>
+    <center>
+        <font color="#FF9900"><b><font color="#000000" size="+1">USPS or 
+              UPS Shipments will need to be insured at a rate of $2.00 additional 
+              per $100.00 of coverage. So if you want your cams to be insured 
+              for say $600.00, you will need to add $12.00 to the flat rate of 
+              $10.00 to make this happen. Your return shipping via USPS will be 
+              $22.00 total, for an insured shipment at the $600.00 level. INSURANCE 
+              IS UP TO YOU... YOU DO NOT NEED TO ADD IT TO YOUR SHIPMENT.</font></b>
+        </font>
+        <font color="#000000"><b><font size="+1"><br>
+              </font></b>
+        </font><b><font color="#ff0000" size="+1"> </font></b> 
+    </center>
+    <p></p>
+    <p>
+        <img src="{{ "/pics/oopsie.gif" | prepend: site.baseurl }}" align="LEFT" width="105" height="177" hspace="10" naturalsizeflag="3" border="2">
+        <strong>FRIEND/SLCD CABLE REPAIR:</strong>
+        <br>Replace frayed or worn cables now, before you lose some big money gear. Sorry, no trigger bar replacements, but we will be glad to look at bent ones and attempt a repair.
+        <strong>$4.00 per side, or $7.00 for both sides if we can do it.</strong>
+    </p>
+    <p>
+        <strong>FRIEND/SLCD SLINGS:</strong>
+        <br>Here's how to do it: Send us your webbing choice, 11" long and prethreaded into your Friends, and we'll lay eight bartacks into it. 1", 11/16" or 5/8" <b>nylon</b> webbing only.
+        <strong>$2.50 ea.</strong>If you want us to supply the webbing, we can do that in usually some random colors. If we supply the webbing the cost is
+        <b>$3.50 ea. </b>
+        <br clear="ALL">
+        <strong>PLASTI-DIP:</strong>
+        <br>This item is used to cover the handles on your pliers, but it does its best work protecting stitches on Haul Bags and the like. Plasti-Dip comes in a 14.5oz can, various colors and has hundreds of uses. One can will do about two Haul Bags.
+        <strong>$10.25 ea.</strong>
+    </p>
+    <p><b><strong>REPAIRS, UPGRADES, AND RETROFITS:</strong></b>
+        <br>If you have any FISH Product that needs repair, regardless of how it happened, send it to us. Most minor repairs will cost you little more than the price of shipping. Major repairs are done at reasonable prices. We can renew haul bag bottoms, collars, beef up worn components etc.on any product.</p>
+    <p><b>REPLACEMENT LEDGE HAUL BAGS:<br>
+            </b>Seems these bags take a beating for all ledges..... We sell replacement bags for TNF/A5 ledges and any others. You will probably need to send us some sizing info for your particular ledge. <b>$35.00 - $60.00 
+            ea.</b>
+    </p>
+    <p><b>REPLACEMENT RAIN FLYS FOR FISH LEDGES<br>
+            </b>First off, we really don't know what other ledges our flys will fit. Asking us if our Super Duty fly is going to fit a A5 prototype sold out the side door in 1993 will get you nowhere. Replacement flys for FISH ledges start at $399.00 and go up from there. The fly is a very big and expensive component of your ledge. Take care of it.</p>
+
+</div>
