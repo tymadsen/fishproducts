@@ -88,6 +88,15 @@ footer {
   }
 }
 
+.panel {
+  border-top-width: 1px;
+}
+
+.label-lg {
+  font-size: 100%;
+  padding: .1em .4em .2em;
+}
+
 
 
 
@@ -192,7 +201,7 @@ a,a:hover {
   background-color:#440000;
 }
 
-.panel {
+.panel-main {
   border-color:transparent;
   border-radius:0;
 }
