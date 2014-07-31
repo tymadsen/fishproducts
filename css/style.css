@@ -62,6 +62,10 @@ footer {
   }
 }
 
+.container-main {
+  padding-left: 0;
+  padding-right: 0;
+}
 
 .nav-stacked.affix {
   position: static;
@@ -69,6 +73,11 @@ footer {
 }
 
 @media (min-width: 768px) {
+  .container-main {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
   .nav-stacked.affix {
     width: 150px;
   }
