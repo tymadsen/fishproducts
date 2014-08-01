@@ -9,23 +9,23 @@ group: catalog
 <p>
   <div class="row">
     <div class="col-sm-3">
-      <a href="http://www.fishproducts.com/pics/bubs_walt.jpg" target="_blank">
-        <img src="{{ "/pics/bubs_waltTN.jpg" | prepend: site.baseurl }}" class="img-responsive">
+      <a href="http://www.fishproducts.com/pics/bubs_walt.jpg" target="_blank" class="thumbnail">
+        <img src="{{ "/pics/bubs_walt.jpg" | prepend: site.baseurl }}">
       </a>
     </div>
     <div class="col-sm-3">
-      <a href="http://www.fishproducts.com/pics/horse_chute.jpg" target="_blank">
-        <img src="{{ "/pics/horse_chuteTN.jpg" | prepend: site.baseurl }}" class="img-responsive">
+      <a href="http://www.fishproducts.com/pics/horse_chute.jpg" target="_blank" class="thumbnail">
+        <img src="{{ "/pics/horse_chute.jpg" | prepend: site.baseurl }}">
       </a>
     </div>
     <div class="col-sm-3">
-      <a href="http://www.fishproducts.com/pics/bwp_bismark.jpg" target="_blank">
-        <img src="{{ "/pics/bwp_bismarkTN.jpg" | prepend: site.baseurl }}" class="img-responsive">
+      <a href="http://www.fishproducts.com/pics/bwp_bismark.jpg" target="_blank" class="thumbnail">
+        <img src="{{ "/pics/bwp_bismark.jpg" | prepend: site.baseurl }}">
       </a>
     </div>
     <div class="col-sm-3">
-      <a href="http://www.fishproducts.com/pics/LF_bivy.jpg" target="_blank">
-        <img src="{{ "/pics/LF_bivyTN.jpg" | prepend: site.baseurl }}" class="img-responsive">
+      <a href="http://www.fishproducts.com/pics/LF_bivy.jpg" target="_blank" class="thumbnail">
+        <img src="{{ "/pics/LF_bivy.jpg" | prepend: site.baseurl }}">
       </a>
     </div>
   </div>
@@ -46,14 +46,17 @@ group: catalog
 <h3>
   DOUBLE GEAR SLING:
   <a href="http://www.fishproducts.com/faqs/doublegsfaq.html" class="pull-right label label-default">
-      FAQ's
+    FAQ's
   </a>
 </h3>
-<div class="media">
-  <a href="http://www.fishproducts.com/pics/dgs.jpeg" class="pull-left">
-    <img src="{{ "/pics/dgsTN.gif " | prepend: site.baseurl }}" class="media-object">
-  </a>
-  <div class="media-body">
+
+<div class="row">
+  <div class="col-sm-3">
+    <a href="http://www.fishproducts.com/pics/dgs.jpg" class="thumbnail">
+      <img src="{{ "/pics/dgs.jpg " | prepend: site.baseurl }}">
+    </a>
+  </div>
+  <div class="col-sm-9">
     <p>
       Each side of the "Double Gear Sling" has two racking loops of rolled 1" tubular webbing for easy gear management. Exclusive clip off loops at the apex of the padded shoulder straps make racking at the anchor easier than ever. Just clip in the loops and the racks will hang in an oriented position for gear sorting. A replaceable, wide rear tie-in keeps the weight of the racks over the shoulders, rather than on the neck. The front attachment is of 1" tubular webbing and features a no-slip Fastex buckle for quick and secure adjustment. New features include a stay-open front clip on each shoulder for your aiders. One size fits just about everyone.
     </p>
@@ -92,23 +95,16 @@ group: catalog
 <h3>
   SMART AIDERS: 
   <a href="http://www.fishproducts.com/faqs/aiderfaq.html" class="pull-right label label-default">
-      FAQ's
+    FAQ's
   </a>
 </h3>
-<div class="media">
-  <a href="http://www.fishproducts.com/pics/aiders.jpg" class="pull-left">
-    <img src="{{ "/pics/aiders_tn.jpg" | prepend: site.baseurl }}" width="125" class="media-object">
-  </a>
-  <div class="pull-right">
-    <a href="http://www.fishproducts.com/pics/aider_step_detail.jpg" class="media-object">
-      <img src="{{ "/pics/aider_step_detail_tn.jpg" | prepend: site.baseurl }}" width="100">
-    </a>
-    <br />
-    <a href="http://www.fishproducts.com/pics/aider_grab_detail.jpg" class="media-object">
-      <img src="{{ "/pics/aider_grab_detail_tn.jpg" | prepend: site.baseurl }}" width="100">
+<div class="row">
+  <div class="col-sm-3">
+    <a href="#" class="thumbnail">
+      <img src="{{ "/pics/aiders.jpg" | prepend: site.baseurl }}">
     </a>
   </div>
-  <div class="media-body">
+  <div class="col-sm-6">
     <p>
       FISH Smart Aiders come with two 5-step aiders per pair. Each aider has a sub step sewn into the second step, where most of the action will take place. Unless you are on a slab, that kookie step in the top of other aiders will be virtually impossible to use. When you find yourself on the
       steep stuff, the second step will be home 90% of the time. If you need
@@ -121,13 +117,27 @@ group: catalog
       with grab-loops sewn into the top
     </p>
   </div>
+  <div class="col-sm-3">
+    <a href="#" class="thumbnail">
+      <img src="{{ "/pics/aider_step_detail.jpg" | prepend: site.baseurl }}">
+    </a>
+    <br />
+    <a href="#" class="thumbnail">
+      <img src="{{ "/pics/aider_grab_detail.jpg" | prepend: site.baseurl }}">
+    </a>
+  </div>
 </div>
 
 
 ---
 
 
-<h3>ALPINE AIDERS:</h3>
+<h3>
+  ALPINE AIDERS:
+  <a href="http://www.fishproducts.com/faqs/aiderfaq.html" class="pull-right label label-default">
+    FAQ's
+  </a>
+</h3>
 <p>
   People kept asking us, " hey, why don't you guys make some lightweight aiders so I don't have to lug around a full size set for two moves of aid." Well this is what we came up with. Our Alpine Aiders feature all the magic of our regular Smart Aiders, but we used 3/4" webbing instead of 1" for lighter weight and easier packability. Since they are the only pair you will carry when going light and fast, we made them both 5-Step aiders for the pair. As always, tons of bartacks, step stiffeners, and a sub 2nd step.
 </p>
@@ -141,12 +151,17 @@ group: catalog
 
 <h3>
   LADDER AIDERS:
-</h3>
-<div class="media">
-  <a href="http://www.fishproducts.com/pics/aiders.jpg" class="pull-left">
-    <img src="{{ "/pics/ladder_aider1.jpg" | prepend: site.baseurl }}" width="149" class="media-object">
+  <a href="http://www.fishproducts.com/faqs/aiderfaq.html" class="pull-right label label-default">
+    FAQ's
   </a>
-  <div class="media-body">
+</h3>
+<div class="row">
+  <div class="col-sm-3">
+    <a href="#" class="thumbnail">
+      <img src="{{ "/pics/ladder_aider1.jpg" | prepend: site.baseurl }}">
+    </a>
+  </div>
+  <div class="col-sm-9">
     <p>
       A new ladder style aider is now available. We decided to go with a 3/4" nylon webbing on these ladders to avoid the weight issue that is the downfall of other manufacturers "ladder style" aiders. Each ladder only weighs 9.5 ounces and is 76" in overall length. Features include a burly double thickness bottom step, a sub 2Step and a sub TopStep for maximum reach. A full strength grab loop completes the set up. Contrasting colors on the steps. Each pair is the same color scheme. Order two pairs and we will make sure you have two distinct color patterns. If you already own a set of Fish Smart Aiders, the steps on our new Ladder Aiders will match up with each step of the Smart Aiders. Random colors per pair.
     </p>
@@ -168,12 +183,17 @@ group: catalog
 
 <h3>
   SUPER DAISY CHAIN:
-</h3>
-<div class="media">
-  <a href="http://www.fishproducts.com/pics/daisy.jpeg" class="pull-left">
-    <img src="{{ "/pics/daisyTN.jpeg" | prepend: site.baseurl }}" width="54" class="media-object">
+  <a href="http://www.fishproducts.com/faqs/daisyfaq.html" class="pull-right label label-default">
+    FAQ's
   </a>
-  <div class="media-body">
+</h3>
+<div class="row">
+  <div class="col-sm-3">
+    <a href="#" class="thumbnail">
+      <img src="{{ "/pics/daisy.jpg" | prepend: site.baseurl }}">
+    </a>
+  </div>
+  <div class="col-sm-9">
     <p>
       You are probably wondering why, "Super"? Well, this pup is close to six feet long, That means you can run a standard big wall tangle and still be able to clip pieces over your head. Now, ain't that super? Another good trick is to clip into the middle area of the Super Daisy and use each free end for your Jumars. If you think your not quite up to the "<strong>Super</strong>", try the "<strong>Not-so-Super</strong>" which is a modest 3.5 feet long. Both are made from 11/16th inch Super Tape webbing and are fully bartacked. The clip-in pockets are 4.5" apart and sport 3 bartacks per section.
     </p>
@@ -192,207 +212,278 @@ group: catalog
 ---
 
 
-<p align="right">
-    <strong>
-        <img src="{{ "/pics/adj_daisy_pr.jpg" | prepend: site.baseurl }}" width="344" height="267" hspace="6" vspace="6" border="2" align="right">ADJUSTABLE DAISY CHAINS</strong><b></b>
-    <br>Extra long and burly alternative to the "pocket style" daisy chain. This type of daisy chain makes getting adjusted for jugging a breeze... Speed climbers swear by them for ultra rapid adjustment and using a "winching" effect to get high on the piece. We use a big and burly Ancra buckle, coupled with our thick style "aider" webbing. Overall length is about 6 feet, including a 10" loop for girth hitching into your harness. One caveat: This style of daisy chain is NOT as strong as our regular sewn daisy chains, and will wear out much faster. The aggressive teeth on the buckle will fuzz out your webbing and in some cases make the daisy unsafe for use after minimal use (one wall? two walls? less?). Always tie into the main rope at short intervals while using this style of daisy chain, regardless of product condition or manufacturer. Speed and convenience costs..... since these daisy chains have a fast wear cycle, what we will do for you is when you decide the webbing is smoked, we will send you a new main strap with the 8" girthing loop that you can re-thread into the buckle for a minimal cost. Just ask. <b>$19.00 ea. Red, Blue or Random colors. <br>
-      Replacement webbing, $5.00. <br>
-      Buy an adjustable daisy chain and the replacement webbing at the same 
-      time for $23.00</b>
+<h3>
+  ADJUSTABLE DAISY CHAINS:
+  <a href="http://www.fishproducts.com/faqs/daisyfaq.html" class="pull-right label label-default">
+    FAQ's
+  </a>
+</h3>
+<div class="row">
+  <div class="col-sm-3">
+    <a href="#" class="thumbnail">
+      <img src="{{ "/pics/adj_daisy_pr.jpg" | prepend: site.baseurl }}">
+    </a>
+  </div>
+  <div class="col-sm-9">
+    <p>
+      Extra long and burly alternative to the "pocket style" daisy chain. This type of daisy chain makes getting adjusted for jugging a breeze... Speed climbers swear by them for ultra rapid adjustment and using a "winching" effect to get high on the piece. We use a big and burly Ancra buckle, coupled with our thick style "aider" webbing. Overall length is about 6 feet, including a 10" loop for girth hitching into your harness. One caveat: This style of daisy chain is NOT as strong as our regular sewn daisy chains, and will wear out much faster. The aggressive teeth on the buckle will fuzz out your webbing and in some cases make the daisy unsafe for use after minimal use (one wall? two walls? less?). Always tie into the main rope at short intervals while using this style of daisy chain, regardless of product condition or manufacturer. Speed and convenience costs..... since these daisy chains have a fast wear cycle, what we will do for you is when you decide the webbing is smoked, we will send you a new main strap with the 8" girthing loop that you can re-thread into the buckle for a minimal cost. Just ask.
+    </p>
+    <p>
+      <span class="label label-primary label-lg">$19.00 each</span>
+      Red, Blue or Random colors.
+    </p>
+    <p>
+      Replacement webbing
+      <span class="label label-primary label-lg">$5.00</span>
+    </p>
+    <p>
+      Buy an adjustable daisy chain and the replacement webbing at the same time for
+      <span class="label label-primary label-lg">$23.00</span>
+    </p>
+  </div>
+</div>
+<div class="well">
+  <img src="{{ "/pics/bonehead.gif " | prepend: site.baseurl }}" width="54" class="pull-left">
+  <strong>BONEHEAD TIP:</strong>
+  Never "cross clip" a pocket in a daisy chain. If the pocket stitches blow-out you are gone. Always clip so the pockets load in series, so if the pockets start to zipper under extreme load, the daisy chain will work like a sad "air-voyager." Sounds scary huh?
+</div>
+
+
+---
+
+
+<h3>
+  WALL BAGS:
+</h3>
+<div class="row">
+  <div class="col-sm-3">
+    <a href="#" class="thumbnail">
+      <img src="{{ "/pics/wallbags.gif" | prepend: site.baseurl }}">
+    </a>
+  </div>
+  <div class="col-sm-9">
+    <p>
+      Our Wall Bags reflect the wall climbers need for more than just a stuff sack. A 420 denier pack cloth body is coupled with a super tough "18oz. VCN" bottom to keep canned food and the like from poking through. The clip off loop is bomber on the side of overkill and is large enough to get a hand into even while wearing gloves. Three sizes, small &amp; medium for personal items, and large for food.
+    </p>
+    <p>
+      <strong>Sm</strong>: 6"x13"
+      <span class="label label-primary label-lg">$9.25</span>
+    </p>
+    <p>
+      <strong>Md</strong>: 8"x15"
+      <span class="label label-primary label-lg">$13.00</span>
+    </p>
+    <p>
+      <strong>Lg</strong>: 12"x19"
+      <span class="label label-primary label-lg">$17.00</span>
+    </p>
+  </div>
+</div>
+<div class="well">
+  <img src="{{ "/pics/cactus.gif " | prepend: site.baseurl }}" width="30" class="pull-left">
+  <strong>WALL BAG TIP:</strong>
+  The small bag can hold one complete dinner on a wall, including dessert. Reach into the haul bag, do a mystery draw, and there's your dinner. Plus if you drop it you only go hungry for that night, not a week.
+</div>
+
+
+---
+
+
+<h3>
+  BEEF BAGS:
+</h3>
+<div class="row">
+  <div class="col-sm-3">
+    <a href="#" class="thumbnail">
+      <img src="{{ "/pics/beefbags.jpg" | prepend: site.baseurl }}">
+    </a>
+  </div>
+  <div class="col-sm-9">
+    <p>
+      Pointy objects like bolt kits, headlamps, ice tools and the like make rubbish out of ordinary bags. Enter the Beefbag. The body features 18 oz. Vinyl Coated Nylon and has an easy closing draw collar top. The clip in loop is large enough to grab with gloves on, yet can be clipped in short if you need to keep the bag close to your body.
+    </p>
+    <p>
+      <strong>Sm</strong>: 5"x6"
+      <span class="label label-primary label-lg">$9.50</span>
+    </p>
+    <p>
+      <strong>Md</strong>: 6"x10"
+      <span class="label label-primary label-lg">$13.50</span>
+    </p>
+    <p>
+      <strong>Lg</strong>: 8"x15"
+      <span class="label label-primary label-lg">$16.50</span>
+    </p>
+  </div>
+</div>
+
+
+---
+
+
+<h3>
+  PEEK-A-BOO STUFFSACKS:
+</h3>
+<div class="row">
+  <div class="col-sm-3">
+    <a href="#" class="thumbnail">
+      <img src="{{ "/pics/peekstuff.jpg" | prepend: site.baseurl }}">
+    </a>
+  </div>
+  <div class="col-sm-9">
+    <p>
+      Same sizing as our Wall Bags but in the ONS Mesh fabric. Easy to see what's inside and lightweight. Has an 18 oz VCN bottom and a big grab loop. Great for keeping your undies aired out or storing some wet things after an outing down by the river. Also a nice home for your down sleeping bag to let it breathe after a sweaty toil filled night.
+    </p>
+    <p>
+      <strong>Sm</strong>: 6"x13"
+      <span class="label label-primary label-lg">$9.00</span>
+    </p>
+    <p>
+      <strong>Md</strong>: 8"x15"
+      <span class="label label-primary label-lg">$12.00</span>
+    </p>
+    <p>
+      <strong>Lg</strong>: 12"x19"
+      <span class="label label-primary label-lg">$16.00</span>
+    </p>
+  </div>
+</div>
+
+
+---
+
+
+<h3>
+  <span class="label label-warning">UPDATED</span> 9/16" SUPER TIE-OFF WEBBING:
+</h3>
+<p>
+  This 9/16" Tie-Off web is thin enough to thread through the eye of pitons easily or behind a truly dicey pin that is hanging out a mile. Don't mistake this with the lighter duty 1/2" Tie Off Webbing sold elsewhere. Our Super Tie Off web is 50% stronger than the 1/2" variety. Also note, this is not that thick 9/16" SuperTape webbing that is normally too thick to use as tieoffs. 50 feet per pack, natural color. A standard tie-off takes 2 feet. A loop of this tied with a water knot will break at about 2600lbs +/-.
 </p>
 <p>
+  <span class="label label-primary label-lg">$14.00</span> for 50 ft.
 </p>
-<center>
+
+
+---
+
+
+<h3>
+  1" TUBULAR WEBBING:
+</h3>
+<p>
+  Tie your own runners, bail out of a tree, set up a slackline, lash some swag down on your boat. Tons of uses. This is the 1" tubular nylon webbing to use. Assorted colors. Comes in 50 foot lengths. Need some longer? Email us.
+</p>
+<p>
+  <span class="label label-primary label-lg">$17.00</span> for 50 ft.
+</p>
+
+<div class="well">
+  <img src="{{ "/pics/cactus.gif " | prepend: site.baseurl }}" width="30" class="pull-left">
+  <strong>WEBBING TIP:</strong>
+  Remember that any edge that contacts this or any webbing will severely weaken the webbing under load. If during the process of tying off a pin or other object, the webbing gets nicked or frayed, you should try it again with fresh webbing, for you are now on a time bomb.
+</div>
+
+
+---
+
+
+<h3>
+  CHUM BUCKET: <small>Big Wall Rope Bag</small>
+</h3>
+<div class="row">
+  <div class="col-sm-3">
+    <a href="#" class="thumbnail">
+      <img src="{{ "/pics/bwnn/front.jpg" | prepend: site.baseurl }}">
+    </a>
+  </div>
+  <div class="col-sm-9">
     <p>
-        <a href="http://www.fishproducts.com/faqs/daisyfaq.html" target="_blank">
-            <strong>
-                <img src="{{ "/pics/faqbar.jpeg" | prepend: site.baseurl }}" width="77" height="33" hspace="5" vspace="5" border="2" align="MIDDLE" naturalsizeflag="3">
-            </strong>
-        </a>
-        <strong>Click here for our Daisy FAQ's</strong>
-        <strong>
-            <br>
-        </strong>
-    </p>
-    <center>
-        <table border="1" width="429" cellpadding="10" cellspacing="2">
-            <tbody>
-                <tr>
-                    <td>
-                        <img src="{{ "/pics/bonehead.gif " | prepend: site.baseurl }}" align="LEFT" width="54" height="64" naturalsizeflag="0">
-                        <strong>BONEHEAD TIP:</strong>Never "cross clip" a pocket in a daisy chain. If the pocket stitches blow-out you are gone. Always clip so the pockets load in series, so if the pockets start to zipper under extreme load, the daisy chain will work like a sad "air-voyager." Sounds scary huh?
-                    </td>
-                </tr>
-            </tbody>
-        </table>
-    </center>
-    <p align="left">
-        <a href="http://www.fishproducts.com/pics/wallbags.gif" target="_blank">
-            <img src="{{ "/pics/wallbagsTN.gif " | prepend: site.baseurl }}" align="LEFT" hspace="10" width="54" height="88" naturalsizeflag="3" border="2">
-        </a>
-        <strong>WALL BAGS:</strong>
-        <br>Our Wall Bags reflect the wall climbers need for more than just a stuff sack. A 420 denier pack cloth body is coupled with a super tough "18oz. VCN" bottom to keep canned food and the like from poking through. The clip off loop is bomber on the side of overkill and is large enough to get a hand into even while wearing gloves. Three sizes, small &amp; medium for personal items, and large for food.
-        <strong>
-            <br>Sm
-        </strong>, 6"x13" tall.
-        <strong>Med</strong>, 8"x15"
-        <strong>Lrg</strong>, 12"x19".
-        <strong>$9.25, $13.00, &amp; $17.00 ea.</strong>
+      This is a burly version of the tried and true Rope Bucket idea for keeping your rope organized at a anchor. Our Chum Bucket has improved on the common designs currently available. We have made the Chum Bucket large enough for todays modern long ropes, and it still has room to spare. The "stiffy" rim has no cable to kink, the clip in loops are extra long and have fast adjusters, the zipper is a burly #10 YKK with an super stout abrasion guard to hide the zipper pull when in use. We added two "real" haul loops so you can yard on the bag with no worries about losing your rope in a gear failure mishap. Additional features include a nice wide gusset for easy rope management, a "hot clip" loop on the gusset so you can always find the sharp end, and the easiest Over-the-Shoulder system ever. The bottom of the bag has an additional clip in loop on the inside for when you need to toss the bag on some hasty rappel.
     </p>
     <p>
+      This is also a great bag for local crag use and storing your rope. You can clip the adjusters right onto your harness as a belayer and feed rope right to the leader. Large enough to hold a set of draws, your shoes, harness and the lead line. Besides the one shoulder carry method, the Chum Bucket can be worn like a pack for longer approaches.
     </p>
-    <center>
-        <table border="1" width="429" cellpadding="10" cellspacing="2">
-            <tbody>
-                <tr>
-                    <td>
-                        <img src="{{ "/pics/cactus.gif " | prepend: site.baseurl }}" align="LEFT" width="30" height="53" naturalsizeflag="3">
-                        <strong>WALL BAG TIP:</strong>The small bag can hold one complete dinner on a wall, including dessert. Reach into the haul bag, do a mystery draw, and there's your dinner. Plus if you drop it you only go hungry for that night, not a week.</td>
-                </tr>
-            </tbody>
-        </table>
-    </center>
-    <p></p>
-    <p align="left">
-        <a href="http://www.fishproducts.com/pics/beefbags.jpeg" target="_blank">
-            <strong>
-                <img src="{{ "/pics/beefbagsTN.jpeg" | prepend: site.baseurl }}" width="87" height="108" hspace="12" vspace="12" border="2" align="LEFT" naturalsizeflag="3">
-            </strong>
-        </a>
-        <strong>BEEF BAGS:</strong>
-        <br>Pointy objects like bolt kits, headlamps, ice tools and the like make rubbish out of ordinary bags. Enter the Beefbag. The body features 18 oz. Vinyl Coated Nylon and has an easy closing draw collar top. Beefbag sizes: 5"x6" (
-        <strong>Sm</strong>), 6"x10" (
-        <strong>Med</strong>), 8"x15" (
-        <strong>Lrg</strong>). The clip in loop is large enough to grab with gloves on, yet can be clipped in short if you need to keep the bag close to your body.
-        <strong>
-            <br>$9.50, $13.50, &amp; $16.50 ea.</strong>
+    <p>
+      <span class="label label-primary label-lg">$65.00 each</span>
     </p>
-    <p align="RIGHT"><a href="http://www.fishproducts.com/pics/peekstuff.jpeg" target="_blank"><b><font size="+1"><img src="{{ "/pics/peekstuffTN.jpeg" | prepend: site.baseurl }}" width="72" height="98" hspace="12" vspace="12" border="2" align="RIGHT" naturalsizeflag="3"></font></b></a><b><font size="+1">Peek-A-Boo Stuffsacks<br>
-        </font></b>Same sizing as our Wall Bags but in the ONS Mesh fabric. Easy to see what's inside and lightweight. Has an 18 oz VCN bottom and a big grab loop. Great for keeping your undies aired out or storing some wet things after an outing down by the river. Also a nice home for your down sleeping bag to let it breathe after a sweaty toil filled night.
-        <br>
-        <b>$9.00, $12.00, $16.00</b>
-    </p>
-    <p align="left">
-        <strong>
-            <img src="{{ "/pics/updated2.gif " | prepend: site.baseurl }}" width="48" height="12" align="BOTTOM" border="0" naturalsizeflag="3">9/16" SUPER TIE-OFF WEBBING</strong>
-        <br>This 9/16" Tie-Off web is thin enough to thread through the eye of pitons easily or behind a truly dicey pin that is hanging out a mile. Don't mistake this with the lighter duty 1/2" Tie Off Webbing sold elsewhere. Our Super Tie Off web is 50% stronger than the 1/2" variety. Also note, this is not that thick 9/16" SuperTape webbing that is normally too thick to use as tieoffs. 50 feet per pack, natural color. A standard tieoff takes 2feet. A loop of this tied with a water knot will break at about 2600lbs +/-.
-        <strong>$14.00 ea.</strong>
-    </p>
-    <p align="left">
-        <strong>1" TUBULAR WEBBING:</strong>
-        <br>Tie your own runners, bail out of a tree, set up a slackline, lash some swag down on your boat. Tons of uses. This is the 1" tubular nylon webbing to use. Assorted colors. Comes in 50 foot lengths. Need some longer? Email us. <b>$17.00 for 50 ft.</b>
-    </p>
-    <center>
-        <p>
-        </p>
-        <center>
-            <table border="1" width="429" cellpadding="10" cellspacing="2">
-                <tbody>
-                    <tr>
-                        <td>
-                            <img src="{{ "/pics/cactus.gif " | prepend: site.baseurl }}" align="LEFT" width="30" height="53" naturalsizeflag="3">
-                            <strong>WEBBING TIP:</strong>Remember that any edge that contacts this or any webbing will severely weaken the webbing under load. If during the process of tying off a pin or other object, the webbing gets nicked or frayed, you should try it again with fresh webbing, for you are now on a time bomb.
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
-        </center>
-        <p>
-            <a href="http://www.fishproducts.com/pics/bwnn/front.jpg" target="_blank">
-                <img src="{{ "/pics/frontTN.jpg" | prepend: site.baseurl }}" width="72" height="72" hspace="12" vspace="12" border="2" align="LEFT" naturalsizeflag="3">
-            </a><b>CHUM 
-          BUCKET Big Wall Rope Bag<br>
-          </b>This is a burly version of the tried and true Rope Bucket idea for keeping your rope organized at a anchor. Our Chum Bucket has improved on the common designs currently available. We have made the Chum Bucket large enough for todays modern long ropes, and it still has room to spare. The "stiffy" rim has no cable to kink, the clip in loops are extra long and have fast adjusters, the zipper is a burly #10 YKK with an super stout abrasion guard to hide the zipper pull when in use. We added two "real" haul loops so you can yard on the bag with no worries about losing your rope in a gear failure mishap. Additional features include a nice wide gusset for easy rope management, a "hot clip" loop on the gusset so you can always find the sharp end, and the easiest Over-the-Shoulder system ever. The bottom of the bag has an additional clip in loop on the inside for when you need to toss the bag on some hasty rappel.
-            <br>This is also a great bag for local crag use and storing your rope. You can clip the adjusters right onto your harness as a belayer and feed rope right to the leader. Large enough to hold a set of draws, your shoes, harness and the lead line. Besides the one shoulder carry method, the Chum Bucket can be worn like a pack for longer approaches. <b>$65.00 ea.</b>
-        </p>
-        <center>
-            <table width="490" border="0" cellspacing="4" cellpadding="0" height="155">
-                <tbody>
-                    <tr>
-                        <td width="13%" valign="BOTTOM" align="CENTER">&nbsp;<b>In<br>
-                hauling<br>
-                mode</b>&nbsp;
-                            <br>
-                            <a href="http://www.fishproducts.com/pics/bwnn/haul_loops.jpg" target="_blank">
-                                <img src="{{ "/pics/haul_loopsTN.jpg" | prepend: site.baseurl }}" align="MIDDLE" border="2" width="31" height="72" naturalsizeflag="3">
-                            </a>
-                        </td>
-                        <td width="21%" valign="BOTTOM" align="CENTER">&nbsp;<b>Shoulder<br>
-                carry </b>
-                            <a href="http://www.fishproducts.com/pics/bwnn/shoulder_carry.jpg" target="_blank">
-                                <img src="{{ "/pics/shoulder_carryTN.jpg" | prepend: site.baseurl }}" align="BOTTOM" border="2" width="61" height="108" naturalsizeflag="3">
-                            </a>
-                        </td>
-                        <td width="20%" valign="BOTTOM" align="CENTER"><b>In <br>
-                use<br>
-                </b>
-                            <a href="http://www.fishproducts.com/pics/bwnn/in_use.jpg" target="_blank">
-                                <img src="{{ "/pics/in_useTN.jpg" | prepend: site.baseurl }}" align="MIDDLE" border="2" width="57" height="108" naturalsizeflag="3">
-                            </a>
-                        </td>
-                        <td width="21%" valign="BOTTOM" align="CENTER">&nbsp;<b>The 
-                <br>
-                Gusset<br>
-                </b>
-                            <a href="http://www.fishproducts.com/pics/bwnn/gusset.jpg" target="_blank">
-                                <img src="{{ "/pics/gussetTN.jpg" | prepend: site.baseurl }}" align="MIDDLE" border="2" width="62" height="108" naturalsizeflag="3">
-                            </a>
-                        </td>
-                        <td width="22%" valign="BOTTOM" align="CENTER">&nbsp;<b>Zipper 
-                pull<br>
-                guard<br>
-                </b>
-                            <a href="http://www.fishproducts.com/pics/bwnn/zipguard.jpg" target="_blank">
-                                <img src="{{ "/pics/zipguardTN.jpg" | prepend: site.baseurl }}" align="MIDDLE" border="2" width="67" height="72" naturalsizeflag="3">
-                            </a>
-                        </td>
-                        <td width="3%" valign="BOTTOM" align="CENTER">&nbsp;<b>Fast 
-                Carry<br>
-                set up</b>
-                            <a href="http://www.fishproducts.com/pics/bwnn/zip_carry_guard.jpg" target="_blank">
-                                <img src="{{ "/pics/zip_carry_guardTN.jpg" | prepend: site.baseurl }}" align="MIDDLE" border="2" width="77" height="108" naturalsizeflag="3">
-                            </a>
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
-        </center>
-        <p><b>SNAKE CHARMER Big Wall Rope Bag<br>
-          </b>For when it really counts, and your ropes need to feed properly, this is the ultimate unit. Big Wall soloists will rejoice with the ease of packing the rope and the uniform and tangleless deployment. Anyone stuck in a stiff upward hurricane on El Cap using this piece of equipment will be making sandwiches instead of doing a bad version of the Indian Rope Trick. Features include two grommets in the bottom to drain away water in storms. The last thing you need is a 96lbs of water in your rope bag when you rap back into the station. A "Ballast" strap on the bottom that you can clip some weight onto to keep the bag from flapping around in the wind when almost all the rope is deployed. Four internal "Hot Clips", two up high and two down inside on the bottom panel to tie your rope to and keep the ends separate and easy to locate. A stiff 2" webbing reinforced rim that goes all the way around the bag. A super burly divider to keep the ropes separated. A no frills yet fully functioning closure and bomber hauling set up that only needs a single biner to make it all happen. The clip in loops are designed to work with a single clip in point, a wide spread double clip in, or even three clips at the anchor. This bag is designed for "on the wall" use. It is not a casual "carry your rope around bag". It thrives up on a wall, not at the base of the local hummock. There are no shoulder straps, padded gizmos, or fluff apparatus to interfere with its sole function: Big Wall Rope Management. The back panel is made from a burly 600x300 fabric that wraps around the full bottom and rear corners to fight abrasion. The main bags are made from 420D Pack Cloth which is no slouch by itself. All the loops and add-ons sport numerous bartacks and are bomber to overkill for the application. This is a "no worries" bag.
-            <font size="+1">
-                <b>$54.00</b>
-            </font>
-        </p>
-        <center>
-            <table width="525" border="0" cellspacing="3" cellpadding="0">
-                <tbody>
-                    <tr>
-                        <td width="25%" valign="BOTTOM" align="CENTER">&nbsp;<b>Ready 
-                To Eat Ropes</b>
-                            <a href="http://www.fishproducts.com/pics/bwnn2x/2xfront.jpg" target="_blank">
-                                <img src="{{ "/pics/2xfrontTN.jpg" | prepend: site.baseurl }}" width="137" height="108" align="BOTTOM" border="2" naturalsizeflag="3">
-                            </a>
-                        </td>
-                        <td width="25%" align="CENTER" valign="BOTTOM">&nbsp;<b>Feeding 
-                Two Ropes</b> 
-                            <a href="http://www.fishproducts.com/pics/bwnn2x/2xropes.jpg" target="_blank">
-                                <img src="{{ "/pics/2xropesTN.jpg" | prepend: site.baseurl }}" width="124" height="108" border="2" align="BOTTOM" ismap="" naturalsizeflag="3">
-                            </a>
-                        </td>
-                        <td width="25%" valign="BOTTOM" align="CENTER">&nbsp;<b>Single 
-                Clip Mode</b>
-                            <a href="http://www.fishproducts.com/pics/bwnn2x/2xsingle.jpg" target="_blank">
-                                <img src="{{ "/pics/2xsingleTN.jpg" | prepend: site.baseurl }}" width="89" height="108" align="BOTTOM" border="2" naturalsizeflag="3">
-                            </a>
-                        </td>
-                        <td width="25%" valign="BOTTOM" align="CENTER">&nbsp;<b>In Hauling 
-                Mode</b>
-                            <a href="http://www.fishproducts.com/pics/bwnn2x/2xhaul.jpg" target="_blank">
-                                <img src="{{ "/pics/2xhaulTN.jpg" | prepend: site.baseurl }}" width="76" height="108" align="BOTTOM" border="2" naturalsizeflag="3">
-                            </a>
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
-        </center>
-    </center>
+    <br />
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm-3 col-xs-6">
+    <a href="#" class="thumbnail">
+      <img src="{{ "/pics/bwnn/haul_loops.jpg" | prepend: site.baseurl }}">
+      <div class="caption">In hauling mode</div>
+    </a>
+  </div>
+  <div class="col-sm-3 col-xs-6">
+    <a href="#" class="thumbnail">
+      <img src="{{ "/pics/bwnn/in_use.jpg" | prepend: site.baseurl }}">
+      <div class="caption">In use</div>
+    </a>
+  </div>
+  <div class="clearfix visible-xs-block"></div>
+  <div class="col-sm-3 col-xs-6">
+    <a href="#" class="thumbnail">
+      <img src="{{ "/pics/bwnn/shoulder_carry.jpg" | prepend: site.baseurl }}">
+      <div class="caption">Shoulder carry</div>
+    </a>
+    <a href="#" class="thumbnail">
+      <img src="{{ "/pics/bwnn/zip_carry_guard.jpg" | prepend: site.baseurl }}">
+      <div class="caption">Fast carry set up</div>
+    </a>
+  </div>
+  <div class="col-sm-3 col-xs-6">
+    <a href="#" class="thumbnail">
+      <img src="{{ "/pics/bwnn/gusset.jpg" | prepend: site.baseurl }}">
+      <div class="caption">The gusset</div>
+    </a>
+    <a href="#" class="thumbnail">
+      <img src="{{ "/pics/bwnn/zipguard.jpg" | prepend: site.baseurl }}">
+      <div class="caption">Zipper pull guard</div>
+    </a>
+  </div>
+</div>
+
+
+---
+
+
+<h3>
+  SNAKE CHARMER: <small>Big Wall Rope Bag</small>
+</h3>
+<p>
+  For when it really counts, and your ropes need to feed properly, this is the ultimate unit. Big Wall soloists will rejoice with the ease of packing the rope and the uniform and tangleless deployment. Anyone stuck in a stiff upward hurricane on El Cap using this piece of equipment will be making sandwiches instead of doing a bad version of the Indian Rope Trick. Features include two grommets in the bottom to drain away water in storms. The last thing you need is a 96lbs of water in your rope bag when you rap back into the station. A "Ballast" strap on the bottom that you can clip some weight onto to keep the bag from flapping around in the wind when almost all the rope is deployed. Four internal "Hot Clips", two up high and two down inside on the bottom panel to tie your rope to and keep the ends separate and easy to locate. A stiff 2" webbing reinforced rim that goes all the way around the bag. A super burly divider to keep the ropes separated. A no frills yet fully functioning closure and bomber hauling set up that only needs a single biner to make it all happen. The clip in loops are designed to work with a single clip in point, a wide spread double clip in, or even three clips at the anchor. This bag is designed for "on the wall" use. It is not a casual "carry your rope around bag". It thrives up on a wall, not at the base of the local hummock. There are no shoulder straps, padded gizmos, or fluff apparatus to interfere with its sole function: Big Wall Rope Management. The back panel is made from a burly 600x300 fabric that wraps around the full bottom and rear corners to fight abrasion. The main bags are made from 420D Pack Cloth which is no slouch by itself. All the loops and add-ons sport numerous bartacks and are bomber to overkill for the application. This is a "no worries" bag.
+</p>
+<p>
+  <span class="label label-primary label-lg">$54.00 each</span>
+</p>
+<br />
+
+<div class="row">
+  <div class="col-sm-3 col-xs-6">
+    <a href="#" class="thumbnail">
+      <img src="{{ "/pics/bwnn2x/2xfront.jpg" | prepend: site.baseurl }}">
+      <div class="caption">Ready to eat ropes</div>
+    </a>
+  </div>
+  <div class="col-sm-3 col-xs-6">
+    <a href="#" class="thumbnail">
+      <img src="{{ "/pics/bwnn2x/2xropes.jpg" | prepend: site.baseurl }}">
+      <div class="caption">Feeding two ropes</div>
+    </a>
+  </div>
+  <div class="col-sm-3 col-xs-6">
+    <a href="#" class="thumbnail">
+      <img src="{{ "/pics/bwnn2x/2xsingle.jpg" | prepend: site.baseurl }}">
+      <div class="caption">Single clip mode</div>
+    </a>
+  </div>
+  <div class="col-sm-3 col-xs-6">
+    <a href="#" class="thumbnail">
+      <img src="{{ "/pics/bwnn2x/2xhaul.jpg" | prepend: site.baseurl }}">
+      <div class="caption">In hauling mode</div>
+    </a>
+  </div>
+</div>
+
