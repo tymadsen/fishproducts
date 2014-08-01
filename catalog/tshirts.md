@@ -20,7 +20,7 @@ group: catalog
             M, L, and XL $12.00 each.</b>
     </p>
     <p>
-        <a href="http://www.fishproducts.com/pics/PSYCHE_T_detail.jpg" target="_blank">
+        <a href="{{ "/pics/PSYCHE_T_detail.jpg" | prepend: site.baseurl }}" target="_blank">
             <img src="{{ "/pics/psyche_trans.gif" | prepend: site.baseurl }}" width="469" height="430" hspace="5" vspace="5" border="0">
         </a>
     </p>

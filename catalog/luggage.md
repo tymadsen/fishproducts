@@ -19,13 +19,13 @@ group: catalog
               all over the world, to big mountains, to jungles, to the laundry, 
               and returned unscathed.<br>
               </font></b>
-            <a href="http://www.fishproducts.com/pics/timbotest.jpeg">
+            <a href="{{ "/pics/timbotest.jpeg" | prepend: site.baseurl }}">
                 <img src="{{ "/pics/timbotestTN.jpeg" | prepend: site.baseurl }}" align="bottom" vspace="5" hspace="5" width="65" height="116" naturalsizeflag="3" border="2">
             </a>
-            <a href="http://www.fishproducts.com/pics/behemoth_k2.jpg" target="_blank">
+            <a href="{{ "/pics/behemoth_k2.jpg" | prepend: site.baseurl }}" target="_blank">
                 <img src="{{ "/pics/behemoth_k2TN.jpg" | prepend: site.baseurl }}" width="150" height="230" hspace="6" vspace="6" border="2" align="bottom">
             </a>
-            <a href="http://www.fishproducts.com/pics/swamishank.jpeg">
+            <a href="{{ "/pics/swamishank.jpeg" | prepend: site.baseurl }}">
                 <img src="{{ "/pics/swamishankTN.jpeg" | prepend: site.baseurl }}" align="bottom" hspace="5" vspace="5" width="79" height="99" naturalsizeflag="3" border="2">
             </a>
         </p>
@@ -34,7 +34,7 @@ group: catalog
     <div align="center">
         <p align="left">
             <strong>
-                <a href="http://www.fishproducts.com/pics/behemoth.jpg" target="_blank">
+                <a href="{{ "/pics/behemoth.jpg" | prepend: site.baseurl }}" target="_blank">
                     <img src="{{ "/pics/behemothTN.jpg" | prepend: site.baseurl }}" width="161" height="108" hspace="6" vspace="6" border="2" align="left" naturalsizeflag="3">
                 </a>BEHEMOTH BAG:
             </strong>
@@ -42,7 +42,7 @@ group: catalog
             <strong>$129.00 ea. Tan only.</strong>
         </p>
         <p align="left">
-            <a href="http://www.fishproducts.com/pics/behemothDlx.gif">
+            <a href="{{ "/pics/behemothDlx.gif" | prepend: site.baseurl }}">
                 <img src="{{ "/pics/behemothDlxTN.gif" | prepend: site.baseurl }}" width="72" height="109" hspace="6" vspace="6" border="2" align="LEFT" naturalsizeflag="3">
             </a>Ask for the
             <strong>DELUXE BEHEMOTH</strong>
@@ -52,17 +52,17 @@ group: catalog
         </p>
         <p align="center">
             <strong>
-                <a href="http://www.fishproducts.com/faqs/luggagefaq.html" target="_blank">
+                <a href="{{ "/faqs/luggagefaq.html" | prepend: site.baseurl }}" target="_blank">
                     <strong>
                         <img src="{{ "/pics/faqbar.jpeg" | prepend: site.baseurl }}" width="77" height="33" hspace="5" vspace="5" border="2" align="MIDDLE" naturalsizeflag="3">
                     </strong>
                 </a>C
-                <a href="http://www.fishproducts.com/faqs/luggagefaq.html" target="_blank"></a>
-                <a href="http://www.fishproducts.com/faqs/luggagefaq.html" target="_blank"></a>lick here for our Luggage FAQ's</strong>
+                <a href="{{ "/faqs/luggagefaq.html" | prepend: site.baseurl }}" target="_blank"></a>
+                <a href="{{ "/faqs/luggagefaq.html" | prepend: site.baseurl }}" target="_blank"></a>lick here for our Luggage FAQ's</strong>
         </p>
         <p align="left">
             <strong>
-                <a href="http://www.fishproducts.com/pics/texas_bloot.jpg" target="_blank">
+                <a href="{{ "/pics/texas_bloot.jpg" | prepend: site.baseurl }}" target="_blank">
                     <img src="{{ "/pics/texas_blootTN.jpg" | prepend: site.baseurl }}" width="175" height="232" hspace="6" vspace="6" border="2" align="right">
                 </a>TEXAS LUGGAGE:
             </strong>
@@ -101,7 +101,7 @@ group: catalog
         </p>
         <p>
             <strong>
-                <a href="http://www.fishproducts.com/pics/ProBags.gif">
+                <a href="{{ "/pics/ProBags.gif" | prepend: site.baseurl }}">
                     <img src="{{ "/pics/ProBagsTN.gif" | prepend: site.baseurl }}" width="127" height="106" hspace="6" vspace="6" border="2" align="LEFT" naturalsizeflag="3">
                 </a>MEDIUM JIM &amp; MINI PRO BAG:</strong>
             <br>Same style and construction methods as our "Pro Bag" but just a bit smaller. Perfect size for your boots and chalk bag, shower gear, cameras, or whatever. Same designs and colors as the above Pro Bag. Mini Pro; 8" diameter ends, 15" long.
@@ -109,14 +109,14 @@ group: catalog
             </strong>Medium Jim: Features an "elliptica kidney kinda' thang" instead of round ends. 16" long body with 9.5" X 13" panels.
             <strong>$39.00 ea. Available in Maroon or Yellow for the body fabric color and pick a pelt for the end panels.</strong>
         </p>
-        <p><a href="http://www.fishproducts.com/pics/peekluggage.jpeg" target="_self"><b><font size="+1"><img src="{{ "/pics/peekluggageTN.jpeg" | prepend: site.baseurl }}" width="108" height="81" hspace="6" vspace="6" border="2" align="right" naturalsizeflag="3"></font></b></a><b>Peek-A-Boo 
+        <p><a href="{{ "/pics/peekluggage.jpeg" | prepend: site.baseurl }}" target="_self"><b><font size="+1"><img src="{{ "/pics/peekluggageTN.jpeg" | prepend: site.baseurl }}" width="108" height="81" hspace="6" vspace="6" border="2" align="right" naturalsizeflag="3"></font></b></a><b>Peek-A-Boo 
               Luggage<font size="+1"><br>
               </font></b>Now available in all the standard luggage sizes up to the Texas. Lightweight and bomber ONS Mesh fabric with burly YKK zippers and VCN end panels. Great for the beach or river. The Pro Bag size is shown.
             <br>Mini Pro size <b>$23.00</b>, Pro size <b>$31.00</b>, Texas size
             <b>$65.00<br>
               Available in Black or White with random end panels</b>
         </p>
-        <p><a href="http://www.fishproducts.com/pics/peekstuff.jpeg" target="_self"><b><font size="+1"><img src="{{ "/pics/peekstuffTN.jpeg" | prepend: site.baseurl }}" width="72" height="98" hspace="6" vspace="6" border="2" align="right" naturalsizeflag="3"><br>
+        <p><a href="{{ "/pics/peekstuff.jpeg" | prepend: site.baseurl }}" target="_self"><b><font size="+1"><img src="{{ "/pics/peekstuffTN.jpeg" | prepend: site.baseurl }}" width="72" height="98" hspace="6" vspace="6" border="2" align="right" naturalsizeflag="3"><br>
               </font></b></a><b>Peek-A-Boo Stuffsacks<font size="+1"><br>
               </font></b>Same sizing as our Wall Bags but in the ONS Mesh fabric. Easy to see what's inside and lightweight. Has an 18 oz VCN bottom and a big grab loop. Great for keeping your undies aired out or storing some wet things after an outing down by the river. Also a nice home for your down sleeping bag to let it breathe after a sweaty toil filled night.
             <br>

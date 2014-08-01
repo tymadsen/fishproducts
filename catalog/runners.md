@@ -13,9 +13,9 @@ group: catalog
     </p>
     <center>
 
-        <p><a href="http://www.fishproducts.com/pics/jacksPF.jpeg" target="_self"><b><font size="+2"> </font></b></a><b><font size="+2"><a href="http://www.fishproducts.com/pics/tarts.jpg" target="_blank"><img src="{{ "/pics/tartsTN.jpg" | prepend: site.baseurl }}" width="150" height="230" hspace="5" vspace="5" border="2"></a> 
-              <a href="http://www.fishproducts.com/pics/e_tower.jpg" target="_blank"><img src="{{ "/pics/e_towerTN.jpg" | prepend: site.baseurl }}" width="150" height="230" hspace="5" vspace="5" border="2"></a> 
-              <a href="http://www.fishproducts.com/pics/redrock_ham.jpg" target="_blank"><img src="{{ "/pics/redrock_hamTN.jpg" | prepend: site.baseurl }}" width="150" height="232" hspace="5" vspace="5" border="2"></a></font></b>
+        <p><a href="{{ "/pics/jacksPF.jpeg" | prepend: site.baseurl }}" target="_self"><b><font size="+2"> </font></b></a><b><font size="+2"><a href="{{ "/pics/tarts.jpg" | prepend: site.baseurl }}" target="_blank"><img src="{{ "/pics/tartsTN.jpg" | prepend: site.baseurl }}" width="150" height="230" hspace="5" vspace="5" border="2"></a> 
+              <a href="{{ "/pics/e_tower.jpg" | prepend: site.baseurl }}" target="_blank"><img src="{{ "/pics/e_towerTN.jpg" | prepend: site.baseurl }}" width="150" height="230" hspace="5" vspace="5" border="2"></a> 
+              <a href="{{ "/pics/redrock_ham.jpg" | prepend: site.baseurl }}" target="_blank"><img src="{{ "/pics/redrock_hamTN.jpg" | prepend: site.baseurl }}" width="150" height="232" hspace="5" vspace="5" border="2"></a></font></b>
         </p>
         <p></p>
     </center>
@@ -44,7 +44,7 @@ group: catalog
     </p>
     <p>
         <strong>TWISTED RAGE CLIPS:</strong>
-        <a href="http://www.fishproducts.com/pics/quicks.jpeg">
+        <a href="{{ "/pics/quicks.jpeg" | prepend: site.baseurl }}">
             <img src="{{ "/pics/quicksTN.jpeg" | prepend: site.baseurl }}" align="RIGHT" ="" width="72" height="78" naturalsizeflag="3" border="2">
         </a>
         <br>This is the same style as the Rage Clip but features a full twist sewn into the loop. Having this twist in the sling makes the biner you are trying to clip hang oriented, that is with the gate facing out, when clipped through a bolt. This feature comes in real handy on the overhanging desperates, where every second counts, and a missed clip could mean a run in your Lycra.
@@ -65,7 +65,7 @@ group: catalog
             </tbody>
         </table>
     </center>
-    <p align="left"><b><font size="+1"><a href="http://www.fishproducts.com/pics/fisholet.jpeg" target="_self"><b><font size="+1"><img src="{{ "/pics/fisholetTN.jpeg" | prepend: site.baseurl }}" width="58" height="180" hspace="6" vspace="6" border="2" align="left" naturalsizeflag="3"></font></b>
+    <p align="left"><b><font size="+1"><a href="{{ "/pics/fisholet.jpeg" | prepend: site.baseurl }}" target="_self"><b><font size="+1"><img src="{{ "/pics/fisholetTN.jpeg" | prepend: site.baseurl }}" width="58" height="180" hspace="6" vspace="6" border="2" align="left" naturalsizeflag="3"></font></b>
         </a>Fish-O-Let Anchor
         </font>
         </b>
@@ -100,9 +100,8 @@ group: catalog
         <img src="{{ "/pics/grain.jpeg" | prepend: site.baseurl }}" width="216" height="73" align="RIGHT" border="2" naturalsizeflag="3">The Grain Tamer is an edge protector that secures itself around the rope used in a toprope anchor. This little device reduces the chance of not only rope wear, but heads popping off due to rope failure. The business section of the Grain Tamer is the same White Vinyl we use on our haul bags, but double thickness. Each edge has a Velcro strip to secure the guard around your rope as if it was the filling in a
         <em>Taquito</em>. To keep the Tamer in place, each end has a Fastex clip attached to a prussik. Simply loop the prussik around your cord and clip it to the Tamer, no slips, no mistakes, and more importantly, no escaped heads. The Grain Tamer is big enough to use around 11mm ropes, including the knot. Overall length runs about 24". This is a must have item in every topropers arsenal.
         <strong>$29.00 ea.</strong>
-        <a href="http://www.fishproducts.com/catalog/order.html" target="_self">
-            <br clear="ALL">
-        </a>
+        <br>
+        <a href="{{ "/catalog/ordering_info" | prepend: site.baseurl }}" target="_self">Ordering Info</a>
     </p>
 
 </div>

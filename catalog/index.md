@@ -34,7 +34,7 @@ group: catalog
 <p>
   We do not have one of those swanky shopping 
   cart things to land all your impulse buys into. But here is an easy 
-  way to keep track of all your purchases... click on the <a href="catalog/orderform.html">Order 
+  way to keep track of all your purchases... click on the <a href="{{ "/catalog/orderform" | prepend: site.baseurl }}">Order 
   Form</a> link and an order form will appear in a separate window. 
   Lob your goods into the form and then check out when you are done. 
   Inelegant, yes. Adequate? For sure...

@@ -15,13 +15,13 @@ group: catalog
     <center>
 
         <p>
-            <a href="http://www.fishproducts.com/pics/gunsmoke.jpg" target="_blank">
+            <a href="{{ "/pics/gunsmoke.jpg" | prepend: site.baseurl }}" target="_blank">
                 <img src="{{ "/pics/gunsmokeTN.jpg" | prepend: site.baseurl }}" width="130" height="200" hspace="5" vspace="5" border="2">
             </a>
-            <a href="http://www.fishproducts.com/pics/obscured.jpg" target="_blank">
+            <a href="{{ "/pics/obscured.jpg" | prepend: site.baseurl }}" target="_blank">
                 <img src="{{ "/pics/obscuredTN.jpg" | prepend: site.baseurl }}" width="200" height="122" hspace="5" vspace="5" border="2">
             </a>
-            <a href="http://www.fishproducts.com/pics/deadmans.jpg" target="_blank">
+            <a href="{{ "/pics/deadmans.jpg" | prepend: site.baseurl }}" target="_blank">
                 <img src="{{ "/pics/deadmansTN.jpg" | prepend: site.baseurl }}" width="148" height="200" hspace="5" vspace="5" border="2">
             </a>
         </p>
@@ -60,7 +60,7 @@ group: catalog
         <strong>$3.00 each</strong>
     </p>
     <p align="left">
-        <a href="http://www.fishproducts.com/pics/cbags.jpeg" target="_self">
+        <a href="{{ "/pics/cbags.jpeg" | prepend: site.baseurl }}" target="_self">
             <img src="{{ "/pics/cbagsTN.gif" | prepend: site.baseurl }}" width="72" height="85" hspace="6" vspace="6" border="2" align="LEFT" naturalsizeflag="3">
         </a>
         <strong>
@@ -82,7 +82,7 @@ group: catalog
     <p>
     </p>
     <center>
-        <a href="http://www.fishproducts.com/faqs/chalkbagfaq.html" target="_blank">
+        <a href="{{ "/faqs/chalkbags" | prepend: site.baseurl }}" target="_blank">
             <strong>
                 <img src="{{ "/pics/faqbar.jpeg" | prepend: site.baseurl }}" width="77" height="33" hspace="5" vspace="5" border="2" align="MIDDLE" naturalsizeflag="3">
             </strong>
@@ -90,16 +90,16 @@ group: catalog
         <strong>Click here for Chalk Bag FAQ's</strong>
     </center>
     <p></p>
-    <p align="right"><a href="http://www.fishproducts.com/pics/wtlung.jpeg" target="_self"><b><font size="+1"><img src="{{ "/pics/wtlungTN.jpeg" | prepend: site.baseurl }}" width="72" height="100" hspace="6" vspace="6" border="2" align="right" naturalsizeflag="3"></font></b></a><b><font size="+1">White 
+    <p align="right"><a href="{{ "/pics/wtlung.jpeg" | prepend: site.baseurl }}" target="_self"><b><font size="+1"><img src="{{ "/pics/wtlungTN.jpeg" | prepend: site.baseurl }}" width="72" height="100" hspace="6" vspace="6" border="2" align="right" naturalsizeflag="3"></font></b></a><b><font size="+1">White 
             Lung Chalk Bag:</font></b>
         <br>A big volcano shaped bag that will hold tons of chalk...ok, maybe more like 5 blocks. Great for the home gym or those with extra sweaty palms. Pick the Wild or Mild versions. Email us for available patterns.
         <b>$29.00</b>
     </p>
     <p>&nbsp;</p>
-    <p><a href="http://www.fishproducts.com/pics/b1pack.jpeg" target="_self"><b><font size="+1"><img src="{{ "/pics/b1packTN.jpeg" | prepend: site.baseurl }}" width="97" height="144" hspace="6" vspace="6" border="2" align="LEFT" naturalsizeflag="3"></font></b></a><b><font size="+1">B-1 
+    <p><a href="{{ "/pics/b1pack.jpeg" | prepend: site.baseurl }}" target="_self"><b><font size="+1"><img src="{{ "/pics/b1packTN.jpeg" | prepend: site.baseurl }}" width="97" height="144" hspace="6" vspace="6" border="2" align="LEFT" naturalsizeflag="3"></font></b></a><b><font size="+1">B-1 
             and B-2 Bouldering Pack:</font></b>
         <br>The B-1 is a lightweight shoulder pack designed for carrying your boots, chalk
-        <a href="http://www.fishproducts.com/pics/b2bag.jpeg" target="_self">
+        <a href="{{ "/pics/b2bag.jpeg" | prepend: site.baseurl }}" target="_self">
             <img src="{{ "/pics/b2bagTN.jpeg" | prepend: site.baseurl }}" width="54" height="79" hspace="6" vspace="6" border="2" align="RIGHT" naturalsizeflag="3">
         </a>bag, and maybe some water and snacks while bouldering. The pack body is our ONS Mesh, an extremely tough and durable fabric that is light in weight and since it is a mesh, lets your boot stink escape into the atmosphere instantly. A single over the shoulder strap is provided and is lightly padded with ShamPelt fur. The top pocket has an outside zipper so you can get to your tape and tincture before your flapper makes you bleed to death. The bottom is made from 18oz. VCN fabric for long life. Approximate size is 2000 cu.in. with a 12" diameter bottom.
         <b>$49.00<br>

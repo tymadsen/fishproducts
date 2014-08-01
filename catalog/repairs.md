@@ -11,7 +11,7 @@ group: catalog
 
 <div align="center">
     <center>
-        <a href="http://www.fishproducts.com/pics/friendpackage.jpeg" target="_self"><b><font size="+2"><img src="{{ "/pics/friendpackageTN.jpeg" | prepend: site.baseurl }}" width="144" height="113" align="BOTTOM" border="2" naturalsizeflag="3"></font></b></a>
+        <a href="{{ "/pics/friendpackage.jpeg" | prepend: site.baseurl }}" target="_self"><b><font size="+2"><img src="{{ "/pics/friendpackageTN.jpeg" | prepend: site.baseurl }}" width="144" height="113" align="BOTTOM" border="2" naturalsizeflag="3"></font></b></a>
     </center>
     <p></p>
     <p><b><font color="#000000" size="+1">We have sorta stopped repairing 
