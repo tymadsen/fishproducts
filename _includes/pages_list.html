@@ -2,7 +2,9 @@
   {% if nav == node.nav or nav == node.subnav %}
     {% if page.url == node.url or group == node.group %}
       <li class="active"><a href="{{node.url | prepend: site.baseurl}}" class="active">{{node.title}}</a></li>
-    {% else %}
+    {% elsif node.url_override %}
+      <li><a href="{{node.url_override}}" target="_blank">{{node.title}}</a></li>
+     {% else %}
       <li><a href="{{node.url | prepend: site.baseurl}}">{{node.title}}</a></li>
     {% endif %}
   {% endif %}
