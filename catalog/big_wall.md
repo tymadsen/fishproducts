@@ -9,22 +9,22 @@ group: catalog
 <p>
   <div class="row">
     <div class="col-sm-3">
-      <a href="http://www.fishproducts.com/pics/bubs_walt.jpg" target="_blank" class="thumbnail">
+      <a href="#" class="thumbnail">
         <img src="{{ "/pics/bubs_walt.jpg" | prepend: site.baseurl }}">
       </a>
     </div>
     <div class="col-sm-3">
-      <a href="http://www.fishproducts.com/pics/horse_chute.jpg" target="_blank" class="thumbnail">
+      <a href="#" class="thumbnail">
         <img src="{{ "/pics/horse_chute.jpg" | prepend: site.baseurl }}">
       </a>
     </div>
     <div class="col-sm-3">
-      <a href="http://www.fishproducts.com/pics/bwp_bismark.jpg" target="_blank" class="thumbnail">
+      <a href="#" class="thumbnail">
         <img src="{{ "/pics/bwp_bismark.jpg" | prepend: site.baseurl }}">
       </a>
     </div>
     <div class="col-sm-3">
-      <a href="http://www.fishproducts.com/pics/LF_bivy.jpg" target="_blank" class="thumbnail">
+      <a href="#" class="thumbnail">
         <img src="{{ "/pics/LF_bivy.jpg" | prepend: site.baseurl }}">
       </a>
     </div>
@@ -52,7 +52,7 @@ group: catalog
 
 <div class="row">
   <div class="col-sm-3">
-    <a href="http://www.fishproducts.com/pics/dgs.jpg" class="thumbnail">
+    <a href="#" class="thumbnail">
       <img src="{{ "/pics/dgs.jpg " | prepend: site.baseurl }}">
     </a>
   </div>
