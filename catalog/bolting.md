@@ -6,92 +6,133 @@ nav: catalog
 group: catalog
 ---
 
+<p>
+	<div align="center">
+		<div class="col-sm-3">
+			<a href="#" class="thumbnail">
+				<img src="{{ "/pics/driller.jpg" | prepend: site.baseurl }}">
+			</a>
+		</div>
+	</div>
+</p>
+
 <p class="lead">
+	We have for the most part quit selling bolting supplies and hardware. 
+	<br>
+  There were many reasons. What we have left we will continue to sell until supplies are completely depleted. Once this stuff is gone, it is gone for good. The info and tips are still good for any drilling system.
 </p>
 
-<div align="center">
+<hr />
 
-<img src="{{ "/pics/driller.jpg" | prepend: site.baseurl }}" width="309" height="461" hspace="6" vspace="6" border="2">
-</p>
-<p>
-</p>
-<center>
-    <b>We have for the most part quit selling bolting supplies and hardware. 
-          <br>
-          There were many reasons. What we have left we will continue to sell 
-          until supplies are completely depleted. Once this stuff is gone, 
-          it is gone for good. The info and tips are still good for any drilling 
-          system.</b> 
-</center>
-<p></p>
-<p align="center">FISH Rubber Grip
-    <strong>CLOSEOUT $1.00 each.</strong>
-    <br>Bolt Kit Bag (small beef)
-    <strong>$9.50 ea.</strong>
-</p>
-<p>
-</p>
-<center>
-    <table width="412" border="1" cellspacing="2" cellpadding="10" height="197">
-        <tbody>
-            <tr>
-                <td width="394" height="190">
-                    <p>
-                    </p>
-                    <center>
-                        &nbsp;
-                        <strong>TIPS:</strong>On low angle rock, scoop the rock dust out of the hole by wetting the drill and twisting it in the hole. Do not hang on or weight the drill in any way, for it will break. Drill all bolt holes longer than the bolt you intend to place. Always carry spare drills and wrenches while bolting. Practice placing bolts on a junk boulder in your own backyard before trying your magic on the landscape. When using a twist drill always turn the drill clockwise while pounding on it. If you are drilling in anything besides the "best" rock, never trust a single bolt. Use safety goggles while drilling to protect your eyes from flying shards of rock. Having friends drill is less fatiguing.
-                    </center>
-                    <p></p>
-                    <p>
-                        <strong>Note:</strong>Due to the nature of rock drilling, drills will break. Therefore, Fish Products does not offer a warranty on rock drills. To avoid any inconvenience, during use, always carry at least 2 drills.</p>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</center>
-<p></p>
-<p><b><font size="+1">Bosch or Hilti Conversion info:<br>
-        </font></b>This is a way to convert your existing drill into to a rock eating monster. I use this set up and get between 25-35 holes per charge with my Bosch 24 volt drill. Climbing Magazine did an article on how to do it in issue #182. Although the method is sound, the materials used were not as good I would recommend. Instead of using speaker wire, do yourself a favor and use a fairly fat electrical cord. A 50ft length is pretty good and you only loose about 25% of your drilling power. Using zip ties as they recommend is lame. These will only hurt your hand and last a short time. Drill into the handle of your drill and then feed the connection wire through this hole. Secure it with a knot on the inside of the drill handle, and leave the female plug on the outside. Much more bomber and clean. For even more info, go to our <a href="{{ "/tech/" | prepend: site.baseurl }}" target="_top">Tech Weenie Pages</a>.
-    <br>
-    <br>
-    <b><font size="+1">Quick Links</font><a href="{{ "/pics/loweroff.jpeg" | prepend: site.baseurl }}" target="_self"><img src="{{ "/pics/loweroffTN.jpeg" | prepend: site.baseurl }}" width="50" height="108" align="RIGHT" border="2" naturalsizeflag="3"></a></b>
-    <br>Use these 9mm links as a quick and strong attachment to bolt hangers, our Lower Off Clips, or even your own webbing when making a rap station or multi-use anchor.<b>$2.00 each</b><b></b>
-</p>
-<p><b><font size="+1">FISH MussyHooks:</font></b> 
-    <br>These big industrial clips go nicely with our Quick Links for an easy top out and lower station on any route. The big radius hook is easy to clip into and has a keeper bail to keep your rope from escaping. Now used all over the place as the ultimate top out anchor. You've probably used them at the Owens River Gorge, The Pit in Flagstaff, Arizona and maybe even at your favorite sport crag.
-    <br>Tested to something like 8000 lbs.
-    <br>MussyHook only, <b>$5.00 each.<br>
-        <br>
-        </b>as shown with Hanger, Quick Link, and Lower Off<b> SOLD OUT</b>
-</p>
-<p>
-</p>
-<center>
-    <center>
-        <table border="1" width="404" cellpadding="10" cellspacing="2">
-            <tbody>
-                <tr>
-                    <td>
-                        <img src="{{ "/pics/cactus.gif" | prepend: site.baseurl }}" align="LEFT" width="30" height="53" naturalsizeflag="3">
-                        <strong>TIPS:</strong>The bolting stuff listed above needs certain things to make them work. For openers, a good hammer is essential for the actual pounding of the hole. Most kits will need a wrench to torque the bolts down with. The size needed is: 5/8" for the Dire Emergency and 5/8" for the 3/8" Standard Kit (13mm should also work). If you find yourself having to replace an existing bolt, in the same hole, with a different size bolt ( like a 1/4" bolt hole, and putting in a new 5/16" bolt) drill very carefully. The edge of the old hole should not be damaged in any way. As you drill, be wary of the drill binding in the hole. If you are on a wall or in the middle of a 1/4" rivet ladder, and a bolt/rivet pops outs, a quick replacement can be made with a 5/16" Machine Bolt. Just (if needed) smoosh the threads down a bit and slam it into the 1/4" hole. Nice fit! No Bolt Kit should be used as a badge of courage. Having some bolts in your pack or haul bag shouldn't replace knowledge, skill or good judgement.
-                        <hr align="LEFT" width="300">
-                        <img src="{{ "/pics/bonehead.gif" | prepend: site.baseurl }}" align="LEFT" width="54" height="64" naturalsizeflag="0">
-                        <strong>BONEHEAD:</strong>Hanging on a drill while drilling WILL break your drill. Rock drills are not made to take ANY shear load. Rock chips will fly all over while drilling. If you like the Pirate look or think eye patches are fashionab1e, drill without Safety Glasses. If you place a shitty bolt, fix it now. Clipping that bomb on your ascent, then leaving it for somebody else is bad form. If you're on a Trad fling, fix it later, on rap. Just don't leave it for the other guy. Adding bolts to any established route, is in general, a major sin. Do not do it without much leg work to find out the prevailing attitude of your dubious deed.
-                    </td>
-                </tr>
-            </tbody>
-        </table>
-    </center>
-    <p></p>
-    <p>
-    </p>
-    <center>
-        <strong>
-            <font size="+2">WARNING:</font>
-        </strong>
-        <font size="+2">Placing bolts is not a rookie arena. Safe bolt placement is a learned phenomenon, not haphazard folly. Get certified instruction on all aspects of bolting before trying out your magic. The fool you kill may not even be you.</font>
-    </center>
-    <p></p>
-</center>
+<div class="row">
+  <div class="col-sm-6">
+    <h3>
+			FISH RUBBER GRIP:
+		</h3>
+
+		<p>
+			CLOSEOUT 
+			<span class="label label-primary label-lg">$1.00 each.</span>
+		</p>
+  </div>
+  <div class="col-sm-6">
+    <h3>
+			BOLT KIT BAG:
+		</h3>
+		<p>
+			Small beef:
+			<span class="label label-primary label-lg">$9.50 ea.</span>
+		</p>
+  </div>
 </div>
+
+<br />
+
+<div class="well">
+	<div class="row">
+		<div class="col-sm-6">
+      <p>
+        <strong>TIPS: </strong>On low angle rock, scoop the rock dust out of the hole by wetting the drill and twisting it in the hole. Do not hang on or weight the drill in any way, for it will break. Drill all bolt holes longer than the bolt you intend to place. Always carry spare drills and wrenches while bolting. Practice placing bolts on a junk boulder in your own backyard before trying your magic on the landscape. When using a twist drill always turn the drill clockwise while pounding on it. If you are drilling in anything besides the "best" rock, never trust a single bolt. Use safety goggles while drilling to protect your eyes from flying shards of rock. Having friends drill is less fatiguing.
+      </p>
+    </div>
+    <div class="col-sm-6">
+      <p>
+        <strong>Note: </strong>Due to the nature of rock drilling, drills will break. Therefore, Fish Products does not offer a warranty on rock drills. To avoid any inconvenience, during use, always carry at least 2 drills.
+      </p>
+    </div>
+  </div>
+</div>
+				
+<h3>
+	BOSCH OR HILTI CONVERSION INFO:
+</h3>
+
+<p>
+	This is a way to convert your existing drill into to a rock eating monster. I use this set up and get between 25-35 holes per charge with my Bosch 24 volt drill. Climbing Magazine did an article on how to do it in issue #182. Although the method is sound, the materials used were not as good I would recommend. Instead of using speaker wire, do yourself a favor and use a fairly fat electrical cord. A 50ft length is pretty good and you only loose about 25% of your drilling power. Using zip ties as they recommend is lame. These will only hurt your hand and last a short time. Drill into the handle of your drill and then feed the connection wire through this hole. Secure it with a knot on the inside of the drill handle, and leave the female plug on the outside. Much more bomber and clean. For even more info, go to our <a href="{{ "/tech/" | prepend: site.baseurl }}" target="_top">Tech Weenie Pages</a>.
+</p>
+
+<br />
+
+<h3>
+	QUICK LINKS:
+</h3>
+
+<div class="row">
+	<div class="col-sm-10">
+		<p>
+			Use these 9mm links as a quick and strong attachment to bolt hangers, our Lower Off Clips, or even your own webbing when making a rap station or multi-use anchor.
+			<span class="label label-primary label-lg">$2.00 ea.</span>
+		</p>
+	</div>
+</div>
+
+<h3>
+	FISH MUSSYHOOKS:
+</h3>
+
+<div class="row">
+	<div class="col-xs-2">
+		<a href="#" class="thumbnail">
+			<img src="{{ "/pics/loweroff.jpeg" | prepend: site.baseurl }}">
+		</a>
+	</div>
+	<div class="col-sm-9">
+		<p>
+			These big industrial clips go nicely with our Quick Links for an easy top out and lower station on any route. The big radius hook is easy to clip into and has a keeper bail to keep your rope from escaping. Now used all over the place as the ultimate top out anchor. You've probably used them at the Owens River Gorge, The Pit in Flagstaff, Arizona and maybe even at your favorite sport crag.
+			<br>Tested to something like 8000 lbs.
+		</p>
+		<p>
+			MussyHook only: 
+			<span class="label label-primary label-lg">$5.00 ea.</span>
+			<br />
+			As shown with Hanger, Quick Link, and Lower Off:  
+			<span class="label label-primary label-lg">SOLD OUT</span>
+		</p>
+	</div>
+</div>
+
+<br />
+
+<div class="well">
+  <div class="row">
+    <div class="col-sm-6">
+      <p>
+        <img src="{{ "/pics/cactus.gif " | prepend: site.baseurl }}" width="30" class="pull-left">
+        <strong>TIPS: </strong>The bolting stuff listed above needs certain things to make them work. For openers, a good hammer is essential for the actual pounding of the hole. Most kits will need a wrench to torque the bolts down with. The size needed is: 5/8" for the Dire Emergency and 5/8" for the 3/8" Standard Kit (13mm should also work). If you find yourself having to replace an existing bolt, in the same hole, with a different size bolt ( like a 1/4" bolt hole, and putting in a new 5/16" bolt) drill very carefully. The edge of the old hole should not be damaged in any way. As you drill, be wary of the drill binding in the hole. If you are on a wall or in the middle of a 1/4" rivet ladder, and a bolt/rivet pops outs, a quick replacement can be made with a 5/16" Machine Bolt. Just (if needed) smoosh the threads down a bit and slam it into the 1/4" hole. Nice fit! No Bolt Kit should be used as a badge of courage. Having some bolts in your pack or haul bag shouldn't replace knowledge, skill or good judgement.
+      </p>
+    </div>
+    <div class="col-sm-6">
+      <p>
+        <img src="{{ "/pics/bonehead.gif " | prepend: site.baseurl }}" width="54" class="pull-left">
+        <strong>BONEHEAD TIP: </strong>Hanging on a drill while drilling WILL break your drill. Rock drills are not made to take ANY shear load. Rock chips will fly all over while drilling. If you like the Pirate look or think eye patches are fashionab1e, drill without Safety Glasses. If you place a shitty bolt, fix it now. Clipping that bomb on your ascent, then leaving it for somebody else is bad form. If you're on a Trad fling, fix it later, on rap. Just don't leave it for the other guy. Adding bolts to any established route, is in general, a major sin. Do not do it without much leg work to find out the prevailing attitude of your dubious deed.
+      </p>
+    </div>
+  </div>
+</div>
+
+<h3>
+	WARNING:
+</h3>
+<p class="lead">
+	Placing bolts is not a rookie arena. Safe bolt placement is a learned phenomenon, not haphazard folly. Get certified instruction on all aspects of bolting before trying out your magic. The fool you kill may not even be you.
+</p>

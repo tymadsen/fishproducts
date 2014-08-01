@@ -2794,7 +2794,7 @@ opinion and NOT an official statement of my employer.</p>
 <p><b><font size="+1">The shelf life of static ropes, by Bateman
 and Toomer, 1998</font></b><br>
 Really good article on the strength of ropes over time and with
-various conditions. <b>Click <a href="http://www.fishproducts.com/tech/Ropeshelflife.pdf" target="_blank">here</a>
+various conditions. <b>Click <a href="{{ "/tech/Ropeshelflife.pdf" | prepend: site.baseurl }}"  target="_blank">here</a>
 for the PDF.</b></p>
 
 <p></p><hr align="LEFT" width="440"><p></p>
@@ -2810,7 +2810,7 @@ years, many climbers have changed to using one of a number of
 high-strength materials in smaller diameters. Vectran, Technora,
 Spectra, Kevlar, Kevlar/Spectra blends and Spectra/Nylon webbing
 are all used for these purposes along with Nylon cord and Nylon
-webbing. <b>(click <a href="http://www.fishproducts.com/tech/High_Strength_Cord.pdf" target="_blank">here</a>
+webbing. <b>(click <a href="{{ "/tech/High_Strength_Cord.pdf" | prepend: site.baseurl }}"  target="_blank">here</a>
 to get the rest of this fine article in PDF.)</b></p>
 
 

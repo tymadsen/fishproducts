@@ -29,10 +29,10 @@ group: order
       order. If you order by Email, let's keep it to Email. It is confusing enough 
       around here without duplicate orders on the phone, Email and snail mail 
       all coming in from the same guy.<br>
-      Another way is print out the <a href="http://www.fishproducts.com/catalog/orderform.pdf" target="_blank">PDF 
+      Another way is print out the <a href="{{ "/files/orderform.pdf" | prepend: site.baseurl }}" target="_blank">PDF 
       form</a>, then mail in your order. Thanks!<br>
       <input type="hidden" name="subject" value="FISH Order">
-      <input type="hidden" name="redirect" value="http://www.fishproducts.com/catalog/orderconfirm.html">
+      <input type="hidden" name="redirect" value="{{ "/catalog/orderconfirm" | prepend: site.baseurl }}">
     </p>
   </center>
   <p> 
@@ -260,7 +260,7 @@ No SPAM for me</center><p></p>
       us! THANKS!</font></i></b> 
     </center><p></p>
 
-<p></p><center><a href="./FISH PRODUCTS Order Form_files/visa.gif"><img src="./FISH PRODUCTS Order Form_files/visa.gif" align="BOTTOM" hspace="10" width="60" height="38" naturalsizeflag="3" name="visa.gif" border="0"></a><a href="./FISH PRODUCTS Order Form_files/mastercard.gif"><img src="./FISH PRODUCTS Order Form_files/mastercard.gif" align="BOTTOM" hspace="10" width="60" height="38" naturalsizeflag="3" name="mastercard.gif" border="0"></a><br>
+<p></p><center><a href="{{ "/pics/visa.gif" | prepend: site.baseurl }}"><img src="{{ "/pics/visa.gif" | prepend: site.baseurl }}" align="BOTTOM" hspace="10" width="60" height="38" naturalsizeflag="3" name="visa.gif" border="0"></a><a href="{{ "/pics/mastercard.gif" | prepend: site.baseurl }}"><img src="{{ "/pics/mastercard.gif" | prepend: site.baseurl }}" align="BOTTOM" hspace="10" width="60" height="38" naturalsizeflag="3" name="mastercard.gif" border="0"></a><br>
 <font size="+1">If you want to pay via<b> PayPal,</b> simply get
 your order total and then click on the <b>PayPal</b> button below
 the sample page<br>
@@ -270,7 +270,7 @@ The <b>PayPal</b> button just lands your cash into our account.
 It does not give us any order info.<br>
 Here is a sample of what the PayPal page will look like after
 you click the button:<br>
-<img src="./FISH PRODUCTS Order Form_files/paypal_image.jpg" width="700" height="524" align="BOTTOM" border="2" naturalsizeflag="3"></font></center><p></p>
+<img src="{{ "/pics/paypal_image.jpg" | prepend: site.baseurl }}" width="700" height="524" align="BOTTOM" border="2" naturalsizeflag="3"></font></center><p></p>
 
 <p></p><center><b><font size="+1">To be taken to the PayPal site right
 now to finish your<br>
@@ -281,7 +281,7 @@ transaction, click the PayPal button:</font></b></center><p></p>
 
 <p></p><center><input type="hidden" name="cmd" value="_xclick"> <input type="hidden" name="business" value="PayPal@FishProducts.com">
 <input type="hidden" name="item_name" value="FISH Products Order Total">
-<input type="hidden" name="no_shipping" value="1"> <input type="hidden" name="return" value="http://www.fishproducts.com"> <input type="hidden" name="cn" value="Special Instructions (optional"> <input type="hidden" name="no_note" value="1"> <input type="hidden" name="currency_code" value="USD"> <input src="./FISH PRODUCTS Order Form_files/x-click-but6.gif" type="image" border="0" name="submit" alt="Make payments with PayPal - it&#39;s fast, free and secure!" align="BOTTOM">
+<input type="hidden" name="no_shipping" value="1"> <input type="hidden" name="return" value="{{ site.baseurl }}"> <input type="hidden" name="cn" value="Special Instructions (optional"> <input type="hidden" name="no_note" value="1"> <input type="hidden" name="currency_code" value="USD"> <input src="{{ "/pics/x-click-but6.gif" | prepend: site.baseurl }}" type="image" border="0" name="submit" alt="Make payments with PayPal - it&#39;s fast, free and secure!" align="BOTTOM">
   </center>
   <p>&nbsp;
 </p></form>
