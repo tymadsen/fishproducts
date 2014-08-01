@@ -45,7 +45,7 @@ group: catalog
 
 <h3>
   DOUBLE GEAR SLING:
-  <a href="{{ "/faqs/doublegsfaq.html" | prepend: site.baseurl }}" class="pull-right label label-default">
+  <a href="{{ "/faqs/gear_sling" | prepend: site.baseurl }}" class="pull-right label label-default">
     FAQ's
   </a>
 </h3>
@@ -94,7 +94,7 @@ group: catalog
 
 <h3>
   SMART AIDERS: 
-  <a href="{{ "/faqs/aiderfaq.html" | prepend: site.baseurl }}" class="pull-right label label-default">
+  <a href="{{ "/faqs/aiders" | prepend: site.baseurl }}" class="pull-right label label-default">
     FAQ's
   </a>
 </h3>
@@ -134,7 +134,7 @@ group: catalog
 
 <h3>
   ALPINE AIDERS:
-  <a href="{{ "/faqs/aiderfaq.html" | prepend: site.baseurl }}" class="pull-right label label-default">
+  <a href="{{ "/faqs/aiders" | prepend: site.baseurl }}" class="pull-right label label-default">
     FAQ's
   </a>
 </h3>
@@ -151,7 +151,7 @@ group: catalog
 
 <h3>
   LADDER AIDERS:
-  <a href="{{ "/faqs/aiderfaq.html" | prepend: site.baseurl }}" class="pull-right label label-default">
+  <a href="{{ "/faqs/aiders" | prepend: site.baseurl }}" class="pull-right label label-default">
     FAQ's
   </a>
 </h3>
@@ -183,7 +183,7 @@ group: catalog
 
 <h3>
   SUPER DAISY CHAIN:
-  <a href="{{ "/faqs/daisyfaq.html" | prepend: site.baseurl }}" class="pull-right label label-default">
+  <a href="{{ "/faqs/daisy_chain" | prepend: site.baseurl }}" class="pull-right label label-default">
     FAQ's
   </a>
 </h3>
@@ -214,7 +214,7 @@ group: catalog
 
 <h3>
   ADJUSTABLE DAISY CHAINS:
-  <a href="{{ "/faqs/daisyfaq.html" | prepend: site.baseurl }}" class="pull-right label label-default">
+  <a href="{{ "/faqs/daisy_chain" | prepend: site.baseurl }}" class="pull-right label label-default">
     FAQ's
   </a>
 </h3>
