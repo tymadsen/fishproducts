@@ -193,9 +193,14 @@ footer {
   height:40px;
 }
 
-a,a:hover {
-  color:#443322;
+a,
+a:hover {
+  color:#883322;
   text-decoration:none;
+}
+
+a:hover {
+  text-decoration:underline;
 }
 
 .icon-bar {
