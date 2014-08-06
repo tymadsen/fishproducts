@@ -2,8 +2,8 @@
 title: Order form
 heading: "Order form"
 layout: subnav
-nav: main
-group: order
+nav: catalog
+group: catalog
 ---
 
 

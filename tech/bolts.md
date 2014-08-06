@@ -11,7 +11,7 @@ group: tech
 <div class="row">
   <div class="col-sm-3">
     <a href="#" class="thumbnail">
-      <img src="{{ "/pics/anchormuseum.jpg" | prepend: site.baseurl }}" class="img-responsive">
+      <img src="{{ "/pics/anchormuseum.jpg" | prepend: site.baseurl }}">
     </a>
   </div>
   <div class="col-sm-9">
@@ -32,10 +32,10 @@ group: tech
 <div class="row">
   <div class="col-sm-3">
     <a href="#" class="thumbnail">
-      <img src="{{ "/pics/bolts.jpg" | prepend: site.baseurl }}" class="img-responsive">
+      <img src="{{ "/pics/bolts.jpg" | prepend: site.baseurl }}">
     </a>
     <a href="#" class="thumbnail">
-      <img src="{{ "/pics/loweroff.jpg" | prepend: site.baseurl }}" class="img-responsive">
+      <img src="{{ "/pics/loweroff.jpg" | prepend: site.baseurl }}">
     </a>
   </div>
   <div class="col-sm-9">
