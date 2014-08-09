@@ -6,21 +6,20 @@ nav: catalog
 group: catalog
 ---
 
-<p>
-	<div align="center">
-		<div class="col-sm-3">
-			<a href="#" class="thumbnail">
-				<img src="{{ "/pics/driller.jpg" | prepend: site.baseurl }}">
-			</a>
-		</div>
+<div class="row">
+	<div class="col-sm-3">
+		<a href="#" class="thumbnail">
+			<img src="{{ "/pics/driller.jpg" | prepend: site.baseurl }}">
+		</a>
 	</div>
-</p>
-
-<p class="lead">
-	We have for the most part quit selling bolting supplies and hardware. 
-	<br>
-  There were many reasons. What we have left we will continue to sell until supplies are completely depleted. Once this stuff is gone, it is gone for good. The info and tips are still good for any drilling system.
-</p>
+	<div class="col-sm-9">
+		<p class="lead">
+			We have for the most part quit selling bolting supplies and hardware. 
+			<br>
+		  There were many reasons. What we have left we will continue to sell until supplies are completely depleted. Once this stuff is gone, it is gone for good. The info and tips are still good for any drilling system.
+		</p>
+	</div>
+</div>
 
 <hr />
 
@@ -29,10 +28,9 @@ group: catalog
     <h3>
 			FISH RUBBER GRIP:
 		</h3>
-
 		<p>
 			CLOSEOUT 
-			<span class="label label-primary label-lg">$1.00 each.</span>
+			<span class="label label-primary label-lg">$1.00 each</span>
 		</p>
   </div>
   <div class="col-sm-6">
@@ -41,7 +39,7 @@ group: catalog
 		</h3>
 		<p>
 			Small beef:
-			<span class="label label-primary label-lg">$9.50 ea.</span>
+			<span class="label label-primary label-lg">$9.50 each</span>
 		</p>
   </div>
 </div>
@@ -78,10 +76,10 @@ group: catalog
 </h3>
 
 <div class="row">
-	<div class="col-sm-10">
+	<div class="col-sm-12">
 		<p>
 			Use these 9mm links as a quick and strong attachment to bolt hangers, our Lower Off Clips, or even your own webbing when making a rap station or multi-use anchor.
-			<span class="label label-primary label-lg">$2.00 ea.</span>
+			<span class="label label-primary label-lg">$2.00 each</span>
 		</p>
 	</div>
 </div>
@@ -96,14 +94,14 @@ group: catalog
 			<img src="{{ "/pics/loweroff.jpeg" | prepend: site.baseurl }}">
 		</a>
 	</div>
-	<div class="col-sm-9">
+	<div class="col-sm-10">
 		<p>
 			These big industrial clips go nicely with our Quick Links for an easy top out and lower station on any route. The big radius hook is easy to clip into and has a keeper bail to keep your rope from escaping. Now used all over the place as the ultimate top out anchor. You've probably used them at the Owens River Gorge, The Pit in Flagstaff, Arizona and maybe even at your favorite sport crag.
 			<br>Tested to something like 8000 lbs.
 		</p>
 		<p>
 			MussyHook only: 
-			<span class="label label-primary label-lg">$5.00 ea.</span>
+			<span class="label label-primary label-lg">$5.00 each</span>
 			<br />
 			As shown with Hanger, Quick Link, and Lower Off:  
 			<span class="label label-primary label-lg">SOLD OUT</span>

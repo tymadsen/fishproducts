@@ -6,27 +6,52 @@ nav: catalog
 group: catalog
 ---
 
-<p class="lead">
-</p>
+<h3>
+	THE CLASSIC IS BACK!:
+</h3>
 
-<div align="center">
-   
-    <p>
-        <img src="{{ "/pics/tools_T-1.gif" | prepend: site.baseurl }}" width="596" height="538" hspace="5" vspace="5">
-        <br>
-        <b><font size="+1">The classic is back! </font><br>
-            White 100% cotton T with black logo and purple "Tools For Bigwall 
-            Fools" slogan.<br>
-            M, L, and XL $12.00 each.</b>
-    </p>
-    <p>
-        <a href="{{ "/pics/PSYCHE_T_detail.jpg" | prepend: site.baseurl }}" target="_blank">
-            <img src="{{ "/pics/psyche_trans.gif" | prepend: site.baseurl }}" width="469" height="430" hspace="5" vspace="5" border="0">
-        </a>
-    </p>
-    <p><b><font size="+1">Get Psyched! Another classic T has been re-born.</font><br>
-            White T, 100% cotton, black imprint.<br>
-            Click on the shirt to see a larger image<br>
-            M, L, and XL $12.00 each</b>
-    </p>
+<div class="row">
+	<div class="col-sm-3">
+		<a href="#" class="thumbnail">
+			<img src="{{ "/pics/tools_T-1.gif" | prepend: site.baseurl }}">
+		</a>
+	</div>
+	<div class="col-sm-9">
+		<p>
+			White 100% cotton T with black logo and purple "Tools For Bigwall 
+			Fools" slogan.
+		</p>
+		<p>
+			M, L, and XL 
+			<span class="label label-primary label-lg">$12.00 each</span>
+		</p>
+	</div>
 </div>
+
+<h3>
+	GET PSYCHED! ANOTHER CLASSIC T HAS BEEN RE-BORN:
+</h3>
+
+<div class="row">
+	<div class="col-sm-3">
+		<a href="#" class="thumbnail">
+			<img src="{{ "/pics/PSYCHE_T_detail.jpg" | prepend: site.baseurl }}" style="display:none">
+			<div>
+				<a href="#" class="thumbnail">
+					<img src="{{ "/pics/psyche_trans.gif" | prepend: site.baseurl }}">
+				</a>
+			</div>
+		</a>
+	</div>
+	<div class="col-sm-9">
+		<p>
+			White T, 100% cotton, black imprint.<br>
+			Click on the shirt to see a larger image
+		</p>
+		<p>
+			M, L, and XL 
+			<span class="label label-primary label-lg">$12.00 each</span>
+		</p>
+	</div>
+</div>
+
