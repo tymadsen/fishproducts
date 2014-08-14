@@ -42,62 +42,62 @@ group: catalog
   <hr />
 
   <div class="form-group">
-    <label class="col-sm-2 control-label">Email address:</label>
-    <div class="col-sm-10">
+    <label class="col-sm-4 control-label">Email address:</label>
+    <div class="col-sm-8">
       <input name="email" type="text" class="form-control">
     </div>
   </div>
   <div class="form-group">
-    <label class="col-sm-2 control-label">Name:</label>
-    <div class="col-sm-10">
+    <label class="col-sm-4 control-label">Name:</label>
+    <div class="col-sm-8">
       <input name="Name" type="text" class="form-control">
     </div>
   </div>
   <div class="form-group">
-    <label class="col-sm-2 control-label">Street Address:</label>
-    <div class="col-sm-10">
+    <label class="col-sm-4 control-label">Street Address:</label>
+    <div class="col-sm-8">
       <input name="Street" type="text" class="form-control">
     </div>
   </div>
   <div class="form-group">
-    <label class="col-sm-2 control-label">City, State, Zip:</label>
-    <div class="col-sm-10">
+    <label class="col-sm-4 control-label">City, State, Zip:</label>
+    <div class="col-sm-8">
       <input name="CityStateZip" type="text" class="form-control">
     </div>
   </div>
   <div class="form-group">
-    <label class="col-sm-2 control-label">Phone, Day:</label>
-    <div class="col-sm-10">
+    <label class="col-sm-4 control-label">Phone, Day:</label>
+    <div class="col-sm-8">
       <input name="PhoneDay" type="text" class="form-control">
     </div>
   </div>
   <div class="form-group">
-    <label class="col-sm-2 control-label">Phone, Eve:</label>
-    <div class="col-sm-10">
+    <label class="col-sm-4 control-label">Phone, Eve:</label>
+    <div class="col-sm-8">
       <input name="PhoneEve" type="text" class="form-control">
     </div>
   </div>
   <div class="form-group">
-    <label class="col-sm-2 control-label">Todays Date:</label>
-    <div class="col-sm-10">
+    <label class="col-sm-4 control-label">Todays Date:</label>
+    <div class="col-sm-8">
       <input name="Date" type="text" class="form-control">
     </div>
   </div>
   <div class="form-group">
-    <label class="col-sm-2 control-label">Date Needed:</label>
-    <div class="col-sm-10">
+    <label class="col-sm-4 control-label">Date Needed:</label>
+    <div class="col-sm-8">
       <input name="DateNeeded" type="text" class="form-control">
     </div>
   </div>
   <div class="form-group">
-    <label class="col-sm-2 control-label">CRITICAL----&gt; Absolute Drop Dead Date:</label>
-    <div class="col-sm-10">
+    <label class="col-sm-4 control-label">CRITICAL----&gt; Absolute Drop Dead Date:</label>
+    <div class="col-sm-8">
       <input name="DropDead" type="text" class="form-control">
     </div>
   </div>
   <div class="form-group">
-    <label class="col-sm-2 control-label">Comments or Billing Address for Credit Card:</label>
-    <div class="col-sm-10">
+    <label class="col-sm-4 control-label">Comments or Billing Address for Credit Card:</label>
+    <div class="col-sm-8">
       <textarea name="Comments" rows="6" cols="60" class="form-control"></textarea>
     </div>
   </div>
