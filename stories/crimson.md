@@ -8,36 +8,35 @@ group: stories
 
 <form>
 <p></p><center><br>
-<b><font color="#ffff00">2/3/06<br>
+<b>2/3/06<br>
 Russ Walling, Susan Peplow, and Bill Russell<br>
 <br>
 Gear list: 10 -12 expandable quickdraws, 10 -12 beers, 1 Rack
-Caddy, 2 belayers.</font></b></center><p></p>
+Caddy, 2 belayers.</b></center><p></p>
 
-<p><b><font color="#ffffff">I'm not sure if I have ever set an
+<p><b>I'm not sure if I have ever set an
 alarm to go climbing before, but for this monster I did. Of course
 it did not make us get up, and we had our standard late start.
 It was a fretful night and I did not sleep well with this grand
 event hanging over my head. Actually pulling this off might be
 a capper to my career as a rock climber... doing a 1.5 hour approach!
-I've never done anything that long in my life.</font></b></p>
+I've never done anything that long in my life.</b></p>
 
 <p>&nbsp;</p>
 
-<p><b><font color="#ffffff">We started the route at 11am. This
+<p><b>We started the route at 11am. This
 is at least an hour earlier than our usual start time of noon
 on these long routes. As Bill and Susan worked out the finer points
 of belaying, I took off. By the time they had decided that we
 did not have the skills to simo-belay two climbers at once I had
 already topped out on the first pitch. I think there is one or
-two bolts on the pitch.</font></b></p>
+two bolts on the pitch.</b></p>
 
-<p><font size="+1"></font>&nbsp;</p>
 
-<p><b><font color="#ffffff">The next pitch was more of the same
+<p><b>The next pitch was more of the same
 stuff... a nice wide-ish crack with bolts in semi odd places.
 I think I ran pitches 2 and 3 together with a 60 meter rope. Maybe
-not... you might come up short.... anyway.....</font></b></p>
+not... you might come up short.... anyway.....</b></p>
 
 <p>&nbsp;</p>
 

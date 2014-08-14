@@ -26,10 +26,9 @@ group: archive
 
 <p class="lead">The way we have set it up is so at the top of the page, you have some notes by the ascent party, followed by the actual topo of the route. The topo itself may or may not have additional pitch by pitch notes. But, remember, these topos were updated by somebody who might have been drinking, mourning a lost loved one, or just full of it in general. Always use more than one source for your route information, and since rock and fixed gear changes constantly, FISH Products makes no claims to the accuracy of <u>any</u> of these topos. For some really good topo info, go to <a href="http://www.supertopo.com/" target="_blank">www.SuperTopo.com</a>, a superb site and guide book for all your big wall topo needs.</p>
 
-<p></p>
-<center><b><font size="+1">EL CAPITAN, Yosemite Valley</font></b>
-</center>
-<p></p>
+<hr />
+
+<h3>EL CAPITAN, Yosemite Valley</h3>
 
 <ul>
 	<li><a href="{{ "/topos/yostopos/lurking.html" | prepend: site.baseurl }}"><b>Lurking Fear</b></a> VI, 5.10 A2 (FA: Dave Bircheff and Jim Pettigrew, 5/76)
@@ -44,7 +43,7 @@ group: archive
 	</li>
 	<li><a href="{{ "/topos/yostopos/Native.html" | prepend: site.baseurl }}"><b>Native Son</b></a><b> </b>VI, 5.9 A4+ (FA: Walt Shipley and Troy Johnson 8/87)
 		<ul>
-			<li>Check out my <a href="{{ "/topos/nativeTR/nativeTR.html" | prepend: site.baseurl }}">Trip report</a>, with photos.
+			<li>Check out my <a href="{{ "/stories/native_son" | prepend: site.baseurl }}">Trip report</a>, with photos.
 			</li>
 		</ul>
 	</li>
@@ -54,39 +53,35 @@ group: archive
 	</li>
 	<li><a href="{{ "/topos/yostopos/badsign.html" | prepend: site.baseurl }}"><b>Born Under a Bad Sign</b></a><b> </b>VI, 5.10 A4+/A5 (FA: Bill Price and Tim Washick 1979)
 		<ul>
-			<li>Check out a Walt Shipley and Russ Walling <a href="{{ "/topos/badsignTR/badsignTR.html" | prepend: site.baseurl }}" target="_blank">Trip Report</a>, with photos.
+			<li>Check out a Walt Shipley and Russ Walling <a href="{{ "/stories/bad_sign" | prepend: site.baseurl }}" target="_blank">Trip Report</a>, with photos.
 			</li>
 		</ul>
 	</li>
 	<li><a href="{{ "/topos/yostopos/eastbutt.html" | prepend: site.baseurl }}"><b>East Buttress</b></a> IV 5.10b (FA: Allan Steck, Will Siri, Willi Unsoeld, Bill Long, 6/53
 		<br>FFA: Frank Sacher and Wally Reed 8/64)
-		<p align="center"><b><font size="+1">WASHINGTON COLUMN, Yosemite Valley</font></b> 
-		</p>
 	</li>
+</ul>
+
+<h3>WASHINGTON COLUMN, Yosemite Valley</h3>
+<ul>
 	<li><a href="{{ "/topos/yostopos/southface.html" | prepend: site.baseurl }}"><b>South Face</b></a> V 5.10 A1+ (FA: Layton Kor and Chris Fredericks, June 1964)
 	</li>
 </ul>
-<p align="center"><b><font size="+1">MIDDLE CATHEDRAL, Yosemite Valley</font></b>
-</p>
+
+<h3>MIDDLE CATHEDRAL, Yosemite Valley</h3>
 <ul>
 	<li>
-		<div align="center"><a href="{{ "/topos/yostopos/east_butt_middle.html" | prepend: site.baseurl }}" target="_blank">East 
-	  Buttress</a>, V 5.9 A0 or 5.10c (FA: Warren Harding, Jack Davis, Bob Swift 1954. FFA: Frank Sacherer and Ed Leeper, 1965. Right Variation, Yvon Chouinard, Mort Hemple, 1961)
-			<br>
-			<b><font size="+1"><br>
-	  </font></b>  <b><font size="+1">LEANING TOWER, Yosemite Valley</font></b> 
-		</div>
+		<a href="{{ "/topos/yostopos/east_butt_middle.html" | prepend: site.baseurl }}" target="_blank"><b>East Buttress</b></a>, V 5.9 A0 or 5.10c (FA: Warren Harding, Jack Davis, Bob Swift 1954. FFA: Frank Sacherer and Ed Leeper, 1965. Right Variation, Yvon Chouinard, Mort Hemple, 1961)
+		<br>
 	</li>
 </ul>
+
+<h3>LEANING TOWER, Yosemite Valley</h3>
+
 <ul>
 	<li><a href="{{ "/topos/yostopos/leaningtower.html" | prepend: site.baseurl }}" target="_self"><b>West Face</b> </a>V 5.7 A2+ (FA: Warren Harding, with Glen Denny, Allen MacDonald, and minor efforts by Les Wilson, Chris Westphal, George Whitmore, October of 1961)
-		<p>
-		</p>
-		<center>
-			<p><b><font size="+1">The EAST SIDE OF THE SIERRA<br>
-		  </font></b><b>Go and see our fabulous <a href="{{ "/powerandrubber/" | prepend: site.baseurl }}" target="_blank">Power and Rubber Bouldering Site</a> for all the beta and pictures 
-		  of the various venues around Bishop California.</b> 
-			</p>
-		</center>
 	</li>
 </ul>
+
+<h3>The EAST SIDE OF THE SIERRA</h3>
+<b>Go and see our fabulous <a href="{{ "/archive/bouldering" | prepend: site.baseurl }}" target="_blank">Power and Rubber Bouldering Site</a> for all the beta and pictures of the various venues around Bishop California.</b>

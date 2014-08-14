@@ -5,7 +5,7 @@ nav: stories
 group: stories
 ---
 
-<p></p><center><font color="#000000"><hr width="595" size="4"><br>
+<p></p><center><font color="#000000"><br>
 <b><i>&lt;-----------------make your browser window the size of
 this line for maximum enjoyment----------------&gt;</i></b></font></center><p></p>
 

@@ -6,7 +6,11 @@ nav: stories
 group: stories
 ---
 
-<h3><center><font size="+3"><hr width="600"><img src="{{ "/pics/don.jpeg" | prepend: site.baseurl }}" width="288" height="360" align="RIGHT" border="3" naturalsizeflag="3"></font></center></h3>
+<div class="col-sm-4">
+	<a href="#" class="thumbnail">
+		<img src="{{ "/pics/don.jpeg" | prepend: site.baseurl }}">
+	</a>
+</div>
 
 <h3><center><font size="+3"><br>
 or how a would-be sponsored <br>

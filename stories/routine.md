@@ -6,7 +6,6 @@ nav: stories
 group: stories
 ---
 
-<center><hr width="600"></center>
 
 <p>&copy;1990 by Russ Walling</p>
 

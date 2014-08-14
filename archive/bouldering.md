@@ -11,14 +11,16 @@ group: archive
 
 
 <div class="row">
-	<div class="col-sm-3">
+	<div class="col-sm-2">
 		<a href="#" class="thumbnail">
 			<img src="{{ "/pics/pr1.jpeg" | prepend: site.baseurl }}">
 		</a>
 	</div>
-	<p class="lead">
-		What we have going here is a quick outline of some of the bouldering available in the Bishop area. Unless you have been living in a cave and have not heard, this vast playground of rock is located in California. With the recent demise of Hueco Tanks in Texas as a bouldering area, Bishop is stepping up to the plate as the premier destination for climbers of all abilities. In the immediate area there are over 2000 documented problems, with pulls from VB minus all the way to V12 or so. V system confused? Check our <a href="{{ "/powerandrubber/grades" | prepend: site.baseurl }}" target="_blank">grading table</a>. Want some stuff that is harder? Come on over and put it up yourself. There is plenty to go around. Just remember, "It's not about <a href="{{ "/powerandrubber/sex" | prepend: site.baseurl }}" target="_blank">Sex</a>....It's about <a href="{{ "/powerandrubber/power" | prepend: site.baseurl }}" target="_blank">Power</a> and <a href="{{ "/powerandrubber/rubber" | prepend: site.baseurl }}" target="_blank">Rubber</a>". enjoy, <a href="mailto:Russ@FishProducts.com?subject=PR%20Site">Russ Walling
-	</p>
+	<div class="col-sm-10">
+		<p class="lead">
+			What we have going here is a quick outline of some of the bouldering available in the Bishop area. Unless you have been living in a cave and have not heard, this vast playground of rock is located in California. With the recent demise of Hueco Tanks in Texas as a bouldering area, Bishop is stepping up to the plate as the premier destination for climbers of all abilities. In the immediate area there are over 2000 documented problems, with pulls from VB minus all the way to V12 or so. V system confused? Check our <a href="{{ "/powerandrubber/grades" | prepend: site.baseurl }}" target="_blank">grading table</a>. Want some stuff that is harder? Come on over and put it up yourself. There is plenty to go around. Just remember, "It's not about <a href="{{ "/powerandrubber/sex" | prepend: site.baseurl }}" target="_blank">Sex</a>....It's about <a href="{{ "/powerandrubber/power" | prepend: site.baseurl }}" target="_blank">Power</a> and <a href="{{ "/powerandrubber/rubber" | prepend: site.baseurl }}" target="_blank">Rubber</a>". enjoy, <a href="mailto:Russ@FishProducts.com?subject=PR%20Site">Russ Walling
+		</p>
+	</div>
 </div>
 
 <hr />

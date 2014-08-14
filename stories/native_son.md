@@ -6,7 +6,6 @@ nav: stories
 group: stories
 ---
 
-<center><hr width="440"></center>
 
 <p></p><center><b><br>by Russ Walling&copy; all photos Walling/Erikson
 collection</b><br>
@@ -15,10 +14,15 @@ sometimes with some additional notes about the picture)</center><p></p>
 
 <p>&nbsp;</p>
 
+<div class="row">
 <p>"Go easy on the jug up here" I yelled. "The
 upper rope is pretty much</p>
 
-<p><a href="{{ "/pics/chopped.jpeg" | prepend: site.baseurl }}" target="_blank"><img src="{{ "/pics/choppedtn.jpeg" | prepend: site.baseurl }}" width="49" height="72" align="LEFT" border="2" naturalsizeflag="3">chopped</a>".
+<p>
+<a href="#" class="thumbnail col-sm-1 pull-left">
+	<img src="{{ "/pics/chopped.jpeg" | prepend: site.baseurl }}">
+</a>
+	chopped".
 And this is how we began.</p>
 
 <p>I was hot off an ascent of the MescaDawn Wall on El Cap a few
@@ -41,7 +45,10 @@ without any</p>
 <p>embarrassment from me and my free climbing skills. The real
 climbing started</p>
 
-<p>under a small <a href="{{ "/pics/alumhead.jpeg" | prepend: site.baseurl }}" target="_blank"><img src="{{ "/pics/alumheadtn.jpeg" | prepend: site.baseurl }}" width="72" height="49" align="LEFT" border="2" naturalsizeflag="3"></a>roof that was fairly severe</p>
+<p>under a small 
+<a href="#" class="thumbnail col-sm-1 pull-left">
+	<img src="{{ "/pics/alumhead.jpeg" | prepend: site.baseurl }}">
+</a>roof that was fairly severe</p>
 
 <p><a href="{{ "/pics/alumhead.jpeg" | prepend: site.baseurl }}" target="_blank">alumi-heads</a> out
 a seam that headed</p>
@@ -137,7 +144,11 @@ some small</p>
 <p>hooks, vaguely following a line up and left toward a big block
 pasted to the</p>
 
-<p>wall. <a href="{{ "/pics/coral.jpeg" | prepend: site.baseurl }}" target="_blank"><img src="{{ "/pics/coraltn.jpeg" | prepend: site.baseurl }}" width="72" height="49" align="LEFT" border="2" naturalsizeflag="3"></a></p>
+<p>wall. 
+<a href="#" class="thumbnail col-sm-1 pull-left">
+	<img src="{{ "/pics/coral.jpeg" | prepend: site.baseurl }}">
+</a>
+</p>
 
 <p>Welcome to the "<a href="{{ "/pics/coral.jpeg" | prepend: site.baseurl }}" target="_blank">Coral
 Sea</a>". The fall was getting pretty bad, and a clanger</p>
@@ -259,8 +270,11 @@ I guess 7 mils</p>
 <p>ain't what they used to be, for during one of my mightier pulls
 the</p>
 
-<p><a href="{{ "/pics/sheath.jpeg" | prepend: site.baseurl }}" target="_blank"><img src="{{ "/pics/sheathtn.jpeg" | prepend: site.baseurl }}" width="52" height="72" align="LEFT" border="2" naturalsizeflag="3">sheath</a>
-opened up for about 6 inches. Sheesh, first day and already two</p>
+<a href="#" class="thumbnail col-sm-1 pull-left">
+	<img src="{{ "/pics/sheath.jpeg" | prepend: site.baseurl }}">
+</a>
+<p>
+sheath opened up for about 6 inches. Sheesh, first day and already two</p>
 
 <p>chopped cords. Omen? Maybe...</p>
 
@@ -284,7 +298,11 @@ and then some</p>
 <p>fine nailing up towards the "K.B. Traverse" on Iron
 Hawk. Some dicey hooking</p>
 
-<p>awaits above and then the pitch <a href="{{ "/pics/storm1.jpeg" | prepend: site.baseurl }}" target="_blank"><img src="{{ "/pics/storm1tn.jpeg" | prepend: site.baseurl }}" width="72" height="48" align="LEFT" border="2" naturalsizeflag="3"></a>ends at a good belay station in a rivet
+<a href="#" class="thumbnail col-sm-1 pull-left">
+	<img src="{{ "/pics/storm1.jpeg" | prepend: site.baseurl }}">
+</a>
+<p>awaits above and then the pitch 
+ends at a good belay station in a rivet
 ladder.</p>
 
 <p>It was here that during the night a pretty good</p>
@@ -300,8 +318,11 @@ cracks and</p>
 <p>flakes. Erik motored this pitch and the highlight was finding
 some idiots</p>
 
-<p><a href="{{ "/pics/stool.jpeg" | prepend: site.baseurl }}" target="_blank"><img src="{{ "/pics/stooltn.jpeg" | prepend: site.baseurl }}" width="72" height="69" align="LEFT" border="2" naturalsizeflag="3">stool</a>
-pasted oh-so-carefully at mid pitch.</p>
+<a href="#" class="thumbnail col-sm-1 pull-left">
+	<img src="{{ "/pics/stool.jpeg" | prepend: site.baseurl }}">
+</a>
+<p>
+stool pasted oh-so-carefully at mid pitch.</p>
 
 <p>From whence it came, I know not....</p>
 
@@ -367,7 +388,11 @@ into play. Pretty</p>
 <p>casual rivets and the odd hook from here, and it lands you
 at a</p>
 
-<p><a href="{{ "/pics/bivy.jpeg" | prepend: site.baseurl }}" target="_blank"><img src="{{ "/pics/bivytn.jpeg" | prepend: site.baseurl }}" width="52" height="72" align="LEFT" border="2" naturalsizeflag="3"></a>super
+<a href="#" class="thumbnail col-sm-1 pull-left">
+	<img src="{{ "/pics/bivy.jpeg" | prepend: site.baseurl }}">
+</a>
+<p>
+super
 <a href="{{ "/pics/bivy.jpeg" | prepend: site.baseurl }}" target="_blank">bivy</a> site that is clean
 to Valley Floor and has tons of bolts.</p>
 
@@ -380,7 +405,11 @@ tons of pro. The</p>
 <p>belay at the end of this pitch is cool and takes big friends,
 all the while you</p>
 
-<p>hope they <a href="{{ "/pics/fingerhat.jpeg" | prepend: site.baseurl }}" target="_blank"><img src="{{ "/pics/fingerhattn.jpeg" | prepend: site.baseurl }}" width="49" height="72" align="LEFT" border="2" naturalsizeflag="3"></a>don't
+<a href="#" class="thumbnail col-sm-1 pull-left">
+	<img src="{{ "/pics/fingerhat.jpeg" | prepend: site.baseurl }}">
+</a>
+
+<p>hope they don't
 pry off the the main feature on the route, the</p>
 
 <p><a href="{{ "/pics/fingerhat.jpeg" | prepend: site.baseurl }}" target="_blank">"Golden Finger
@@ -476,7 +505,10 @@ is where we</p>
 <p>would bivy. The weather was starting to look grim so I decided
 to go out on</p>
 
-<p><a href="{{ "/pics/a3heads.jpeg" | prepend: site.baseurl }}" target="_blank"><img src="{{ "/pics/a3headstn.jpeg" | prepend: site.baseurl }}" width="38" height="72" align="LEFT" border="2" naturalsizeflag="3"></a>lead
+<a href="#" class="thumbnail col-sm-1 pull-left">
+	<img src="{{ "/pics/a3heads.jpeg" | prepend: site.baseurl }}">
+</a>
+<p>lead
 and get some of the</p>
 
 <p><a href="{{ "/pics/a3heads.jpeg" | prepend: site.baseurl }}" target="_blank">A3+ heading</a> done
@@ -514,7 +546,10 @@ up</p>
 
 <p>considerably.</p>
 
-<p><a href="{{ "/pics/seaguys.jpeg" | prepend: site.baseurl }}" target="_blank"><img src="{{ "/pics/seaguystn.jpeg" | prepend: site.baseurl }}" width="48" height="72" align="LEFT" border="2" naturalsizeflag="3"></a>Over
+<a href="#" class="thumbnail col-sm-1 pull-left">
+	<img src="{{ "/pics/seaguys.jpeg" | prepend: site.baseurl }}">
+</a>
+<p>Over
 on the <a href="{{ "/pics/seaguys.jpeg" | prepend: site.baseurl }}" target="_blank">Sea of Dreams</a>
 a party was yelling for help. We</p>
 
@@ -663,7 +698,13 @@ bad shape.</p>
 
 <p>For entertainment I suggested that we take our own</p>
 
-<p><a href="{{ "/pics/russobit.jpeg" | prepend: site.baseurl }}" target="_blank"><img src="{{ "/pics/russobittn.jpeg" | prepend: site.baseurl }}" width="68" height="72" align="LEFT" border="2" naturalsizeflag="3"></a><a href="{{ "/pics/eobit.jpeg" | prepend: site.baseurl }}" target="_blank"><img src="{{ "/pics/eobittn.jpeg" | prepend: site.baseurl }}" width="72" height="52" align="LEFT" border="2" naturalsizeflag="3"></a><b>obituary
+<a href="#" class="thumbnail col-sm-1 pull-left">
+	<img src="{{ "/pics/russobit.jpeg" | prepend: site.baseurl }}">
+</a>
+<a href="#" class="thumbnail col-sm-1 pull-left">
+	<img src="{{ "/pics/eobit.jpeg" | prepend: site.baseurl }}">
+</a>
+<p><b>obituary
 photos</b> and perhaps leave some last</p>
 
 <p>words on the tape deck. I knew that if we turned into</p>
@@ -684,7 +725,10 @@ down. I tell</p>
 <p>Erik that the guys on the Sea are probably dead, and this is
 the storm that</p>
 
-<p><a href="{{ "/pics/storm2.jpeg" | prepend: site.baseurl }}" target="_blank"><img src="{{ "/pics/storm2tn.jpeg" | prepend: site.baseurl }}" width="72" height="45" align="LEFT" border="2" naturalsizeflag="3"></a>gets
+<a href="#" class="thumbnail col-sm-1 pull-left">
+	<img src="{{ "/pics/storm2.jpeg" | prepend: site.baseurl }}">
+</a>
+<p>gets
 them all. Every fall in the Valley, that first big</p>
 
 <p><a href="{{ "/pics/storm2.jpeg" | prepend: site.baseurl }}" target="_blank">storm </a>decimates all
@@ -878,7 +922,10 @@ Erik was whisked</p>
 <p>away to the hospital. I was given a much needed sandwich and
 jumped by the</p>
 
-<p>press. It seemed the rescue had made<a href="{{ "/pics/latimes.pdf" | prepend: site.baseurl }}" target="_blank"><img src="{{ "/pics/latimestn.gif" | prepend: site.baseurl }}" width="54" height="72" align="LEFT" border="2" naturalsizeflag="3"></a></p>
+<a href="#" class="thumbnail col-sm-1 pull-left">
+	<img src="{{ "/pics/latimes.gif" | prepend: site.baseurl }}">
+</a>
+<p>press. It seemed the rescue had made</p>
 
 <p> <a href="{{ "/pics/latimes.pdf" | prepend: site.baseurl }}" target="_blank">all the papers</a> and
 some T.V. news as well. </p>
@@ -931,6 +978,6 @@ we were those idiots. Thanks</p>
 
 <p>boys!
 
-
-
 </p>
+
+</div>

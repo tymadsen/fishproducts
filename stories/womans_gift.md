@@ -6,7 +6,7 @@ nav: stories
 group: stories
 ---
 
-<hr align="LEFT" width="600"><br>
+<br>
 by Russ Walling&copy;
 
 <pre>       I parked in front of the house and checked the address I'd scribbled on my note 
