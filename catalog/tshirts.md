@@ -35,18 +35,18 @@ group: catalog
 <div class="row">
 	<div class="col-sm-3">
 		<a href="#" class="thumbnail">
-			<img src="{{ "/pics/PSYCHE_T_detail.jpg" | prepend: site.baseurl }}" style="display:none">
-			<div>
-				<a href="#" class="thumbnail">
-					<img src="{{ "/pics/psyche_trans.gif" | prepend: site.baseurl }}">
-				</a>
-			</div>
+			<img src="{{ "/pics/psyche_trans.gif" | prepend: site.baseurl }}">
 		</a>
 	</div>
-	<div class="col-sm-9">
+	<div class="col-sm-3">
+		<a href="#" class="thumbnail">
+		 	<img src="{{ "/pics/PSYCHE_T_detail.jpg" | prepend: site.baseurl }}">
+		</a>
+	</div>
+	<div class="col-sm-6">
 		<p>
 			White T, 100% cotton, black imprint.<br>
-			Click on the shirt to see a larger image
+			Click on the shirt or image to see it larger
 		</p>
 		<p>
 			M, L, and XL 

@@ -257,7 +257,7 @@ group: catalog
   <div class="row">
     <div class="col-sm-12">
       <p>
-        <img src="{{ "/pics/cactus.gif " | prepend: site.baseurl }}" width="54" class="pull-left">
+        <img src="{{ "/pics/cactus.gif " | prepend: site.baseurl }}" width="30" class="pull-left">
 				<strong>HEADMASTER TIPS:</strong> Although not included in the kit, a small wire brush will come in real handy for cleaning lichen and effluvium out of the crack. The cleaner the crack is, the stronger the bond between the head and the rock will be. The key to using this or any tool is practice. Try placing heads in the most improbable of places and then apply weight to them. You just might be surprised what will hold.
       </p>
     </div>

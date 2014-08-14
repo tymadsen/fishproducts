@@ -72,7 +72,7 @@ group: catalog
 	</div>
 	<div class="col-sm-2">
 		<a href="#" class="thumbnail">
-			<img src="{{ "/pics/hat.gif" | prepend: site.baseurl }}">
+			<img src="{{ "/pics/Hat.gif" | prepend: site.baseurl }}">
 		</a>
 	</div>
 </div>
