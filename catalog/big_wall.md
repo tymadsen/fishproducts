@@ -61,7 +61,7 @@ group: catalog
       Each side of the "Double Gear Sling" has two racking loops of rolled 1" tubular webbing for easy gear management. Exclusive clip off loops at the apex of the padded shoulder straps make racking at the anchor easier than ever. Just clip in the loops and the racks will hang in an oriented position for gear sorting. A replaceable, wide rear tie-in keeps the weight of the racks over the shoulders, rather than on the neck. The front attachment is of 1" tubular webbing and features a no-slip Fastex buckle for quick and secure adjustment. New features include a stay-open front clip on each shoulder for your aiders. One size fits just about everyone.
     </p>
     <p>
-      <span class="label label-primary label-lg">$49.00 ea.</span>
+      <span class="label label-primary label-lg">$49.00 each</span>
       Random Colors
     </p>
   </div>

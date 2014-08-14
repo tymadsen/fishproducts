@@ -85,7 +85,7 @@ group: catalog
       Six 24" open slings in the color of the day made from 9/16" ClimbSpec nylon webbing. This month they are all Royal Blue. Stock up now!  
     </p>
     <p>
-      <span class="label label-primary label-lg">$20.00 per set of 6</span>
+      <span class="label label-primary label-lg">$20.00</span> per set of 6.
     </p>
   </div>
 </div>
@@ -215,7 +215,7 @@ group: catalog
   Tie your own runners, bail out of a tree, set up a slackline, lash some swag down on your boat. Tons of uses. This is the 1" tubular nylon webbing to use. Assorted colors. Comes in 50 foot lengths. Need some longer? Email us.
 </p>
 <p>
-  <span class="label label-primary label-lg">$17.00 for 50 ft.</span>
+  <span class="label label-primary label-lg">$17.00</span> for 50 ft.
 </p>
 
 

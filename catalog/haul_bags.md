@@ -105,7 +105,7 @@ group: catalog
       <span class="label label-primary label-lg">$119.00 each</span>
     </p>
     <p>
-      To have this bag made from the super burly 32oz white fabric, <span class="label label-primary label-lg">add $12.00.</span>
+      To have this bag made from the super burly 32oz white fabric, add $12.00.
     </p>
   </div>
 </div>
@@ -152,7 +152,7 @@ group: catalog
       Tan color.
     </p>
     <p>
-      To upgrade any Atom Smasher to the super burly 32oz fabric, <span class="label label-primary label-lg">add $12.00.</span>
+      To upgrade any Atom Smasher to the super burly 32oz fabric, add $12.00.
     </p>
     <p>
       Super burly fabric is available in White only.
@@ -186,7 +186,7 @@ group: catalog
       Tan color.
     </p>
     <p>
-      To upgrade any Atom Smasher to the super burly 32oz fabric, <span class="label label-primary label-lg">add $12.00.</span>
+      To upgrade any Atom Smasher to the super burly 32oz fabric, add $12.00.
     </p>
     <p>
       Super burly fabric is available in White only.

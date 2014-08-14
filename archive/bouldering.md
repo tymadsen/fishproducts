@@ -7,8 +7,6 @@ group: archive
 ---
 
 
-
-
 <i>All Photos and Text © Russ Walling 1998 (unless noted)</i>
 
 
@@ -22,6 +20,8 @@ group: archive
 		What we have going here is a quick outline of some of the bouldering available in the Bishop area. Unless you have been living in a cave and have not heard, this vast playground of rock is located in California. With the recent demise of Hueco Tanks in Texas as a bouldering area, Bishop is stepping up to the plate as the premier destination for climbers of all abilities. In the immediate area there are over 2000 documented problems, with pulls from VB minus all the way to V12 or so. V system confused? Check our <a href="{{ "/powerandrubber/grades" | prepend: site.baseurl }}" target="_blank">grading table</a>. Want some stuff that is harder? Come on over and put it up yourself. There is plenty to go around. Just remember, "It's not about <a href="{{ "/powerandrubber/sex" | prepend: site.baseurl }}" target="_blank">Sex</a>....It's about <a href="{{ "/powerandrubber/power" | prepend: site.baseurl }}" target="_blank">Power</a> and <a href="{{ "/powerandrubber/rubber" | prepend: site.baseurl }}" target="_blank">Rubber</a>". enjoy, <a href="mailto:Russ@FishProducts.com?subject=PR%20Site">Russ Walling
 	</p>
 </div>
+
+<hr />
 
 <div class="row">
 	<div class="col-sm-2"></div>
@@ -83,21 +83,34 @@ All the fab goodies live there for doing something a wee bit larger.
 	<div class="col-sm-12">
 		<form action="{{ "/cgi-bin/FormMail.pl" | prepend: site.baseurl }}" method="POST">
 			<input type="hidden" name="subject" value="PR Email">
-			<b>Your Email Address</b>
-			<input type="text" size="50" name="email">
-			<br><br>
-			<b>Your Name</b>
-			<input type="text" size="37" name="Name">
-			<br><br>
-			<b>Favorite Bouldering Area</b>
-			<input type="text" size="50" name="Favorite Area">
-			<br><br>
-			<b>Local Bouldering Area</b>
-			<input type="text" size="50" name="Local Area">
-			<br><br>
+
+			<div class="form-group">
+		    <label class="col-sm-4 control-label">Email address:</label>
+		    <div class="col-sm-8">
+		      <input name="email" type="text" class="form-control">
+		    </div>
+		  </div>
+		  <div class="form-group">
+		    <label class="col-sm-4 control-label">Name:</label>
+		    <div class="col-sm-8">
+		      <input name="Name" type="text" class="form-control">
+		    </div>
+		  </div>
+			<div class="form-group">
+			  <label class="col-sm-4 control-label">Favorite Bouldering Area:</label>
+			  <div class="col-sm-8">
+			    <input name="Favorite Area" type="text" class="form-control">
+			  </div>
+			</div>
+			<div class="form-group">
+		    <label class="col-sm-4 control-label">Local Bouldering Area:</label>
+		    <div class="col-sm-8">
+					<input name="Local Area" type="text" class="form-control">
+		    </div>
+		  </div>
 			<p>
-				<input type="submit" value="Send It!" name="submit">
-				<input name="name" type="reset" value="Clear this mess.....">
+				<input type="submit" value="Send It!" name="submit" class="btn btn-primary">
+				<input name="name" type="reset" value="Clear this mess....." class="btn btn-default">
 			</p>
 		</form>
 	</div>
