@@ -25,7 +25,7 @@ group: archive
 <p>
 </p>
 <center>
-    <b><font color="#FFFF00">ARE YOU READY?</font></b> 
+    <b>ARE YOU READY?</b> 
 </center>
 <p></p>
 <p>This is the big question for most, "am I ready?" Unless you are a complete neophyte, the answer is probably "yes". Wall climbing has a unique way of yielding to various skill levels. For example, the Nose on El Capitan can go at 5.6 A1, or 5.10 A1, or all free in the high 5.13 range. So, are you ready? Yes.</p>
@@ -41,7 +41,7 @@ group: archive
 <p>
 </p>
 <center>
-    <b><big><font color="#FFFF00">EQUIPMENT:</font></big></b> 
+    <b><big>EQUIPMENT:</big></b> 
 </center>
 <p>Ideally you should have everything we produce. Ok, we'll settle for a few standard items. At risk of sounding like a pimp, we make most of the wall stuff listed below. Other manufacturers make some great stuff too, and this is noted where applicable.
 </p>
@@ -72,7 +72,7 @@ group: archive
 <p>
 </p>
 <center>
-    <b><font color="#FFFF00">MOVING WITHIN THE SYSTEM:</font></b> 
+    <b>MOVING WITHIN THE SYSTEM:</b> 
 </center>
 <p>Here is where it all begins. Hopefully you have a good base in free climbing to help you out with the basics of movement on rock. A basic scenario would go like this:</p>
 <p>The leader prepares to lead the pitch. With him/her is the following stuff: the lead line, the zip or haul line, a substantial and adequate rack, his/her personal Jumars, the pulley device, a hammer if needed, and perhaps a pint of water if the pitch is going to take a long time.</p>
@@ -86,7 +86,7 @@ group: archive
 <p>
 </p>
 <center>
-    <b><big><font color="#FFFF00">THE BASIC HAUL:</font></big></b> 
+    <b><big>THE BASIC HAUL:</big></b> 
 </center>
 <p><b>The idea now is to set up the haul. Continuing from the previous section.....</b>
 </p>
@@ -101,7 +101,7 @@ group: archive
 <p>
 </p>
 <center>
-    <b><font color="#FFFF00">THREE PERSON TECHNIQUE:</font></b> 
+    <b>THREE PERSON TECHNIQUE:</b> 
 </center>
 <p>This is probably the most asked question we get. And with good reason. Climbing walls with three people has a lot of advantages, including speed, relative workload, and gives you somebody besides the leader to yell at while belaying. In the basic form, you will have someone out on lead, someone cleaning the pitch and someone belaying and if possible, hauling. All this is going on simultaneously, so as you can see, things will happen pretty fast if everyone does their part .
 </p>
@@ -119,7 +119,7 @@ group: archive
 <p>
 </p>
 <center>
-    <b><big><font color="#FFFF00">COPPERHEADING:</font></big></b> 
+    <b><big>COPPERHEADING:</big></b> 
 </center>
 <p><b>These are the instructions that come with our Headmaster Kit featured in 
   the catalog. The concepts are easily duplicated with your own version of a Headmaster 
@@ -170,7 +170,7 @@ group: archive
 <p>
 </p>
 <center>
-    <b><big><font color="#FFFF00">HOOKING:</font></big></b> 
+    <b><big>HOOKING:</big></b> 
 </center>
 <p>Hooking will flat out age you. Ok, it's done with. Now there is no need to be overly scared, because even old guys can hook.....on rock I mean. There are only a few rules to hooking, and they are as follows:</p>
 <p><b>1.</b> Use the right hook for the job. Using a big Fish Hook on a thin edge on a slab is not the way to go. Pick a hook that fits the hold you are trying to assault. If it is a wide flat edge, use a Leeper Flat. If it is a basic small flake, use the BD Skyhook. If it is a flake as wide as your wrist, use the Fish Hook etc.</p>
@@ -183,7 +183,7 @@ group: archive
 <p>
 </p>
 <center>
-    <b><big><font color="#FFFF00">THE SNEAKY STUFF</font></big></b> 
+    <b><big>THE SNEAKY STUFF:</big></b> 
 </center>
 <p>Here is some stuff that maybe you can use next time you get in a real bind. Some of it is sketchy, but hey, it works.</p>
 <p><b>Cleaning roofs and traverses:</b> 
