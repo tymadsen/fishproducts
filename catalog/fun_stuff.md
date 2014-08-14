@@ -60,7 +60,7 @@ group: catalog
 
 
 <div class="thumbnail pull-left">
-  <img src="{{ "/pics/hat.gif" | prepend: site.baseurl }}">
+  <img src="{{ "/pics/Hat.gif" | prepend: site.baseurl }}">
 </div>
 <p>
   Whether you need a rug, or just want to keep the sun out of your eyes. Tasteful with a big fat FISH logo right on the front. Adjustable to fit most heads.
