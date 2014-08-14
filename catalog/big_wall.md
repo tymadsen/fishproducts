@@ -44,10 +44,10 @@ group: catalog
 
 
 <h3>
-  DOUBLE GEAR SLING:
   <a href="{{ "/faqs/gear_sling" | prepend: site.baseurl }}" class="pull-right label label-default">
     FAQ's
   </a>
+  DOUBLE GEAR SLING:
 </h3>
 
 <div class="row">
@@ -93,10 +93,10 @@ group: catalog
 
 
 <h3>
-  SMART AIDERS: 
   <a href="{{ "/faqs/aiders" | prepend: site.baseurl }}" class="pull-right label label-default">
     FAQ's
   </a>
+  SMART AIDERS: 
 </h3>
 <div class="row">
   <div class="col-sm-3">
@@ -133,10 +133,10 @@ group: catalog
 
 
 <h3>
-  ALPINE AIDERS:
   <a href="{{ "/faqs/aiders" | prepend: site.baseurl }}" class="pull-right label label-default">
     FAQ's
   </a>
+  ALPINE AIDERS:
 </h3>
 <p>
   People kept asking us, " hey, why don't you guys make some lightweight aiders so I don't have to lug around a full size set for two moves of aid." Well this is what we came up with. Our Alpine Aiders feature all the magic of our regular Smart Aiders, but we used 3/4" webbing instead of 1" for lighter weight and easier packability. Since they are the only pair you will carry when going light and fast, we made them both 5-Step aiders for the pair. As always, tons of bartacks, step stiffeners, and a sub 2nd step.
@@ -150,10 +150,10 @@ group: catalog
 
 
 <h3>
-  LADDER AIDERS:
   <a href="{{ "/faqs/aiders" | prepend: site.baseurl }}" class="pull-right label label-default">
     FAQ's
   </a>
+  LADDER AIDERS:
 </h3>
 <div class="row">
   <div class="col-sm-3">
@@ -182,10 +182,10 @@ group: catalog
 
 
 <h3>
-  SUPER DAISY CHAIN:
   <a href="{{ "/faqs/daisy_chain" | prepend: site.baseurl }}" class="pull-right label label-default">
     FAQ's
   </a>
+  SUPER DAISY CHAIN:
 </h3>
 <div class="row">
   <div class="col-sm-3">
@@ -213,10 +213,10 @@ group: catalog
 
 
 <h3>
-  ADJUSTABLE DAISY CHAINS:
   <a href="{{ "/faqs/daisy_chain" | prepend: site.baseurl }}" class="pull-right label label-default">
     FAQ's
   </a>
+  ADJUSTABLE DAISY CHAINS:
 </h3>
 <div class="row">
   <div class="col-sm-3">
