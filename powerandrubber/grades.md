@@ -6,86 +6,40 @@ nav: powerandrubber
 group: powerandrubber
 ---
 
-<HTML>  
-<HEAD>
-  <META NAME="GENERATOR" CONTENT="Adobe PageMill 3.0 Mac">
-  <TITLE>FISH Power and Rubber Bouldering Site</TITLE>
-</HEAD>
-<BODY BACKGROUND="prpics/bg1.gif">
 
-<P><A HREF="index.html" TARGET="_top">&lt;----Back to the Power
-and Rubber Home</A></P>
+[Power and Rubber home]({{ "/powerandrubber/" | prepend: site.baseurl }})
 
-<P><A HREF="areas.html" TARGET="_top">&lt;---Back to the AREAS
-page</A></P>
 
-<P><CENTER><B><BIG><BIG>Grading Systems Compared</BIG></BIG></B><HR
-WIDTH="600" COLOR="#000000"></CENTER></P>
+###Grading Systems Compared
 
-<P><CENTER><B><BIG>In an impossible attempt (for reasons to be
+In an impossible attempt (for reasons to be
 outlined later) to publish a valid and correct comparison table,
 here is our effort. Before I start my rant on just why a table
 like this should be only used as a loose guide, and before you
 get all huffy because you thought you were a 5.13 guy but now
-only boulder V7 instead of V10, read this:</BIG></B></CENTER></P>
+only boulder V7 instead of V10, read this:
 
-<BLOCKQUOTE>
-  <P><B><I><BIG>A practical guide to applying the V-system<BR>
-  Copyright 1998 John Sherman</BIG></I></B></P></BLOCKQUOTE>
+> A practical guide to applying the V-system\\
+> *Copyright 1998 John Sherman*
+>
+> * **V0** A problem you wouldn't admit to doing no matter how cool it was.
+> * **V1** A problem you would admit to doing, if it had loose holds, a death landing, and your partner backed off of it.
+> * **V2** A problem, if cool enough, that you would recommend to others to prove you're not a ratings snob.
+> * **V3** A problem you ruthlessly wire and incorporate into your warm-up routine, in the hopes that visiting partners will struggle on it.
+> * **V4** A problem that might give you trouble, but "Hey, anything below V5 is so easy I can't tell the difference."
+> * **V5** A problem, if you were to live in Boulder, Colorado, that you might actually flash.
+> * **V6** A problem, if you were to live in Boulder, Colorado, that you would expect your girlfriend to flash.
+> * **V7** A problem you fell on repeatedly, but really, you could have flashed it.
+> * **V**  A problem you religiously avoid, because you're "saving it for the flash."
+> * **V9** A problem you have no chance of flashing.
+> * **V1**  A problem you knew you could have done, even though your spotter took 10kg off for you, so you counted it anyway.
+> * **V1**  A problem, if flashed, that you might get free shoes for, but only if you fax the mags this month.
+* **V12** A problem you would do if only your fingers were a bit smaller, your reach a bit longer, your spotter more attentive, the weather more amenable, your > shoes not so blown out, your elbow not so sore from training, the sun not in your eyes, and you didn't eat that funky take-out Chinese the night before.
+* **V13** A problem commensurate with your well-published abilities, that you deserve credit for, even though you didn't do it, because as the mags reported, "It > was too humid."
+> * **V14** A problem only Fred Nicole could do, after you gave him the beta.
 
-<UL>
-  <LI><B>V0 </B>A problem you wouldn't admit to doing no matter
-  how cool it was.
-  <LI><B>V1 </B>A problem you would admit to doing, if it had loose
-  holds, a death<BR>
-  landing, and your partner backed off of it.
-  <LI><B>V2 </B>A problem, if cool enough, that you would recommend
-  to others to<BR>
-  prove you're not a ratings snob.
-  <LI><B>V3 </B>A problem you ruthlessly wire and incorporate into
-  your warm-up<BR>
-  routine, in the hopes that visiting partners will struggle on
-  it.
-  <LI><B>V4 </B>A problem that might give you trouble, but &quot;Hey,
-  anything below V5 is<BR>
-  so easy I can't tell the difference.&quot;
-  <LI><B>V5 </B>A problem, if you were to live in Boulder, Colorado,
-  that you might<BR>
-  actually flash.
-  <LI><B>V6 </B>A problem, if you were to live in Boulder, Colorado,
-  that you would<BR>
-  expect your girlfriend to flash.
-  <LI><B>V7 </B>A problem you fell on repeatedly, but really, you
-  could have flashed<BR>
-  it.
-  <LI><B>V8</B> A problem you religiously avoid, because you're
-  &quot;saving it for the<BR>
-  flash.&quot;
-  <LI><B>V9 </B>A problem you have no chance of flashing.
-  <LI><B>V10</B> A problem you knew you could have done, even though
-  your spotter<BR>
-  took 10kg off for you, so you counted it anyway.
-  <LI><B>V11</B> A problem, if flashed, that you might get free
-  shoes for, but only<BR>
-  if you fax the mags this month.
-  <LI><B>V12 </B>A problem you would do if only your fingers were
-  a bit smaller, your<BR>
-  reach a bit longer, your spotter more attentive, the weather
-  more<BR>
-  amenable, your shoes not so blown out, your elbow not so sore
-  from<BR>
-  training, the sun not in your eyes, and you didn't eat that funky<BR>
-  take-out Chinese the night before.
-  <LI><B>V13 </B>A problem commensurate with your well-published
-  abilities, that you<BR>
-  deserve credit for, even though you didn't do it, because as
-  the mags<BR>
-  reported, &quot;It was too humid.&quot;
-  <LI><B>V14 </B>A problem only Fred Nicole could do, after you
-  gave him the beta.
-</UL>
+###Now back to why these tables never really work:
 
-<P><CENTER><B><BIG>Now back to why these tables never really work:</BIG></B><BR>
 The basic flaw or real truth of V-grading is it is area specific.
 What this means is the system was never envisioned to cross pollinate
 with the YDS, Font, J.T. or whatever. As Sherman said in the first
@@ -109,8 +63,9 @@ V3....if it is harder, it is probably V5. If it is 25 feet high
 and rated V0, that does not mean it will be easier than a sit
 down 5 footer graded V0...it should be just as hard...maybe right
 up to the last move. Bad landing? Who cares... V2 is still V2,
-whether you are landing on a lawn or Punji sticks.<BR>
-Addendum: In the winter of 2000, a stack of Brits were here for
+whether you are landing on a lawn or Punji sticks.
+
+**Addendum:** In the winter of 2000, a stack of Brits were here for
 an extended stay. They reworked the chart below to help out with
 the Font and Peak grades. These were no ordinary slackers, but
 guys and gals who have been pulling hard for years and have a
@@ -120,315 +75,339 @@ grades (ie: pulling hard, positive holds, power, steep) and go
 to the Font, chances are you will get your butt kicked. The Font
 is mostly slopers, not so steep, and requires technique. The Peak
 is somewhere in the middle, with power problems and slopers in
-the mix.</CENTER></P>
+the mix.
 
-<P><CENTER><I>&quot;Remember that grades are not a measuring stick
-for the size of your ego, they are merely a guide <BR>
-to the routes that you may consider attempting.</I> &quot;&nbsp;<BR>
-<B>Dave Pegg, author of the Rifle Guide by RockFax Guidebooks</B>.</CENTER></P>
+> *&quot;Remember that grades are not a measuring stick
+> for the size of your ego, they are merely a guide
+> to the routes that you may consider attempting. &quot;*
+>
+> \- Dave Pegg, author of the Rifle Guide by RockFax Guidebooks.
 
-<P><CENTER><I>&quot;...Bollocks, Dave Pegg, and you know it. Grades
-are a measuring stick for the size of your ego they are also directly
-proportional to the amount of free gear some gullible company
-gives you and how often you get laid.</I> &quot;<BR>
-<B>Mick Ryan, publisher of the Rifle Guide by RockFax Guidebooks.</B><BR>
-</CENTER></P>
+> *&quot;...Bollocks, Dave Pegg, and you know it. Grades
+> are a measuring stick for the size of your ego they are also directly
+> proportional to the amount of free gear some gullible company
+> gives you and how often you get laid.&quot;*
+> 
+> \- Mick Ryan, publisher of the Rifle Guide by RockFax Guidebooks.
 
-<P><CENTER><TABLE WIDTH="611" BORDER="1" CELLSPACING="2" CELLPADDING="0"
-HEIGHT="954">
-  <TR>
-    <TH WIDTH="8%" HEIGHT="64">&nbsp;V <BR>
-      grade</TH> 
-    <TH WIDTH="8%" HEIGHT="64">Y.D.S. grade</TH> 
-    <TH WIDTH="7%" HEIGHT="64">Font <BR>
-      grade</TH> 
-    <TH WIDTH="7%" HEIGHT="64">Peak <BR>
-      grade</TH> 
-    <TH WIDTH="8%" HEIGHT="64">Joshua Tree grade</TH> 
-    <TH WIDTH="6%" HEIGHT="64">B <BR>
-      grade</TH> 
-    <TH WIDTH="9%" HEIGHT="64">Phoenix grade</TH> 
-    <TH WIDTH="47%" HEIGHT="64"><BIG>Bishop&nbsp;Examples,<BR>
-      others in parenthesis<BR>
-      </BIG><SMALL>HR=Horsetooth, HT=Hueco, IR=Indian Rock JT=Joshua
-      Tree, M=Morrison YNP=Yosemite</SMALL></TH> 
-  </TR>
-  <TR>
-    <TH WIDTH="8%" HEIGHT="43">VB</TH> 
-    <TD WIDTH="8%" HEIGHT="43" ALIGN="CENTER">&nbsp;5.6-5.9</TD> 
-    <TD WIDTH="7%" HEIGHT="43" ALIGN="CENTER">&nbsp;5</TD> 
-    <TD WIDTH="7%" HEIGHT="43" ALIGN="CENTER">B0-</TD> 
-    <TD WIDTH="8%" HEIGHT="43" ALIGN="CENTER">&nbsp;5.6 - 5.9</TD> 
-    <TD WIDTH="6%" HEIGHT="43" ALIGN="CENTER">&nbsp;B0-</TD> 
-    <TD WIDTH="9%" HEIGHT="43" ALIGN="CENTER">&nbsp;P0</TD> 
-    <TD WIDTH="47%" HEIGHT="43"><B>&nbsp;Jolly Beggar boulder</B>,
-      south face routes <SMALL>(Happies)</SMALL></TD> 
-  </TR>
-  <TR>
-    <TH HEIGHT="43" WIDTH="8%">&nbsp;&nbsp;V0-</TH> 
-    <TD HEIGHT="43" ALIGN="CENTER" WIDTH="8%">&nbsp;5.10a</TD> 
-    <TD HEIGHT="43" ALIGN="CENTER" WIDTH="7%">&nbsp;5</TD> 
-    <TD HEIGHT="43" ALIGN="CENTER" WIDTH="7%">&nbsp;B0</TD> 
-    <TD HEIGHT="43" ALIGN="CENTER" WIDTH="8%">&nbsp;5.10-</TD> 
-    <TD HEIGHT="43" ALIGN="CENTER" WIDTH="6%">&nbsp;B0</TD> 
-    <TD HEIGHT="43" ALIGN="CENTER" WIDTH="9%">&nbsp;P1-</TD> 
-    <TD HEIGHT="43" WIDTH="47%"><B>A Whispering Sea of Towering Trees</B>,<SMALL>
-      (Happies)<BR>
-      </SMALL><B>Split Melon</B><SMALL> (Happies) </SMALL><B>Benny</B><SMALL>
-      (Happies)</SMALL><BR>
-      &nbsp;<SMALL>(Round Room traverse, HT)</SMALL></TD> 
-  </TR>
-  <TR>
-    <TH WIDTH="8%" HEIGHT="43">&nbsp;V0</TH> 
-    <TD WIDTH="8%" HEIGHT="43" ALIGN="CENTER">&nbsp;5.10</TD> 
-    <TD WIDTH="7%" HEIGHT="43" ALIGN="CENTER">&nbsp;5+</TD> 
-    <TD WIDTH="7%" HEIGHT="43" ALIGN="CENTER">&nbsp;B0+</TD> 
-    <TD WIDTH="8%" HEIGHT="43" ALIGN="CENTER">&nbsp;5.10</TD> 
-    <TD WIDTH="6%" HEIGHT="43" ALIGN="CENTER">&nbsp;B0</TD> 
-    <TD WIDTH="9%" HEIGHT="43" ALIGN="CENTER">&nbsp;P1</TD> 
-    <TD WIDTH="47%" HEIGHT="43">&nbsp;<B>Point of Perfection<BIG>
-      </BIG></B><SMALL>(Club Med) </SMALL><B>Corner,</B><SMALL> (Happies)<BR>
-      </SMALL><B>The Brown Wall</B><SMALL> (Happies)</SMALL></TD> 
-  </TR>
-  <TR>
-    <TH WIDTH="8%" HEIGHT="43">&nbsp;V0+</TH> 
-    <TD WIDTH="8%" HEIGHT="43" ALIGN="CENTER">&nbsp;5.10+</TD> 
-    <TD WIDTH="7%" HEIGHT="43" ALIGN="CENTER">&nbsp;6a</TD> 
-    <TD WIDTH="7%" HEIGHT="43" ALIGN="CENTER">&nbsp;B1-</TD> 
-    <TD WIDTH="8%" HEIGHT="43" ALIGN="CENTER">&nbsp;5.10+</TD> 
-    <TD WIDTH="6%" HEIGHT="43" ALIGN="CENTER">&nbsp;B0</TD> 
-    <TD WIDTH="9%" HEIGHT="43" ALIGN="CENTER">&nbsp;P2</TD> 
-    <TD WIDTH="47%" HEIGHT="43">&nbsp;<B>Fire Pit,</B> <SMALL>(Sads)
-      </SMALL><B>Gotta' Find A Truck,</B><SMALL> (Happies) <BR>
-      </SMALL><B>The Persuit of WOW</B><SMALL> (Happies)<BR>
-      (Betty Jo Yablonski, JT / WaterCourse Rt, IR</SMALL></TD> 
-  </TR>
-  <TR>
-    <TH WIDTH="8%" HEIGHT="43">&nbsp;V1</TH> 
-    <TD WIDTH="8%" HEIGHT="43" ALIGN="CENTER">&nbsp;5.11a</TD> 
-    <TD WIDTH="7%" HEIGHT="43" ALIGN="CENTER">&nbsp;6b</TD> 
-    <TD WIDTH="7%" HEIGHT="43" ALIGN="CENTER">&nbsp;B1</TD> 
-    <TD WIDTH="8%" HEIGHT="43" ALIGN="CENTER">&nbsp;A-</TD> 
-    <TD WIDTH="6%" HEIGHT="43" ALIGN="CENTER">&nbsp;B0</TD> 
-    <TD WIDTH="9%" HEIGHT="43" ALIGN="CENTER">&nbsp;P3</TD> 
-    <TD WIDTH="47%" HEIGHT="43"><B>&nbsp;Jah-Niece</B>,<SMALL> (Lonelys)
-      </SMALL><B>Musical Therapy</B><SMALL> (Club Med)<BR>
-      </SMALL><B>Hole in my Heart,</B><SMALL> (Happies)</SMALL></TD> 
-  </TR>
-  <TR>
-    <TH WIDTH="8%" HEIGHT="49">&nbsp;V2</TH> 
-    <TD WIDTH="8%" HEIGHT="49" ALIGN="CENTER">&nbsp;5.11</TD> 
-    <TD WIDTH="7%" HEIGHT="49" ALIGN="CENTER">&nbsp;6b-</TD> 
-    <TD WIDTH="7%" HEIGHT="49" ALIGN="CENTER">&nbsp;B2</TD> 
-    <TD WIDTH="8%" HEIGHT="49" ALIGN="CENTER">&nbsp;A</TD> 
-    <TD WIDTH="6%" HEIGHT="49" ALIGN="CENTER">&nbsp;B0</TD> 
-    <TD WIDTH="9%" HEIGHT="49" ALIGN="CENTER">&nbsp;P4</TD> 
-    <TD WIDTH="47%" HEIGHT="49"><B>&nbsp;Santeria, </B>(<SMALL>Lonelys)
-      </SMALL><B>ChupaCabra, </B><SMALL>(Lonelys) <BR>
-      </SMALL><B>Big Chicken,</B><SMALL> (Happies) </SMALL><B>Sunspots
-      </B><SMALL>(Happies) <BR>
-      (Stem Gem, JT)</SMALL></TD> 
-  </TR>
-  <TR>
-    <TH WIDTH="8%" HEIGHT="43">&nbsp;V3</TH> 
-    <TD WIDTH="8%" HEIGHT="43" ALIGN="CENTER">&nbsp;5.11+</TD> 
-    <TD WIDTH="7%" HEIGHT="43" ALIGN="CENTER">&nbsp;6b</TD> 
-    <TD WIDTH="7%" HEIGHT="43" ALIGN="CENTER">
-      <P>&nbsp;B3</P>
 
-      <P>B4-
-    </TD>
-    <TD WIDTH="8%" HEIGHT="43" ALIGN="CENTER">&nbsp;A+</TD> 
-    <TD WIDTH="6%" HEIGHT="43" ALIGN="CENTER">&nbsp;B0+</TD> 
-    <TD WIDTH="9%" HEIGHT="43" ALIGN="CENTER">&nbsp;P5</TD> 
-    <TD WIDTH="47%" HEIGHT="43"><SMALL>&nbsp;</SMALL><B>Pottengers
-      Wish List,</B><SMALL> (Happies) </SMALL><B>Bleached Bones</B><SMALL>
-      (Happies) (White Rastafarian, JT / Mental Block HR / Bachar Cracker,
-      Shiver Me Timbers, YNP)</SMALL></TD> 
-  </TR>
-  <TR>
-    <TH WIDTH="8%" HEIGHT="43">&nbsp;V4</TH> 
-    <TD WIDTH="8%" HEIGHT="43" ALIGN="CENTER">&nbsp;5.12a</TD> 
-    <TD WIDTH="7%" HEIGHT="43" ALIGN="CENTER">
-      <P>&nbsp;6b+</P>
+<div class="table-responsive">
+  <table class="table">
+    <tr>
+      <th>V <br>
+        grade</th> 
+      <th>Y.D.S. grade</th> 
+      <th>Font <br>
+        grade</th> 
+      <th>Peak <br>
+        grade</th> 
+      <th>Joshua Tree grade</th> 
+      <th>B <br>
+        grade</th> 
+      <th>Phoenix grade</th> 
+      <th>Bishop Examples,<br>
+        others in parenthesis<br>
+        <small>HR=Horsetooth, HT=Hueco, IR=Indian Rock JT=Joshua
+        Tree, M=Morrison YNP=Yosemite</small>
+      </th>
+    </tr>
+    <tr>
+      <th>VB</th> 
+      <td>5.6-5.9</td> 
+      <td>5</td> 
+      <td>B0-</td> 
+      <td>5.6 - 5.9</td> 
+      <td>B0-</td> 
+      <td>P0</td> 
+      <td>
+        <strong>Jolly Beggar boulder</strong>,
+        south face routes <small>(Happies)</small>
+      </td> 
+    </tr>
+    <tr>
+      <th>V0-</th> 
+      <td>5.10a</td> 
+      <td>5</td> 
+      <td>B0</td> 
+      <td>5.10-</td> 
+      <td>B0</td> 
+      <td>P1-</td> 
+      <td>
+        <strong>A Whispering Sea of Towering Trees</strong>, <small>(Happies)</small><br>
+        <strong>Split Melon</strong> <small>(Happies)</small><br>
+        <strong>Benny</strong> <small>(Happies)</small><br>
+        <small>(Round Room traverse, HT)</small>
+      </td> 
+    </tr>
+    <tr>
+      <th>V0</th> 
+      <td>5.10</td> 
+      <td>5+</td> 
+      <td>B0+</td> 
+      <td>5.10</td> 
+      <td>B0</td> 
+      <td>P1</td> 
+      <td>
+        <strong>Point of Perfection</strong> <small>(Club Med)</small><br>
+        <strong>Corner,</strong> <small>(Happies)</small><br>
+        <strong>The Brown Wall</strong> <small>(Happies)</small>
+      </td> 
+    </tr>
+    <tr>
+      <th>V0+</th> 
+      <td>5.10+</td> 
+      <td>6a</td> 
+      <td>B1-</td> 
+      <td>5.10+</td> 
+      <td>B0</td> 
+      <td>P2</td> 
+      <td>
+        <strong>Fire Pit,</strong> <small>(Sads)</small><br>
+        <strong>Gotta' Find A Truck,</strong><small> (Happies) </small><br>
+        <strong>The Persuit of WOW</strong><small> (Happies)<br>
+        (Betty Jo Yablonski, JT / WaterCourse Rt, IR</small>
+      </td> 
+    </tr>
+    <tr>
+      <th>V1</th> 
+      <td>5.11a</td> 
+      <td>6b</td> 
+      <td>B1</td> 
+      <td>A-</td> 
+      <td>B0</td> 
+      <td>P3</td> 
+      <td>
+        <strong>Jah-Niece</strong>,<small> (Lonelys)</small><br>
+        <strong>Musical Therapy</strong><small> (Club Med)</small><br>
+        <strong>Hole in my Heart,</strong><small> (Happies)</small>
+      </td> 
+    </tr>
+    <tr>
+      <th>V2</th> 
+      <td>5.11</td> 
+      <td>6b-</td> 
+      <td>B2</td> 
+      <td>A</td> 
+      <td>B0</td> 
+      <td>P4</td> 
+      <td>
+        <strong>Santeria, </strong>(<small>Lonelys)</small><br>
+        <strong>ChupaCabra, </strong><small>(Lonelys) </small><br>
+        <strong>Big Chicken,</strong><small> (Happies) </small><br>
+        <strong>Sunspots</strong><small>(Happies) <br>
+        (Stem Gem, JT)</small>
+      </td> 
+    </tr>
+    <tr>
+      <th>V3</th> 
+      <td>5.11+</td> 
+      <td>6b</td> 
+      <td>
+        B3<br>
 
-      <P>6c-
-    </TD>
-    <TD WIDTH="7%" HEIGHT="43" ALIGN="CENTER">
-      <P>&nbsp;B4</P>
+        B4-
+      </td>
+      <td>A+</td> 
+      <td>B0+</td> 
+      <td>P5</td> 
+      <td>
+        <strong>Pottengers Wish List,</strong> <small>(Happies)</small><br>
+        <strong>Bleached Bones</strong><small>(Happies)<br>
+        (White Rastafarian, JT / Mental Block HR / Bachar Cracker, Shiver Me Timbers, YNP)</small>
+      </td> 
+    </tr>
+    <tr>
+      <th>V4</th> 
+      <td>5.12a</td> 
+      <td>
+        6b+<br>
 
-      <P>B5
-    </TD>
-    <TD WIDTH="8%" HEIGHT="43" ALIGN="CENTER">&nbsp;B-</TD> 
-    <TD WIDTH="6%" HEIGHT="43" ALIGN="CENTER">&nbsp;B1-</TD> 
-    <TD WIDTH="9%" HEIGHT="43" ALIGN="CENTER">&nbsp;P6</TD> 
-    <TD WIDTH="47%" HEIGHT="43"><SMALL>&nbsp;</SMALL><B>Nice Tooth
-      </B><SMALL>(Lonelys) </SMALL><B>Ham is Sex</B><SMALL> (Neuroses)
-<BR>
-      </SMALL><B>Big Chicken SD</B><SMALL>, (Happies) </SMALL><B>Serengeti,</B><SMALL>
-      (Happies)<BR>
-      (right Eliminator, HR)</SMALL></TD> 
-  </TR>
-  <TR>
-    <TH WIDTH="8%" HEIGHT="43">&nbsp;V5</TH> 
-    <TD WIDTH="8%" HEIGHT="43" ALIGN="CENTER">&nbsp;5.12</TD> 
-    <TD WIDTH="7%" HEIGHT="43" ALIGN="CENTER">
-      <P>&nbsp;6c</P>
+        6c-
+      </td>
+      <td>
+        B4<br>
 
-      <P>6c+
-    </TD>
-    <TD WIDTH="7%" HEIGHT="43" ALIGN="CENTER">&nbsp;B6</TD> 
-    <TD WIDTH="8%" HEIGHT="43" ALIGN="CENTER">&nbsp;B</TD> 
-    <TD WIDTH="6%" HEIGHT="43" ALIGN="CENTER">&nbsp;B1</TD> 
-    <TD WIDTH="9%" HEIGHT="43" ALIGN="CENTER">&nbsp;P7</TD> 
-    <TD WIDTH="47%" HEIGHT="43"><SMALL>&nbsp;</SMALL><B>Groundwater</B><SMALL>
-      (Happies)</SMALL><B> Rave</B><SMALL> (Happies)<BR>
-      </SMALL><B>Hair Trigger </B><SMALL>(Happies) </SMALL><B>Action
-      Figure </B><SMALL>(Happies) <BR>
-      (All Washed Up, JT / 45degree wall, HT)</SMALL></TD> 
-  </TR>
-  <TR>
-    <TH WIDTH="8%" HEIGHT="56">&nbsp;V6</TH> 
-    <TD WIDTH="8%" HEIGHT="56" ALIGN="CENTER">&nbsp;5.12+</TD> 
-    <TD WIDTH="7%" HEIGHT="56" ALIGN="CENTER">
-      <P>&nbsp;6c+</P>
+        B5
+      </td>
+      <td>B-</td> 
+      <td>B1-</td> 
+      <td>P6</td> 
+      <td>
+        <strong>Nice Tooth</strong> <small>(Lonelys)</small><br>
+        <strong>Ham is Sex</strong> <small>(Neuroses)</small><br>
+        <strong>Big Chicken SD,</strong> <small>(Happies)</small><br>
+        <strong>Serengeti,</strong> <small>(Happies)<br>
+        (right Eliminator, HR)</small>
+      </td> 
+    </tr>
+    <tr>
+      <th>V5</th> 
+      <td>5.12</td> 
+      <td>
+        6c<br>
 
-      <P>7a
-    </TD>
-    <TD WIDTH="7%" HEIGHT="56" ALIGN="CENTER">&nbsp;B7</TD> 
-    <TD WIDTH="8%" HEIGHT="56" ALIGN="CENTER">&nbsp;B+</TD> 
-    <TD WIDTH="6%" HEIGHT="56" ALIGN="CENTER">&nbsp;B1</TD> 
-    <TD WIDTH="9%" HEIGHT="56" ALIGN="CENTER">&nbsp;P8</TD> 
-    <TD WIDTH="47%" HEIGHT="56"><B>High Plains Drifter </B><SMALL>(BMilk)
-<BR>
-      </SMALL><B>Every Color You Are </B><SMALL>(Happies) </SMALL><B>The
-      Gleaner </B><SMALL>(Happies)</SMALL> <SMALL>(Planet X, Pumping
-      Monzonite, JT / center El Murray, HT / Pinch Route, HR )</SMALL></TD> 
-  </TR>
-  <TR>
-    <TH WIDTH="8%" HEIGHT="43">&nbsp;V7</TH> 
-    <TD WIDTH="8%" HEIGHT="43" ALIGN="CENTER">&nbsp;5.13a</TD> 
-    <TD WIDTH="7%" HEIGHT="43" ALIGN="CENTER">&nbsp;7a+</TD> 
-    <TD WIDTH="7%" HEIGHT="43" ALIGN="CENTER">&nbsp;B8</TD> 
-    <TD WIDTH="8%" HEIGHT="43" ALIGN="CENTER">&nbsp;C-</TD> 
-    <TD WIDTH="6%" HEIGHT="43" ALIGN="CENTER">&nbsp;B1+</TD> 
-    <TD WIDTH="9%" HEIGHT="43" ALIGN="CENTER">&nbsp;P8+/P9</TD> 
-    <TD WIDTH="47%" HEIGHT="43"><B>Take the Force of the Blow </B><SMALL>(Happies)
-<BR>
-      </SMALL><B>Come Together </B><SMALL>(Sads) </SMALL><B>Morning
-      Dove White</B><SMALL> (Happies)<BR>
-      (Caveman, Soar Eagle, JT / Cytogrinder, M)</SMALL></TD> 
-  </TR>
-  <TR>
-    <TH WIDTH="8%" HEIGHT="43">&nbsp;V8</TH> 
-    <TD WIDTH="8%" HEIGHT="43" ALIGN="CENTER">&nbsp;5.13</TD> 
-    <TD WIDTH="7%" HEIGHT="43" ALIGN="CENTER">&nbsp;7b</TD> 
-    <TD WIDTH="7%" HEIGHT="43" ALIGN="CENTER">
-      <P>&nbsp;B8+</P>
+        6c+
+      </td>
+      <td>B6</td> 
+      <td>B</td> 
+      <td>B1</td> 
+      <td>P7</td> 
+      <td>
+        <strong>Groundwater</strong><small>(Happies)</small><br>
+        <strong>Rave</strong><small> (Happies)</small><br>
+        <strong>Hair Trigger </strong><small>(Happies) </small><br>
+        <strong>Action Figure </strong><small>(Happies) <br>
+        (All Washed Up, JT / 45degree wall, HT)</small>
+      </td> 
+    </tr>
+    <tr>
+      <th>V6</th> 
+      <td>5.12+</td> 
+      <td>
+        6c+<br>
 
-      <P>B9-
-    </TD>
-    <TD WIDTH="8%" HEIGHT="43" ALIGN="CENTER">&nbsp;C</TD> 
-    <TD WIDTH="6%" HEIGHT="43" ALIGN="CENTER">&nbsp;B2-</TD> 
-    <TD WIDTH="9%" HEIGHT="43" ALIGN="CENTER">&nbsp;P9+/P10-</TD> 
-    <TD WIDTH="47%" HEIGHT="43"><SMALL>&nbsp;</SMALL><B>Disco Diva</B><SMALL>
-      (Happies) </SMALL><B>Fast Dance </B><SMALL>(Happies) <BR>
-      (Midnight Lightning, YNP)</SMALL></TD> 
-  </TR>
-  <TR>
-    <TH WIDTH="8%" HEIGHT="43">&nbsp;V9</TH> 
-    <TD WIDTH="8%" HEIGHT="43" ALIGN="CENTER">&nbsp;5.13+</TD> 
-    <TD WIDTH="7%" HEIGHT="43" ALIGN="CENTER">&nbsp;7b+</TD> 
-    <TD WIDTH="7%" HEIGHT="43" ALIGN="CENTER">&nbsp;B9</TD> 
-    <TD WIDTH="8%" HEIGHT="43" ALIGN="CENTER">&nbsp;C+</TD> 
-    <TD WIDTH="6%" HEIGHT="43" ALIGN="CENTER">&nbsp;B2</TD> 
-    <TD WIDTH="9%" HEIGHT="43" ALIGN="CENTER">&nbsp;P10</TD> 
-    <TD WIDTH="47%" HEIGHT="43">&nbsp;<B>Cholos</B> <SMALL>(Happies)
-      </SMALL><B>Redrum</B><SMALL> (Happies) </SMALL><B>Sailor Coon</B><SMALL>
-      (Sads) </SMALL><B>He Got Game</B><SMALL> (Happies)<BR>
-      (Never Say Never, Eldo / The Force, YNP / Sex after Death, HT
-      )</SMALL></TD> 
-  </TR>
-  <TR>
-    <TH WIDTH="8%" HEIGHT="43">&nbsp;V10</TH> 
-    <TD WIDTH="8%" HEIGHT="43" ALIGN="CENTER">&nbsp;5.14a</TD> 
-    <TD WIDTH="7%" HEIGHT="43" ALIGN="CENTER">&nbsp;7c</TD> 
-    <TD WIDTH="7%" HEIGHT="43" ALIGN="CENTER">&nbsp;B9+</TD> 
-    <TD WIDTH="8%" HEIGHT="43" ALIGN="CENTER">&nbsp;D-</TD> 
-    <TD WIDTH="6%" HEIGHT="43" ALIGN="CENTER">&nbsp;B2</TD> 
-    <TD WIDTH="9%" HEIGHT="43" ALIGN="CENTER">&nbsp;P10+</TD> 
-    <TD WIDTH="47%" HEIGHT="43"><B>Slow Dance</B> <SMALL>(Happies)</SMALL>&nbsp;<B>Beefcake
-      </B><SMALL>(Sads) <BR>
-      </SMALL><B>Stained Glass </B><SMALL>(BMilk) <BR>
-      (Meathook, HR / Dominator, Thriller YNP)</SMALL></TD> 
-  </TR>
-  <TR>
-    <TH WIDTH="8%" HEIGHT="44">&nbsp;V11</TH> 
-    <TD WIDTH="8%" HEIGHT="44" ALIGN="CENTER">&nbsp;5.14b</TD> 
-    <TD WIDTH="7%" HEIGHT="44" ALIGN="CENTER">&nbsp;7c+</TD> 
-    <TD WIDTH="7%" HEIGHT="44" ALIGN="CENTER">&nbsp;B10</TD> 
-    <TD WIDTH="8%" HEIGHT="44" ALIGN="CENTER">&nbsp;D</TD> 
-    <TD WIDTH="6%" HEIGHT="44" ALIGN="CENTER">&nbsp;B2+</TD> 
-    <TD WIDTH="9%" HEIGHT="44" ALIGN="CENTER">&nbsp;P11-</TD> 
-    <TD WIDTH="47%" HEIGHT="44">
-      <P><CENTER><B>Slice and Dice</B><SMALL> (Sads)</SMALL>&nbsp;<SMALL>
-<BR>
-      </SMALL><B>The Force</B><SMALL> (YNP)</SMALL></CENTER></TD>
-  </TR>
-  <TR>
-    <TH WIDTH="8%" HEIGHT="45">&nbsp;V12</TH> 
-    <TD WIDTH="8%" HEIGHT="45" ALIGN="CENTER">&nbsp;5.14c</TD> 
-    <TD WIDTH="7%" HEIGHT="45" ALIGN="CENTER">&nbsp;8a</TD> 
-    <TD WIDTH="7%" HEIGHT="45" ALIGN="CENTER">&nbsp;B11</TD> 
-    <TD WIDTH="8%" HEIGHT="45" ALIGN="CENTER">&nbsp;D+</TD> 
-    <TD WIDTH="6%" HEIGHT="45" ALIGN="CENTER">B3-</TD> 
-    <TD WIDTH="9%" HEIGHT="45" ALIGN="CENTER">&nbsp;P11</TD> 
-    <TD WIDTH="47%" HEIGHT="45" ALIGN="CENTER"><B>Buttermilker </B><SMALL>(Bmilk)<BR>
-      </SMALL><B><BIG>Mandala</BIG></B><SMALL> (BMilk)</SMALL></TD>
-  </TR>
-  <TR>
-    <TH WIDTH="8%" HEIGHT="45">&nbsp;V13</TH> 
-    <TD WIDTH="8%" HEIGHT="45" ALIGN="CENTER">&nbsp;5.14d</TD> 
-    <TD WIDTH="7%" HEIGHT="45" ALIGN="CENTER">&nbsp;8a+</TD> 
-    <TD WIDTH="7%" HEIGHT="45" ALIGN="CENTER">&nbsp;B12</TD> 
-    <TD WIDTH="8%" HEIGHT="45" ALIGN="CENTER">&nbsp;E-</TD> 
-    <TD WIDTH="6%" HEIGHT="45" ALIGN="CENTER">&nbsp;B3-</TD> 
-    <TD WIDTH="9%" HEIGHT="45" ALIGN="CENTER">&nbsp;P11+</TD> 
-    <TD WIDTH="47%" HEIGHT="45" ALIGN="CENTER"><B>Dominator </B><SMALL>(YNP)<BR>
-      </SMALL><B>Superman</B><SMALL> (Cressbrook Crag X)<BR>
-      </SMALL><B>Goldfish Trombone </B><SMALL>(Happies)</SMALL></TD> 
-  </TR>
-  <TR>
-    <TH WIDTH="8%" HEIGHT="45">&nbsp;V14</TH> 
-    <TD WIDTH="8%" HEIGHT="45" ALIGN="CENTER">&nbsp;5.15a</TD> 
-    <TD WIDTH="7%" HEIGHT="45" ALIGN="CENTER">&nbsp;8b</TD> 
-    <TD WIDTH="7%" HEIGHT="45" ALIGN="CENTER">&nbsp;B13</TD> 
-    <TD WIDTH="8%" HEIGHT="45" ALIGN="CENTER">&nbsp;E</TD> 
-    <TD WIDTH="6%" HEIGHT="45" ALIGN="CENTER">&nbsp;B3</TD> 
-    <TD WIDTH="9%" HEIGHT="45" ALIGN="CENTER">&nbsp;P12-</TD> 
-    <TD WIDTH="47%" HEIGHT="45" ALIGN="CENTER"><B><BIG>Beef Curtain</BIG></B>
-      (Granite Ranch)</TD> 
-  </TR>
-  <TR>
-    <TH WIDTH="8%" HEIGHT="45">&nbsp;V15</TH> 
-    <TD WIDTH="8%" HEIGHT="45" ALIGN="CENTER">&nbsp;5.15b</TD> 
-    <TD WIDTH="7%" HEIGHT="45" ALIGN="CENTER">&nbsp;8b+</TD> 
-    <TD WIDTH="7%" HEIGHT="45" ALIGN="CENTER">&nbsp;B14</TD> 
-    <TD WIDTH="8%" HEIGHT="45" ALIGN="CENTER">&nbsp;E+</TD> 
-    <TD WIDTH="6%" HEIGHT="45" ALIGN="CENTER">&nbsp;B3+</TD> 
-    <TD WIDTH="9%" HEIGHT="45" ALIGN="CENTER">&nbsp;P12</TD> 
-    <TD WIDTH="47%" HEIGHT="45" ALIGN="CENTER"><B>&nbsp;Somewhere
-      on</B>&nbsp;<B>GRANITE</B></TD> 
-  </TR>
-</TABLE></CENTER></P>
+        7a
+      </td>
+      <td>B7</td> 
+      <td>B+</td> 
+      <td>B1</td> 
+      <td>P8</td> 
+      <td>
+        <strong>High Plains Drifter </strong><small>(BMilk)</small><br>
+        <strong>Every Color You Are </strong><small>(Happies)</small><br>
+        <strong>The Gleaner </strong><small>(Happies)<br>
+        (Planet X, Pumping Monzonite, JT / center El Murray, HT / Pinch Route, HR )</small>
+      </td> 
+    </tr>
+    <tr>
+      <th>V7</th> 
+      <td>5.13a</td> 
+      <td>7a+</td> 
+      <td>B8</td> 
+      <td>C-</td> 
+      <td>B1+</td> 
+      <td>P8+/P9</td> 
+      <td>
+        <strong>Take the Force of the Blow </strong><small>(Happies)</small><br>
+        <strong>Come Together </strong><small>(Sads)</small><br>
+        <strong>Morning Dove White</strong><small> (Happies)<br>
+        (Caveman, Soar Eagle, JT / Cytogrinder, M)</small>
+      </td> 
+    </tr>
+    <tr>
+      <th>V8</th> 
+      <td>5.13</td> 
+      <td>7b</td> 
+      <td>
+        B8+<br>
 
-<P><CENTER><SMALL><HR WIDTH="440" NOSHADE COLOR="#000000"></SMALL><A
-HREF="index.html" TARGET="_top">Power and Rubber home</A> <B>|</B>
-<A HREF="buy.html" TARGET="_top">Buy some stuff</A><SMALL><HR
-WIDTH="440" NOSHADE COLOR="#000000"></SMALL></CENTER></P>
+        B9-
+      </td>
+      <td>C</td> 
+      <td>B2-</td> 
+      <td>P9+/P10-</td> 
+      <td>
+        <strong>Disco Diva</strong><small>(Happies)</small><br>
+        <strong>Fast Dance </strong><small>(Happies) <br>
+        (Midnight Lightning, YNP)</small>
+      </td> 
+    </tr>
+    <tr>
+      <th>V9</th> 
+      <td>5.13+</td> 
+      <td>7b+</td> 
+      <td>B9</td> 
+      <td>C+</td> 
+      <td>B2</td> 
+      <td>P10</td> 
+      <td>
+        <strong>Cholos</strong> <small>(Happies)</small><br>
+        <strong>Redrum</strong> <small>(Happies)</small><br>
+        <strong>Sailor Coon</strong> <small>(Sads)</small><br>
+        <strong>He Got Game</strong> <small>(Happies)<br>
+        (Never Say Never, Eldo / The Force, YNP / Sex after Death, HT)</small>
+      </td> 
+    </tr>
+    <tr>
+      <th>V10</th> 
+      <td>5.14a</td> 
+      <td>7c</td> 
+      <td>B9+</td> 
+      <td>D-</td> 
+      <td>B2</td> 
+      <td>P10+</td> 
+      <td>
+        <strong>Slow Dance</strong> <small>(Happies)</small>
+        <strong>Beefcake</strong><small>(Sads)</small><br>
+        <strong>Stained Glass </strong><small>(BMilk) <br>
+        (Meathook, HR / Dominator, Thriller YNP)</small>
+      </td> 
+    </tr>
+    <tr>
+      <th>V11</th> 
+      <td>5.14b</td> 
+      <td>7c+</td> 
+      <td>B10</td> 
+      <td>D</td> 
+      <td>B2+</td> 
+      <td>P11-</td> 
+      <td>
+        <strong>Slice and Dice</strong><small>(Sads)</small><br>
+        <strong>The Force</strong><small> (YNP)</small>
+      </td>
+    </tr>
+    <tr>
+      <th>V12</th> 
+      <td>5.14c</td> 
+      <td>8a</td> 
+      <td>B11</td> 
+      <td>D+</td> 
+      <td>B3-</td> 
+      <td>P11</td> 
+      <td>
+        <strong>Buttermilker </strong><small>(Bmilk)</small><br>
+        <strong>Mandala</strong><small> (BMilk)</small>
+      </td>
+    </tr>
+    <tr>
+      <th>V13</th> 
+      <td>5.14d</td> 
+      <td>8a+</td> 
+      <td>B12</td> 
+      <td>E-</td> 
+      <td>B3-</td> 
+      <td>P11+</td> 
+      <td>
+        <strong>Dominator </strong><small>(YNP)</small><br>
+        <strong>Superman</strong><small> (Cressbrook Crag X)</small><br>
+        <strong>Goldfish Trombone </strong><small>(Happies)</small>
+      </td> 
+    </tr>
+    <tr>
+      <th>V14</th> 
+      <td>5.15a</td> 
+      <td>8b</td> 
+      <td>B13</td> 
+      <td>E</td> 
+      <td>B3</td> 
+      <td>P12-</td> 
+      <td>
+        <strong>Beef Curtain</strong>
+        (Granite Ranch)</td> 
+    </tr>
+    <tr>
+      <th>V15</th> 
+      <td>5.15b</td> 
+      <td>8b+</td> 
+      <td>B14</td> 
+      <td>E+</td> 
+      <td>B3+</td> 
+      <td>P12</td> 
+      <td>
+        <strong>Somewhere
+        on</strong><strong>GRANITE</strong></td> 
+    </tr>
+  </table>
+</div>
 
-<P><CENTER>Problems or comments? Send your vibe to <A HREF="mailto:webmaster@fishproducts.com?subject=Webmaster"
-TARGET="_blank">webmaster@FishProducts.com</A></CENTER>
-
-</BODY>
-</HTML>
+[Power and Rubber home]({{ "/powerandrubber/" | prepend: site.baseurl }})
